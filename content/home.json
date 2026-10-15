@@ -7,7 +7,7 @@
   "h1": "Every brick, every clause. UK construction law, made clear.",
   "h1Html": "Every brick, every clause. <span class=\"hl\">UK construction law, made clear.</span>",
   "intro": "Free, practical guides for builders, subcontractors and clients: choosing the right contract, JCT and NEC explained, getting paid on time, running a project by the book and resolving disputes through mediation and adjudication.",
-  "heroHtml": "<p class=\"juris\">For <span>Builders</span><span>Subcontractors</span><span>Clients</span><span>Homeowners</span></p>",
+  "heroHtml": "<p class=\"juris\">For <span>Builders</span><span>Subcontractors</span><span>Clients</span><span>Homeowners</span></p><div class=\"hero-badge\" aria-hidden=\"true\"><span class=\"hb-k\">Payment notice due</span><strong>5 days</strong><span>after each payment due date</span></div>",
   "chips": [
     {
       "label": "JCT contracts",
@@ -178,6 +178,11 @@
           "badge": "Learn from cases"
         }
       ]
+    },
+    {
+      "type": "html",
+      "class": "calc-band",
+      "html": "<div class=\"calc\" data-calc><form class=\"calc-form\" novalidate><p class=\"eyebrow\">Free tool</p><h2>Payment deadline calculator</h2><p>Enter a payment due date to see the Construction Act deadlines under the Scheme for Construction Contracts. Your contract may set different periods, so check it.</p><label for=\"calc-due\">Payment due date</label><input id=\"calc-due\" name=\"due\" type=\"date\"><label for=\"calc-region\">Where is the project?</label><select id=\"calc-region\" name=\"region\"><option value=\"england-and-wales\">England and Wales</option><option value=\"scotland\">Scotland</option><option value=\"northern-ireland\">Northern Ireland</option></select><details><summary>Change the periods (if your contract differs)</summary><div class=\"calc-periods\"><div><label for=\"calc-pn\">Payment notice: days after due date</label><input id=\"calc-pn\" name=\"pn\" type=\"number\" min=\"0\" max=\"90\" value=\"5\"></div><div><label for=\"calc-fd\">Final date: days after due date</label><input id=\"calc-fd\" name=\"fd\" type=\"number\" min=\"0\" max=\"120\" value=\"17\"></div><div><label for=\"calc-pl\">Pay less notice: days before final date</label><input id=\"calc-pl\" name=\"pl\" type=\"number\" min=\"0\" max=\"60\" value=\"7\"></div></div></details></form><div class=\"calc-out\" aria-live=\"polite\"><h3>Your key dates</h3><ol class=\"calc-steps\" data-calc-out></ol><p class=\"calc-note\">Days are counted as section 116 of the Construction Act requires: the start date isn’t counted, and Christmas Day, Good Friday and bank holidays are skipped. <span data-calc-status>Loading bank holidays from GOV.UK…</span> Northern Ireland uses its own Construction Contracts Order. A guide, not legal advice: see <a href=\"/construction-payments/\">how the payment rules work</a>.</p></div></div>"
     },
     {
       "type": "deals",
