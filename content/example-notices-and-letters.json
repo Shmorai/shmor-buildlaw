@@ -1,0 +1,104 @@
+{
+  "updated": "2026-10-15",
+  "slug": "example-notices-and-letters",
+  "nav": "Free examples",
+  "navOrder": 8,
+  "title": "Free Example Construction Notices and Letters (UK)",
+  "description": "Free example wording for UK construction notices and letters: payment and pay less notices, suspension, extension of time, variations and a letter of claim.",
+  "keywords": [
+    "payment notice template",
+    "pay less notice template",
+    "payless notice example",
+    "notice of intention to suspend",
+    "extension of time letter",
+    "eot notice template",
+    "variation confirmation",
+    "letter of claim construction",
+    "chasing payment letter builder",
+    "construction letter template",
+    "free construction templates",
+    "retention release letter"
+  ],
+  "cardText": "Free example wording for payment and pay less notices, suspension, delay, variations and a letter of claim.",
+  "eyebrow": "Free advice · Examples",
+  "h1": "Free example notices and letters",
+  "intro": "Clear, well-timed notices win construction disputes. These examples show the information each notice needs. Adapt them to your contract: check its notice clause for the deadline, the person to address and how notices must be sent.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1666018215872-b98ffea7e6ab",
+    "alt": "Person writing on a sheet of paper with a pen",
+    "credit": "Sollange Brenis",
+    "creditUrl": "https://unsplash.com/@sollangeb"
+  },
+  "searchPlaceholder": "Search examples…",
+  "sections": [
+    {
+      "h2": "How to use these examples",
+      "html": "<ul><li>Text in <em>highlighted brackets</em> is for you to complete.</li>\n<li>Follow your contract’s notice clause: who to send it to, the address or email, and the method (some contracts require post or hand delivery).</li>\n<li>Keep proof of sending and receipt.</li>\n<li>These are examples, not legal advice. If a lot is at stake, have a professional check your notice before you send it.</li></ul>"
+    },
+    {
+      "h2": "Payment notice (from the payer)",
+      "html": "<p>Due no later than 5 days after the payment due date (Construction Act section 110A). It must state the sum the payer considers due and the basis on which it is calculated.</p><div class=\"letter\"><p><strong>PAYMENT NOTICE</strong></p><p>Contract: <em>[name and date of contract]</em> between <em>[payer]</em> and <em>[payee]</em></p><p>Payment cycle: <em>[valuation/application number]</em>. Due date: <em>[date]</em></p><p>Under clause <em>[x]</em> of the contract and section 110A of the Housing Grants, Construction and Regeneration Act 1996, we notify you that the sum we consider to be due at the due date is £<em>[amount]</em>.</p><p>This sum is calculated as follows: gross valuation £<em>[ ]</em>, less retention £<em>[ ]</em>, less previous payments £<em>[ ]</em>. A breakdown is attached.</p><p>Signed <em>[name, position]</em>, for and on behalf of <em>[payer]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Pay less notice (from the payer)",
+      "html": "<p>Must be given no later than the prescribed period before the final date for payment (7 days under the Scheme, unless the contract says otherwise). It must state the sum the payer considers due when the notice is given, and the basis of calculation.</p><div class=\"letter\"><p><strong>PAY LESS NOTICE</strong></p><p>Contract: <em>[contract]</em>. Payment cycle: <em>[number]</em>. Notified sum: £<em>[amount in the payment notice or application]</em>. Final date for payment: <em>[date]</em></p><p>Under clause <em>[x]</em> of the contract and section 111 of the Housing Grants, Construction and Regeneration Act 1996, we give notice that we intend to pay less than the notified sum. The sum we consider to be due on the date of this notice is £<em>[amount]</em>.</p><p>Basis of calculation: <em>[for example, valuation of items A–C reduced as set out in the attached schedule; deduction of £[ ] for defective work to [location], details attached]</em>.</p><p>Signed <em>[name, position]</em> for <em>[payer]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Notice of intention to suspend (from the payee)",
+      "html": "<p>Can be given if the notified sum isn’t paid in full by the final date and no effective pay less notice was given. At least 7 days’ notice is required (section 112).</p><div class=\"letter\"><p><strong>NOTICE OF INTENTION TO SUSPEND PERFORMANCE</strong></p><p>Contract: <em>[contract]</em></p><p>The sum of £<em>[amount]</em> was due to us by the final date for payment of <em>[date]</em> under payment cycle <em>[number]</em>. It has not been paid in full and no effective pay less notice was given.</p><p>Under section 112 of the Housing Grants, Construction and Regeneration Act 1996 <em>[and clause x of the contract]</em>, we give notice that, unless payment in full is received, we intend to suspend performance of <em>[all / the following]</em> of our obligations under the contract on <em>[date at least 7 days after this notice is given]</em>.</p><p>We will be entitled to our reasonable costs and expenses of suspension and an extension of time for the resulting delay.</p><p>Signed <em>[name]</em> for <em>[payee]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Delay notice and extension of time request",
+      "html": "<div class=\"letter\"><p><strong>NOTICE OF DELAY</strong></p><p>Contract: <em>[contract]</em>. Clause: <em>[e.g. JCT 2.27 / NEC4 61.3]</em></p><p>We give notice that progress of the works is being / is likely to be delayed by <em>[describe the cause, e.g. late issue of structural details for the first-floor frame requested on (date)]</em>.</p><p>This is a <em>[Relevant Event under clause x / compensation event under clause 60.1(x)]</em>. Based on our current programme, we estimate the delay to the completion date to be <em>[x weeks]</em>. Supporting information and a marked-up programme are attached. We will update you as the effects become clear.</p><p>We request an extension of time <em>[and reserve our right to claim loss and expense]</em>.</p><p>Signed <em>[name]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Confirmation of an oral instruction (variation)",
+      "html": "<div class=\"letter\"><p><strong>CONFIRMATION OF INSTRUCTION</strong></p><p>Contract: <em>[contract]</em></p><p>On <em>[date]</em> at <em>[site/meeting]</em>, <em>[name and role]</em> instructed us to <em>[describe the change]</em>.</p><p>We confirm this instruction under clause <em>[x]</em>. Please confirm in writing, or let us know immediately if this does not reflect your instruction. We will treat it as a variation to be valued under the contract <em>[our estimated cost is £[ ] and the estimated effect on the programme is [ ]]</em>.</p><p>Signed <em>[name]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Request for release of retention",
+      "html": "<div class=\"letter\"><p><strong>RELEASE OF RETENTION</strong></p><p>Contract: <em>[contract]</em></p><p><em>[Practical completion was certified on (date) / the rectification period ended on (date) and all notified defects were made good on (date)]</em>.</p><p>Under clause <em>[x]</em>, <em>[half of the / the remaining]</em> retention, £<em>[amount]</em>, is now due for release. Please include it in the next payment, with the payment notice required by the contract.</p><p>Signed <em>[name]</em>. Date <em>[date]</em></p></div>"
+    },
+    {
+      "h2": "Letter of claim (outline)",
+      "html": "<p>Under the Pre-Action Protocol for Construction and Engineering Disputes, a letter of claim should include at least the following. For a significant claim, take professional advice before sending one.</p><ol><li>The claimant’s full name and address, and the names of any experts already instructed.</li>\n<li>The full name and address of each proposed defendant.</li>\n<li>A clear summary of the facts.</li>\n<li>The basis of the claim, including the contract terms relied on.</li>\n<li>The nature of the relief claimed: if damages, a breakdown showing how they’re calculated.</li>\n<li>Where there is a previous claim or dispute, identifying it.</li></ol><p>The defendant should normally respond within 28 days, or a longer period agreed (up to 3 months).</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a payment application count as a payment notice?",
+      "a": "Yes, if the contract says so. Many contracts provide that the payee’s application is treated as the payment notice. If the payer then gives no valid pay less notice, the applied sum becomes payable."
+    },
+    {
+      "q": "What if I send a notice late?",
+      "a": "A late payment or pay less notice may be invalid, which can mean the notified sum must be paid in full. Late delay notices can reduce or remove your entitlement to an extension of time, particularly under NEC. Diarise every deadline."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "contract-administration",
+    "construction-disputes"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/1998/649/contents"
+    },
+    {
+      "title": "Pre-Action Protocol for Construction and Engineering Disputes (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_ced"
+    },
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    }
+  ]
+}

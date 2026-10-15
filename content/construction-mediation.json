@@ -1,0 +1,92 @@
+{
+  "updated": "2026-10-15",
+  "slug": "construction-mediation",
+  "short": "Mediation",
+  "title": "Construction Mediation: How It Works and When to Use It",
+  "description": "How mediation works for UK construction disputes, what a mediation day looks like, how to prepare, costs, and when courts can order or penalise a refusal.",
+  "keywords": [
+    "construction mediation",
+    "mediation",
+    "mediator",
+    "building dispute mediation",
+    "commercial mediation",
+    "mediation day",
+    "without prejudice",
+    "settlement agreement",
+    "refusal to mediate",
+    "court ordered mediation",
+    "small claims mediation",
+    "cedr",
+    "civil mediation council"
+  ],
+  "cardText": "What happens at a mediation, how to prepare, costs, and when courts can order you to mediate.",
+  "eyebrow": "Disputes · Mediation",
+  "h1": "Construction mediation: settling disputes without a fight",
+  "intro": "Mediation is a confidential, structured negotiation led by an independent mediator. It settles a large share of construction disputes, often in a single day, at a fraction of the cost of a trial, and the courts increasingly expect you to try it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1740933084056-078fac872bff",
+    "alt": "A conference room with a large table and chairs",
+    "credit": "Colin White",
+    "creditUrl": "https://unsplash.com/@ctw71"
+  },
+  "searchPlaceholder": "Search dispute guides…",
+  "sections": [
+    {
+      "h2": "What mediation is, and isn’t",
+      "html": "<ul><li><strong>Voluntary:</strong> no one can be forced to settle. Either party can walk away.</li>\n<li><strong>Confidential and without prejudice:</strong> what’s said generally can’t be used later in court or arbitration.</li>\n<li><strong>Led by a neutral mediator:</strong> who helps the parties negotiate but doesn’t decide who’s right.</li>\n<li><strong>Binding only once signed:</strong> a settlement becomes binding when it’s written down and signed by both parties.</li></ul>"
+    },
+    {
+      "h2": "What happens on the day",
+      "html": "<ol><li><strong>Before the day:</strong> the parties sign a mediation agreement and exchange short position papers and key documents.</li>\n<li><strong>Opening:</strong> often a joint session where each side outlines its position, though many construction mediations now go straight to private sessions.</li>\n<li><strong>Private sessions (“caucuses”):</strong> the mediator moves between rooms, testing each side’s case in confidence and carrying offers.</li>\n<li><strong>Settlement:</strong> if terms are agreed, they’re written up and signed before everyone leaves.</li></ol>"
+    },
+    {
+      "h2": "Preparing well",
+      "html": "<ul><li>Bring someone with <strong>authority to settle</strong>, and a realistic idea of your best and worst outcomes.</li>\n<li>Know your numbers: a clear schedule of what’s claimed, what’s agreed and what’s disputed.</li>\n<li>Work out your <strong>costs to date and costs to trial</strong>, and the risk-adjusted value of the claim.</li>\n<li>Think about non-money terms: completing defects, a payment plan, future work, references.</li>\n<li>Have a draft settlement agreement ready.</li></ul>"
+    },
+    {
+      "h2": "Costs, and when the court expects you to mediate",
+      "html": "<p>The parties usually share the mediator’s fee and venue costs and pay their own legal costs. Courts in England and Wales have long been able to penalise an <strong>unreasonable refusal to mediate</strong> through costs orders (<em>Halsey v Milton Keynes</em> [2004]). In <em>Churchill v Merthyr Tydfil</em> [2023] the Court of Appeal held that courts can order parties to engage in non-court dispute resolution, and since <strong>1 October 2024</strong> the Civil Procedure Rules expressly give courts that power. For small money claims, HMCTS refers most specified money claims on the small claims track to its free <strong>Small Claims Mediation Service</strong>.</p>"
+    },
+    {
+      "h2": "Finding a mediator",
+      "html": "<p>Look for a mediator with construction experience, accredited by a recognised body. The <strong>Civil Mediation Council</strong> registers mediation providers and individual mediators, and construction specialists are available through bodies such as CEDR, the Chartered Institute of Arbitrators and RICS. Our <a href=\"/services/\">services page</a> explains how we can introduce you to an accredited mediator.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I be forced to mediate?",
+      "a": "Since October 2024, courts in England and Wales can order parties to engage in ADR such as mediation, where proportionate. They can’t force you to settle. Refusing unreasonably can also lead to costs penalties."
+    },
+    {
+      "q": "Is a mediation agreement legally binding?",
+      "a": "A signed settlement agreement reached at mediation is a binding contract. Until it’s signed, nothing is agreed, which is why settlements are written up on the day."
+    },
+    {
+      "q": "Can we mediate during an adjudication?",
+      "a": "Yes. Mediation can happen at any stage, including before, during or after adjudication or court proceedings. Some parties mediate after an adjudication decision to settle the remaining issues."
+    }
+  ],
+  "related": [
+    "construction-disputes",
+    "adjudication",
+    "blog/court-ordered-mediation"
+  ],
+  "sources": [
+    {
+      "title": "Civil Procedure Rules, Part 3: the court’s case management powers (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part03"
+    },
+    {
+      "title": "Churchill v Merthyr Tydfil County Borough Council [2023] EWCA Civ 1416 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2023/1416"
+    },
+    {
+      "title": "Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2004/576"
+    },
+    {
+      "title": "Pre-Action Protocol for Construction and Engineering Disputes (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_ced"
+    }
+  ]
+}

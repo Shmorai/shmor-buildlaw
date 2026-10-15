@@ -1,0 +1,94 @@
+{
+  "updated": "2026-10-15",
+  "slug": "construction-contracts",
+  "nav": "Contracts",
+  "navOrder": 1,
+  "title": "Construction Contracts & Procurement Routes in the UK",
+  "description": "The main types of UK construction contract and procurement route compared: traditional, design and build, management, two-stage and frameworks, plus pricing.",
+  "keywords": [
+    "construction contract",
+    "building contract",
+    "types of construction contract",
+    "procurement route",
+    "traditional procurement",
+    "design and build",
+    "management contracting",
+    "construction management",
+    "two stage tender",
+    "lump sum contract",
+    "cost plus",
+    "target cost",
+    "standard form contract",
+    "letter of intent"
+  ],
+  "cardText": "Traditional, design and build, management and two-stage routes, pricing methods and standard forms compared.",
+  "eyebrow": "Contracts & methods",
+  "h1": "Types of construction contract and procurement route",
+  "intro": "Before you choose a contract, choose how the project will be procured: who designs, who carries the risk and how the price is set. This guide compares the main UK routes and the standard forms that go with them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505504714-4ded1bc247e7",
+    "alt": "Two men sitting at a table with papers and a pen, discussing an agreement",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "searchPlaceholder": "Search contract guides…",
+  "sections": [
+    {
+      "h2": "Why the procurement route comes first",
+      "html": "<p>Every building project answers the same questions: who designs it, who builds it, who carries the risk of things going wrong, and how the price is worked out. The answers make up the <strong>procurement route</strong>, and they decide which standard form contract fits. Picking a contract first and forcing the project into it is a common cause of disputes.</p>"
+    },
+    {
+      "h2": "The main procurement routes",
+      "html": "<table><thead><tr><th>Route</th><th>How it works</th><th>Who carries design risk</th><th>Typical forms</th></tr></thead><tbody><tr><td><strong>Traditional</strong></td><td>The client’s consultants complete the design, then contractors tender to build it.</td><td>Client (through its designers)</td><td>JCT Minor Works, Intermediate, Standard Building Contract; NEC4 ECC Options A–B</td></tr><tr><td><strong>Design and build</strong></td><td>One contractor designs and builds, often developing the client’s outline design (“Employer’s Requirements”).</td><td>Contractor, to the extent set by the contract</td><td>JCT Design and Build; NEC4 ECC with contractor design</td></tr><tr><td><strong>Management contracting</strong></td><td>A management contractor is appointed early and lets the work in packages, which it contracts for.</td><td>Client</td><td>JCT Management Building Contract</td></tr><tr><td><strong>Construction management</strong></td><td>The client contracts directly with each trade contractor; a construction manager coordinates them for a fee.</td><td>Client</td><td>JCT Construction Management Appointment and Trade Contract; NEC4 ECC Option F (management contract)</td></tr><tr><td><strong>Two-stage tendering</strong></td><td>A contractor is chosen early on a pre-construction agreement, then the price is agreed for the main works.</td><td>Depends on the main contract</td><td>JCT Pre-Construction Services Agreement, then a main contract</td></tr><tr><td><strong>Frameworks and alliances</strong></td><td>Longer-term arrangements under which a series of projects is called off, often with shared targets.</td><td>Set per project</td><td>JCT Framework Agreement; NEC4 Framework Contract and Alliance Contract; PPC2000; TAC-1</td></tr></tbody></table>"
+    },
+    {
+      "h2": "How the price is set",
+      "html": "<ul><li><strong>Lump sum (fixed price):</strong> a single price for defined work, adjusted only for variations and other events the contract allows. Gives the client price certainty if the design is complete.</li>\n<li><strong>Measure and value (remeasurement):</strong> work is measured as it is done and valued at agreed rates, often from bills of quantities or a schedule of rates. Useful where quantities are uncertain.</li>\n<li><strong>Target cost:</strong> the contractor is paid its actual cost plus a fee, and any saving or overrun against a target is shared in agreed proportions (for example NEC4 ECC Options C and D).</li>\n<li><strong>Cost reimbursable (cost plus):</strong> actual cost plus a fee. Flexible, but the client carries most of the cost risk (for example JCT Prime Cost, NEC4 ECC Option E).</li></ul>"
+    },
+    {
+      "h2": "Standard forms or a bespoke contract?",
+      "html": "<p>Most UK projects use a standard form, usually <a href=\"/jct-contracts/\">JCT</a> or <a href=\"/nec-contracts/\">NEC</a>, often with a schedule of amendments. Standard forms are widely understood, comply with the Construction Act, and have been interpreted by the courts many times, which makes outcomes more predictable. Heavily amended or bespoke contracts can shift risk in ways that aren’t obvious, so read any amendments line by line.</p><p>Other forms you may meet: <strong>RIBA</strong> building contracts (domestic and concise) for smaller projects designed by an architect; the <strong>FMB</strong> plain-English contracts used by some builders; <strong>FIDIC</strong> on international work; and <strong>PPC2000</strong> and <strong>TAC-1</strong> for partnering. In Scotland, JCT forms are published in adapted versions by the <strong>Scottish Building Contract Committee (SBCC)</strong>.</p>"
+    },
+    {
+      "h2": "Letters of intent: a common trap",
+      "html": "<p>A letter of intent lets work start before the contract is signed. It can be useful, but problems arise when the formal contract is never signed: the parties can end up arguing over which terms apply, or whether only a reasonable sum is payable for work done. If you must use one, give it a cap on spend, a clear scope and an end date, and push to sign the full contract quickly.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the most common building contract in the UK?",
+      "a": "JCT standard forms are the most widely used on private-sector building work, while NEC4 is widely used on public-sector and infrastructure projects. The right one depends on the project, not on popularity."
+    },
+    {
+      "q": "Does a building contract have to be in writing?",
+      "a": "No, a contract can be oral or partly written. But since 2011 the Construction Act’s payment and adjudication rules apply to oral and partly written construction contracts too, and a written contract avoids most arguments about what was agreed."
+    },
+    {
+      "q": "What’s the difference between design and build and traditional?",
+      "a": "In a traditional contract the client’s team designs and the contractor builds what it’s told. In design and build, the contractor takes on design responsibility too, so the client deals with one party, but has less control over design details once the contract is let."
+    }
+  ],
+  "related": [
+    "jct-contracts",
+    "nec-contracts",
+    "key-contract-terms"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Local Democracy, Economic Development and Construction Act 2009, Part 8 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2009/20/part/8"
+    },
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    }
+  ]
+}

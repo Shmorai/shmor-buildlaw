@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-15",
+  "slug": "case-studies",
+  "nav": "Case studies",
+  "navOrder": 7,
+  "title": "Construction Law Case Studies: Key UK Cases Explained",
+  "description": "Landmark UK construction law cases in plain English, from Macob and Grove to Bresco, Triple Point and URS v BDW, plus illustrative worked examples.",
+  "keywords": [
+    "construction case law",
+    "construction law cases",
+    "case studies",
+    "grove v s&t",
+    "s&t v grove",
+    "bresco",
+    "triple point",
+    "makdessi",
+    "cavendish v makdessi",
+    "north midland v cyden",
+    "walter lilly",
+    "urs v bdw",
+    "churchill v merthyr",
+    "macob",
+    "halsey",
+    "adjudication case law",
+    "liquidated damages case"
+  ],
+  "cardText": "Landmark UK construction cases in plain English, plus worked examples of everyday disputes.",
+  "eyebrow": "Learn from real cases",
+  "h1": "Construction law case studies",
+  "intro": "The rules on this site were shaped by real disputes. Here are the landmark UK cases every builder and client should know, in plain English, followed by illustrative worked examples showing how the rules apply on everyday projects.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1740504942599-897232a3f706",
+    "alt": "View across the City of London from the top of a building",
+    "credit": "Henrique Ferreira",
+    "creditUrl": "https://unsplash.com/@rickpsd"
+  },
+  "searchPlaceholder": "Search case studies…",
+  "sections": [
+    {
+      "h2": "Landmark cases: payment and adjudication",
+      "html": "<div class=\"case\"><h3>Macob Civil Engineering v Morrison Construction</h3><span class=\"cite\">[1999] EWHC Technology 254 (TCC)</span><p><strong>What happened:</strong> One of the first disputes under the new adjudication regime. The losing party argued it didn’t have to comply with the adjudicator’s decision because it disputed the decision’s validity.</p><p><strong>What the court decided:</strong> The decision was binding and had to be complied with until the dispute was finally determined. The court would enforce it, even if it might later turn out to be wrong.</p><p><strong>The lesson:</strong> Adjudication is “pay now, argue later”. Challenging a decision doesn’t stop it being enforced.</p></div><div class=\"case\"><h3>S&amp;T (UK) Ltd v Grove Developments Ltd</h3><span class=\"cite\">[2018] EWCA Civ 2448</span><p><strong>What happened:</strong> The employer failed to serve a valid payment or pay less notice in time, so the contractor’s interim application became the notified sum. The employer then tried to start its own adjudication on the true value of the work instead of paying.</p><p><strong>What the court decided:</strong> The employer had to pay the notified sum first. Once it had paid, it could then bring a separate adjudication about the true value of the work for that interim payment.</p><p><strong>The lesson:</strong> Missing a notice means paying first and arguing about value afterwards. Payers must run their notice deadlines precisely.</p></div><div class=\"case\"><h3>Bresco Electrical Services v Michael J Lonsdale (Electrical)</h3><span class=\"cite\">[2020] UKSC 25</span><p><strong>What happened:</strong> A subcontractor in liquidation referred a claim to adjudication. The main contractor said a company in liquidation couldn’t adjudicate because insolvency set-off rules meant there was only a single net balance.</p><p><strong>What the court decided:</strong> The Supreme Court held that a company in liquidation is entitled to refer a dispute to adjudication. Whether the decision is enforced, for example where there is a cross-claim, is a separate question for the court.</p><p><strong>The lesson:</strong> Insolvent companies (and their liquidators) can use adjudication to recover sums, but enforcement may be harder.</p></div>"
+    },
+    {
+      "h2": "Landmark cases: delay, damages and dispute resolution",
+      "html": "<div class=\"case\"><h3>Cavendish Square Holding v Makdessi; ParkingEye v Beavis</h3><span class=\"cite\">[2015] UKSC 67</span><p><strong>What happened:</strong> Two cases (neither about construction) asked when a contract clause setting out what happens on breach is an unenforceable penalty.</p><p><strong>What the court decided:</strong> The Supreme Court replaced the old “genuine pre-estimate of loss” test. A clause is a penalty only if it imposes a detriment out of all proportion to the innocent party’s legitimate interest in performance.</p><p><strong>The lesson:</strong> Liquidated damages rates agreed between commercial parties will rarely be struck down as penalties.</p></div><div class=\"case\"><h3>Triple Point Technology v PTT</h3><span class=\"cite\">[2021] UKSC 29</span><p><strong>What happened:</strong> A contractor was late, and the client terminated before the work was complete. The question was whether liquidated damages applied when the work was never completed by that contractor.</p><p><strong>What the court decided:</strong> Liquidated damages accrued from the completion date up to termination. After that, the client could claim general damages for its losses.</p><p><strong>The lesson:</strong> Termination doesn’t wipe out delay damages already accrued. Check how your contract deals with damages after termination.</p></div><div class=\"case\"><h3>Walter Lilly &amp; Co v Mackay</h3><span class=\"cite\">[2012] EWHC 1773 (TCC)</span><p><strong>What happened:</strong> A JCT contract for a luxury house in London ran heavily late, with arguments about the causes of delay and the contractor’s claims.</p><p><strong>What the court decided:</strong> Under the JCT wording, where delay was caused by a Relevant Event and a contractor risk event at the same time (concurrent delay), the contractor was entitled to a full extension of time. The court also gave guidance on global claims.</p><p><strong>The lesson:</strong> Under unamended JCT forms, concurrent delay usually favours the contractor on time, though not necessarily on money.</p></div><div class=\"case\"><h3>North Midland Building v Cyden Homes</h3><span class=\"cite\">[2018] EWCA Civ 1744</span><p><strong>What happened:</strong> The contract was amended to say that any delay caused by a Relevant Event which was concurrent with another delay for which the contractor was responsible would not be taken into account in deciding an extension of time.</p><p><strong>What the court decided:</strong> The clause was clear and enforceable. The prevention principle doesn’t stop parties agreeing how concurrent delay is dealt with.</p><p><strong>The lesson:</strong> Read amendments on concurrent delay carefully: they can shift the risk of delay to the contractor.</p></div><div class=\"case\"><h3>Churchill v Merthyr Tydfil County Borough Council</h3><span class=\"cite\">[2023] EWCA Civ 1416</span><p><strong>What happened:</strong> A neighbour dispute about Japanese knotweed raised the question whether a court could make a party use the council’s complaints procedure before suing.</p><p><strong>What the court decided:</strong> The Court of Appeal held that courts can lawfully stay proceedings for, or order, the parties to engage in non-court dispute resolution, provided it is proportionate and doesn’t impair the right to a judicial hearing. The Civil Procedure Rules were amended in October 2024 to reflect this.</p><p><strong>The lesson:</strong> Expect courts to push construction disputes towards mediation and other ADR. Refusing without good reason is risky.</p></div>"
+    },
+    {
+      "h2": "Landmark cases: defects and building safety",
+      "html": "<div class=\"case\"><h3>URS Corporation v BDW Trading</h3><span class=\"cite\">[2025] UKSC 21</span><p><strong>What happened:</strong> A developer sold flats in two developments, then discovered structural design defects and paid to fix them, although it no longer owned the buildings. It sued the structural engineer, relying partly on the Building Safety Act 2022’s extended time limits.</p><p><strong>What the court decided:</strong> The Supreme Court dismissed the engineer’s appeal on all grounds. Among other things, it held that the Building Safety Act’s retrospective extension of the Defective Premises Act time limit could benefit the developer’s claims, that a developer can be owed duties under the Defective Premises Act, and that repair costs weren’t irrecoverable just because the developer chose to pay them.</p><p><strong>The lesson:</strong> Designers and contractors on residential projects can face claims decades after completion. Keep records and check insurance.</p></div>"
+    },
+    {
+      "h2": "Worked examples: how the rules play out",
+      "html": "<p>These examples are <strong>illustrative only</strong>. They are not real cases, and the figures are made up to show how the rules work.</p><div class=\"case example\"><h3>The missed payment notice</h3><span class=\"cite\">Illustrative example · Subcontractor</span><p><strong>The situation:</strong> A groundworks subcontractor applies for £48,000 on the due date. The main contractor thinks the work is worth £30,000 but issues no payment notice and no pay less notice before the final date.</p><p><strong>How the rules apply:</strong> The application becomes the notified sum. The main contractor must pay £48,000 by the final date. The subcontractor can give 7 days’ notice of intention to suspend and, if necessary, adjudicate. The main contractor can pay, then bring its own “true value” adjudication.</p><p><strong>Takeaway:</strong> Payers: diarise every notice deadline. Payees: make sure your application is valid and served exactly as the contract requires.</p></div><div class=\"case example\"><h3>The unrecorded extras</h3><span class=\"cite\">Illustrative example · Homeowner</span><p><strong>The situation:</strong> During a kitchen extension, the homeowner asks the builder to move a wall and upgrade the windows. Nothing is written down. The final invoice is much higher than the quote and the homeowner refuses to pay the difference.</p><p><strong>How the rules apply:</strong> The builder can claim a reasonable sum for extra work the homeowner asked for, but proving what was agreed is hard for both sides. The homeowner has Consumer Rights Act rights if the work isn’t done with reasonable care and skill.</p><p><strong>Takeaway:</strong> Agree every change in writing, with a price, before the work is done. A text message is better than nothing.</p></div><div class=\"case example\"><h3>Late design information and delay</h3><span class=\"cite\">Illustrative example · JCT contractor</span><p><strong>The situation:</strong> On a JCT Intermediate project, the architect issues structural details three weeks late, delaying the frame. The contractor finishes four weeks late and the employer deducts liquidated damages for four weeks.</p><p><strong>How the rules apply:</strong> Late information from the employer’s side is a Relevant Event. If the contractor gave prompt notice and particulars, it should get an extension of time for the critical delay caused, reducing or removing the damages, and may claim loss and expense for the extra time.</p><p><strong>Takeaway:</strong> Notify delay as soon as it becomes apparent, with evidence linked to the programme.</p></div><div class=\"case example\"><h3>Retention held too long</h3><span class=\"cite\">Illustrative example · Specialist subcontractor</span><p><strong>The situation:</strong> A cladding subcontractor finished its work two years ago. The main contract’s rectification period has ended, but the main contractor says it will only release retention when it receives its own retention from the client.</p><p><strong>How the rules apply:</strong> Release terms that depend on payment under another contract may be ineffective under the Construction Act. The subcontractor should apply in writing citing its own subcontract terms, then consider adjudication if the sum isn’t paid.</p><p><strong>Takeaway:</strong> Read your subcontract’s retention clause, and diarise release dates from day one.</p></div><div class=\"case example\"><h3>Settling a final account at mediation</h3><span class=\"cite\">Illustrative example · Main contractor and developer</span><p><strong>The situation:</strong> After completion, the contractor’s final account claims far more than the developer’s quantity surveyor values it at, with disputes over 60 variations and an extension of time. Both sides face large costs if it goes to court.</p><p><strong>How the rules apply:</strong> The parties agree to mediate under the Pre-Action Protocol. Each side prepares a schedule of agreed and disputed items and its costs to trial. With the mediator’s help, they settle on a figure and a payment date in one day.</p><p><strong>Takeaway:</strong> Mediation works best when both sides know their numbers and bring people with authority to settle.</p></div><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I read the full judgments?",
+      "a": "Many judgments are free on Find Case Law, run by The National Archives, and on BAILII. We link to the full text at the end of this page."
+    },
+    {
+      "q": "Do these cases apply in Scotland?",
+      "a": "Decisions of the UK Supreme Court on UK-wide legislation are relevant across the UK, but contract law in Scotland differs in places. English Court of Appeal and High Court decisions can be persuasive in Scotland but aren’t binding there. Take Scottish advice for Scottish projects."
+    }
+  ],
+  "related": [
+    "adjudication",
+    "key-contract-terms",
+    "construction-disputes"
+  ],
+  "sources": [
+    {
+      "title": "Macob Civil Engineering Ltd v Morrison Construction Ltd [1999] EWHC Technology 254 (BAILII)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/TCC/1999/254.html"
+    },
+    {
+      "title": "S&T (UK) Ltd v Grove Developments Ltd [2018] EWCA Civ 2448 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/2448"
+    },
+    {
+      "title": "Bresco Electrical Services Ltd v Michael J Lonsdale (Electrical) Ltd [2020] UKSC 25 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2020/25"
+    },
+    {
+      "title": "Cavendish Square Holding BV v Makdessi; ParkingEye Ltd v Beavis [2015] UKSC 67 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2015/67"
+    },
+    {
+      "title": "Triple Point Technology Inc v PTT Public Company Ltd [2021] UKSC 29 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2021/29"
+    },
+    {
+      "title": "Walter Lilly & Co Ltd v Mackay [2012] EWHC 1773 (TCC) (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2012/1773"
+    },
+    {
+      "title": "North Midland Building Ltd v Cyden Homes Ltd [2018] EWCA Civ 1744 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1744"
+    },
+    {
+      "title": "Churchill v Merthyr Tydfil County Borough Council [2023] EWCA Civ 1416 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2023/1416"
+    },
+    {
+      "title": "URS Corporation Ltd v BDW Trading Ltd [2025] UKSC 21 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2025/21"
+    }
+  ]
+}

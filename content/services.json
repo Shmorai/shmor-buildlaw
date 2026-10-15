@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-15",
+  "slug": "services",
+  "nav": "Services",
+  "navOrder": 10,
+  "title": "Construction Law Services: Expert Help for Your Project",
+  "description": "Get expert help with building contracts, payment notices, adjudication, mediation, contract administration and defects from independent UK professionals.",
+  "keywords": [
+    "construction solicitor",
+    "construction lawyer",
+    "construction law services",
+    "contract review",
+    "jct contract review",
+    "adjudication support",
+    "construction mediator",
+    "quantity surveyor",
+    "contract administration services",
+    "expert witness construction",
+    "construction claims consultant",
+    "building dispute help"
+  ],
+  "cardText": "Contract reviews, payment help, adjudication, mediation, QS and expert reports from independent professionals.",
+  "eyebrow": "Expert help",
+  "h1": "Expert help for your building project",
+  "intro": "Our guides answer most questions. When you need advice on your own contract or dispute, we introduce you to independent, qualified construction professionals. You’ll get a clear fee quote from them before any work starts.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+    "alt": "Construction workers in hard hats and hi-vis standing on a site",
+    "credit": "Scott Blake",
+    "creditUrl": "https://unsplash.com/@sunburned_surveyor"
+  },
+  "search": false,
+  "byline": false,
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<ol><li><strong>Tell us what you need:</strong> a short description of your project, your role (builder, subcontractor, client or homeowner), the contract and the deadline you’re facing.</li>\n<li><strong>We match you</strong> with a suitable independent professional: a solicitor, surveyor, mediator or expert.</li>\n<li><strong>You get a quote</strong> directly from them, and decide whether to go ahead. There’s no obligation.</li></ol><p><a href=\"https://shmor.ai/contact/\"><strong>Make an enquiry →</strong></a></p><p class=\"tip\"><strong>Facing a deadline?</strong> Payment and pay less notices, adjudication responses and NEC notifications have strict time limits. Say so in your enquiry, and don’t wait for a reply before protecting your position: our <a href=\"/example-notices-and-letters/\">free examples</a> may help.</p>"
+    },
+    {
+      "h2": "Who you’ll work with",
+      "html": "<p>Services are provided by independent professionals under their own terms of engagement, not by BuildLaw. Depending on what you need, that may be:</p><ul><li>a <strong>solicitor</strong> regulated by the Solicitors Regulation Authority (you can check them on the SRA register);</li>\n<li>a <strong>chartered surveyor or quantity surveyor</strong> regulated by RICS;</li>\n<li>an <strong>accredited mediator</strong>, adjudicator or arbitrator;</li>\n<li>a <strong>chartered engineer</strong> or delay expert for technical reports.</li></ul><p>Always check a professional’s regulation and insurance before instructing them. BuildLaw may receive a referral fee from a provider, which won’t increase the fee you’re quoted; the provider will tell you about any referral arrangement.</p>"
+    },
+    {
+      "h2": "Free and low-cost help",
+      "html": "<ul><li><strong>Homeowners:</strong> the Citizens Advice consumer service, and any ADR scheme run by your builder’s trade association.</li>\n<li><strong>Small claims:</strong> for most money claims up to £10,000 in England and Wales, the court’s free small claims mediation service.</li>\n<li><strong>Everyone:</strong> our free <a href=\"/construction-payments/\">guides</a>, <a href=\"/case-studies/\">case studies</a> and <a href=\"/example-notices-and-letters/\">example notices</a>.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is BuildLaw a law firm?",
+      "a": "No. BuildLaw publishes free information and introduces you to independent professionals. Any advice you receive comes from them, under their own terms and regulation."
+    },
+    {
+      "q": "How much will it cost?",
+      "a": "It depends on the work. The professional you’re introduced to will give you a fee quote, or explain how they charge, before you agree to anything. We don’t publish prices because every project is different."
+    },
+    {
+      "q": "Do you help builders as well as clients?",
+      "a": "Yes. We help contractors, subcontractors, consultants, developers and homeowners. Where there’s a dispute, we won’t introduce both sides to the same professional."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "html",
+      "class": "services",
+      "title": "Services we can arrange",
+      "intro": "Choose the help you need. Every service is delivered by an independent, qualified professional.",
+      "html": "<div class=\"svc-grid\"><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z\"/><path d=\"M14 2v4a2 2 0 0 0 2 2h4\"/><path d=\"M10 9H8\"/><path d=\"M16 13H8\"/><path d=\"M16 17H8\"/></svg><h3>Contract review & drafting</h3><p>JCT, NEC and bespoke building contracts and subcontracts checked, explained and amended before you sign.</p><p class=\"who\">Delivered by an SRA-regulated construction solicitor</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\"/><path d=\"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4\"/></svg><h3>Payment & notices health check</h3><p>Applications, payment notices and pay less notices set up properly, and help recovering money you’re owed.</p><p class=\"who\">Construction solicitor or chartered quantity surveyor</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"M7 21h10\"/><path d=\"M12 3v18\"/><path d=\"M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2\"/></svg><h3>Adjudication support</h3><p>Referring a dispute, or responding to one, within the tight statutory timetable.</p><p class=\"who\">Construction solicitor or experienced claims consultant</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg><h3>Mediation</h3><p>A neutral, accredited mediator to help you settle a final account, defects or delay dispute without court.</p><p class=\"who\">Accredited civil and commercial mediator</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"8\" y=\"2\" width=\"8\" height=\"4\" rx=\"1\"/><path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"/><path d=\"m9 14 2 2 4-4\"/></svg><h3>Contract administration & QS</h3><p>Valuations, variations, extensions of time and final accounts managed by the book.</p><p class=\"who\">Chartered quantity surveyor (RICS)</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"m21 21-4.3-4.3\"/></svg><h3>Defects & expert reports</h3><p>Independent inspection and reports on defects, delay or quantum for negotiation, adjudication or court.</p><p class=\"who\">Chartered surveyor, engineer or delay expert</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8\"/><path d=\"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/></svg><h3>Homeowner contract pack</h3><p>Help choosing and completing the right contract for an extension, loft or renovation, before work starts.</p><p class=\"who\">Construction solicitor or chartered surveyor</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5\"/><path d=\"M14 6a6 6 0 0 1 6 6v3\"/><path d=\"M4 15v-3a6 6 0 0 1 6-6\"/><path d=\"M2 16a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1z\"/></svg><h3>Training for builders</h3><p>Practical in-house sessions on the payment rules, JCT basics and keeping records that win disputes.</p><p class=\"who\">Construction lawyers and surveyors</p><span class=\"cta\">Enquire →</span></a></div>"
+    }
+  ],
+  "related": [
+    "construction-disputes",
+    "construction-mediation",
+    "adjudication"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "updated": "2026-10-15",
+  "slug": "contract-administration",
+  "nav": "Administration",
+  "navOrder": 4,
+  "title": "Construction Contract Administration: A Practical Guide",
+  "description": "Running a building contract by the book: instructions, variations, extensions of time, loss and expense, practical completion, defects and the final account.",
+  "keywords": [
+    "contract administration",
+    "contract administrator",
+    "variations",
+    "variation",
+    "change control",
+    "extension of time",
+    "eot",
+    "loss and expense",
+    "practical completion",
+    "certificate of practical completion",
+    "rectification period",
+    "final account",
+    "final certificate",
+    "instructions",
+    "delay notice",
+    "site diary",
+    "quantity surveyor",
+    "employers agent"
+  ],
+  "cardText": "Instructions, variations, extensions of time, loss and expense, practical completion, defects and the final account.",
+  "eyebrow": "Running a project",
+  "h1": "Contract administration: running a building contract by the book",
+  "intro": "Most construction disputes start with administration: a variation never instructed in writing, a delay never notified, a certificate never issued. Good administration costs little and wins arguments later.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1774600166818-e554a4d4c376",
+    "alt": "Two women in hard hats reviewing blueprints indoors",
+    "credit": "Fiqih Alfarish",
+    "creditUrl": "https://unsplash.com/@fiqihalfarish"
+  },
+  "searchPlaceholder": "Search administration guides…",
+  "sections": [
+    {
+      "h2": "Who administers the contract?",
+      "html": "<p>Each standard form names someone to run it day to day. Under traditional <strong>JCT</strong> forms it’s the <strong>Architect/Contract Administrator</strong>; under JCT Design and Build, the <strong>Employer’s Agent</strong> acts for the employer; under <strong>NEC4</strong>, the <strong>Project Manager</strong> (with the <strong>Supervisor</strong> for quality). A quantity surveyor usually values work and variations. When certifying, an administrator must act honestly, fairly and reasonably, even if paid by the client.</p>"
+    },
+    {
+      "h2": "Instructions and variations",
+      "html": "<ul><li><strong>Get it in writing.</strong> Most contracts require instructions in writing. If you receive an oral instruction, confirm it in writing straight away (see our <a href=\"/example-notices-and-letters/\">example confirmation</a>).</li>\n<li><strong>Know what counts as a variation:</strong> a change to the design, quality or quantity of the work, or to the conditions under which it’s done (such as access or working hours).</li>\n<li><strong>Valuation:</strong> variations are valued under the contract rules: often by reference to contract rates, then fair rates, or by quotation. Agree the value before or promptly after doing the work where you can.</li>\n<li><strong>Provisional sums:</strong> allowances for undefined work are expended by instruction and valued like variations.</li></ul>"
+    },
+    {
+      "h2": "Delays and extensions of time",
+      "html": "<p>If the works are delayed by an event the contract puts at the client’s risk (a <strong>Relevant Event</strong> under JCT, a <strong>compensation event</strong> under NEC), the contractor is entitled to an <strong>extension of time (EOT)</strong>. That protects it from liquidated damages for the period of the extension.</p><ol><li><strong>Notify promptly.</strong> JCT requires notice “forthwith” when it becomes reasonably apparent that progress is or is likely to be delayed; NEC4 has an 8-week time bar for notifying compensation events.</li>\n<li><strong>Give particulars:</strong> the cause, the expected effect on completion and supporting evidence, updated as things develop.</li>\n<li><strong>Use the programme:</strong> show the critical path and how the event affects it.</li></ol><p>Without an EOT mechanism for client-caused delay, the client could lose the right to liquidated damages (the “prevention principle”), which is why standard forms include one. Concurrent delay is handled differently by different contracts: see <em>North Midland Building v Cyden Homes</em> in our <a href=\"/case-studies/\">case studies</a>.</p>"
+    },
+    {
+      "h2": "Loss and expense",
+      "html": "<p>Time and money are separate. An EOT doesn’t automatically pay the contractor’s extra costs of being on site longer. Under JCT, the contractor applies for <strong>direct loss and/or expense</strong> caused by Relevant Matters, again with prompt notice and supporting information. Under NEC, the cost effect is part of the compensation event assessment. Keep records of resources, costs and their link to each event.</p>"
+    },
+    {
+      "h2": "Practical completion, defects and the final account",
+      "html": "<ul><li><strong>Practical completion</strong> is when the works are complete for practical purposes, apart from very minor items. It usually triggers release of half the retention, the start of the rectification period and the end of liquidated damages, and insurance and security often pass to the client.</li>\n<li><strong>Rectification (defects) period:</strong> the contractor must come back and fix defects notified during the period, usually at its own cost. Don’t refuse access to the contractor: it can reduce what you can claim.</li>\n<li><strong>Final account and final certificate:</strong> the contract sum is adjusted for variations, provisional sums, loss and expense and other adjustments. Under JCT, the final certificate can be conclusive evidence on some matters unless challenged within the contract time, so don’t ignore it.</li></ul>"
+    },
+    {
+      "h2": "Records that win disputes",
+      "html": "<ul><li>a daily site diary (labour, plant, weather, visitors, problems);</li>\n<li>dated photographs and videos;</li>\n<li>a register of instructions, variations and their status;</li>\n<li>a notices log with proof of service;</li>\n<li>updated programmes and progress reports;</li>\n<li>minutes of progress meetings, with corrections sent promptly.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to do work that was only instructed verbally?",
+      "a": "Check the contract. Many require written instructions and give a way to confirm oral instructions. If you do the work without a valid instruction, you may struggle to get paid for it as a variation, so confirm in writing first."
+    },
+    {
+      "q": "What if the contract administrator won’t issue a certificate?",
+      "a": "Write asking for it, citing the clause. A failure to certify can itself be a breach, and the dispute can be referred to adjudication. Under the Construction Act, the payee can also give its own default payment notice where the payer fails to give one."
+    },
+    {
+      "q": "What is practical completion?",
+      "a": "Most contracts don’t define it. The courts treat it as the point where the works are complete apart from very minor items that don’t stop the building being used as intended. The contract administrator certifies it."
+    }
+  ],
+  "related": [
+    "key-contract-terms",
+    "example-notices-and-letters",
+    "construction-payments"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    },
+    {
+      "title": "North Midland Building Ltd v Cyden Homes Ltd [2018] EWCA Civ 1744 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1744"
+    },
+    {
+      "title": "Walter Lilly & Co Ltd v Mackay [2012] EWHC 1773 (TCC) (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2012/1773"
+    }
+  ]
+}

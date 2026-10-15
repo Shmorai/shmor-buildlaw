@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-05",
+  "slug": "blog/arbitration-act-2025",
+  "type": "post",
+  "title": "Arbitration Act 2025: What Changes for Construction",
+  "description": "The Arbitration Act 2025 amended the 1996 Act from 1 August 2025. Key changes for construction disputes: governing law, summary disposal, arbitrator duties.",
+  "h1": "The Arbitration Act 2025: what changes for construction disputes",
+  "eyebrow": "Disputes · Arbitration",
+  "intro": "Many construction contracts send final disputes to arbitration. The Arbitration Act 2025 updated the Arbitration Act 1996 for arbitrations started on or after 1 August 2025. Here are the changes that matter most.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b",
+    "alt": "A man and a woman shaking hands in front of a laptop",
+    "credit": "Mina Rad",
+    "creditUrl": "https://unsplash.com/@miinrad"
+  },
+  "keywords": [
+    "arbitration act 2025",
+    "construction arbitration",
+    "arbitration act 1996 amendments",
+    "summary disposal arbitration",
+    "governing law arbitration agreement",
+    "arbitrator disclosure",
+    "emergency arbitrator"
+  ],
+  "cardText": "The key changes in the Arbitration Act 2025 for construction contracts and disputes.",
+  "sections": [
+    {
+      "h2": "When it applies",
+      "html": "<p>The Arbitration Act 2025 received Royal Assent in February 2025 and its main provisions came into force on <strong>1 August 2025</strong>. The changes generally apply to arbitrations, and related court proceedings, commenced on or after that date, whenever the arbitration agreement was made. It amends the Arbitration Act 1996, which covers England, Wales and Northern Ireland. Scotland has its own Arbitration (Scotland) Act 2010.</p>"
+    },
+    {
+      "h2": "The key changes",
+      "html": "<ul><li><strong>Governing law of the arbitration agreement:</strong> unless the parties expressly agree otherwise, the arbitration agreement is now governed by the law of the seat of the arbitration. Choosing a governing law for the main contract isn’t, by itself, an express choice for the arbitration agreement.</li>\n<li><strong>Summary disposal:</strong> arbitrators can, on a party’s application and unless the parties agree otherwise, dispose of a claim or issue that has no real prospect of success, similar to summary judgment in court.</li>\n<li><strong>Arbitrator disclosure:</strong> a statutory duty for arbitrators to disclose circumstances that might reasonably give rise to justifiable doubts about their impartiality, including those they ought reasonably to be aware of.</li>\n<li><strong>Jurisdiction challenges:</strong> a new framework for challenging an award in court on jurisdiction grounds, limiting rehearing of evidence already considered by the tribunal.</li>\n<li><strong>Emergency arbitrators and court support:</strong> clearer powers supporting emergency arbitrators and court orders against third parties in support of arbitration.</li></ul>"
+    },
+    {
+      "h2": "What to do",
+      "html": "<ul><li>Check whether your contracts refer final disputes to arbitration or to court, and whether that’s still what you want.</li>\n<li>If you use arbitration with an international element, say expressly which law governs the arbitration agreement.</li>\n<li>Remember that adjudication still runs alongside arbitration in UK construction contracts: an adjudicator’s decision binds until the arbitrator decides the dispute finally.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the 2025 Act affect adjudication?",
+      "a": "No. Statutory adjudication comes from the Construction Act, not the Arbitration Act. The 2025 Act changes only arbitration."
+    }
+  ],
+  "related": [
+    "construction-disputes",
+    "adjudication"
+  ],
+  "sources": [
+    {
+      "title": "Arbitration Act 2025 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/4/contents"
+    },
+    {
+      "title": "Arbitration Act 1996 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/23/contents"
+    }
+  ]
+}

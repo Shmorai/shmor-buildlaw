@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "slug": "editorial-standards",
+  "short": "Editorial standards",
+  "title": "Editorial Standards: How BuildLaw Writes Its Guides",
+  "description": "How BuildLaw researches, fact-checks and updates its construction law guides, keeps services separate, uses AI tools and corrects errors.",
+  "keywords": [
+    "editorial standards",
+    "editorial policy",
+    "fact checking",
+    "corrections",
+    "about buildlaw",
+    "who writes buildlaw",
+    "legal review",
+    "trust"
+  ],
+  "cardText": "How we research, fact-check and update our guides, and how to report a mistake.",
+  "eyebrow": "About BuildLaw",
+  "h1": "Our editorial standards",
+  "intro": "BuildLaw exists to explain UK construction law clearly and accurately for builders and clients alike. These are the standards every guide is written and checked against.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1583521214690-73421a1829a9",
+    "alt": "Stacks of paper documents and folders on a desk",
+    "credit": "Wesley Tingey",
+    "creditUrl": "https://unsplash.com/@wesleyphotography"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Who we are",
+      "html": "<p>BuildLaw is a free construction law information website and part of the <a href=\"https://shmor.ai/\">Shmor.ai</a> network. Our guides are written and maintained by the BuildLaw editorial team.</p><p>BuildLaw is <strong>not a law firm</strong> and doesn’t give legal advice. We don’t represent anyone, and reading our guides doesn’t create a solicitor–client relationship. Where we name individual writers or reviewers, they are real people whose details and qualifications are shown in full, with links you can check.</p>"
+    },
+    {
+      "h2": "How we research",
+      "html": "<p>We build every guide from <strong>primary sources</strong>, in this order of preference:</p><ol><li>legislation, such as the Housing Grants, Construction and Regeneration Act 1996 and the Scheme for Construction Contracts, on legislation.gov.uk;</li>\n<li>court rules and protocols, such as the Civil Procedure Rules and the Pre-Action Protocol for Construction and Engineering Disputes;</li>\n<li>court judgments, from Find Case Law (The National Archives) and BAILII;</li>\n<li>official guidance, such as GOV.UK, HSE and HMRC, and the published guidance of contract bodies such as JCT and NEC.</li></ol><p>We use professional commentary and news only to find out what has changed, then confirm it with the primary source. Every guide lists its main sources at the end.</p>"
+    },
+    {
+      "h2": "Accuracy and fact-checking",
+      "html": "<ul><li>Every rule, deadline and figure in a guide is checked against an official source before publication.</li>\n<li>We don’t invent statistics, case outcomes, prices or reviews. Worked examples are clearly labelled as illustrative, with made-up figures.</li>\n<li>Case summaries describe what the court decided, in plain English, with a link to the full judgment.</li>\n<li>We write mainly for England and Wales, and say where Scotland or Northern Ireland differ.</li>\n<li>Where the law is changing, we say so and give the date of the position we describe (for example “as of October 2026”).</li></ul>"
+    },
+    {
+      "h2": "Legal review",
+      "html": "<p>When a guide shows <strong>“Reviewed by”</strong>, a named, qualified professional has checked it on the date shown, and their details are listed on this page. Guides without a “Reviewed by” line have been researched and fact-checked against official sources by our editorial team, but haven’t been reviewed by a lawyer. Either way, our guides are general information, not advice for your situation.</p>"
+    },
+    {
+      "h2": "Use of AI tools",
+      "html": "<p>We use software tools, including AI writing assistants, to help research, draft and edit guides. AI tools can make mistakes, so they never have the final word: every factual claim is checked against the primary sources we link to before a guide is published or updated.</p>"
+    },
+    {
+      "h2": "Independence, services and how we make money",
+      "html": "<p>BuildLaw is free to read. We may earn money from referral fees when we introduce you to an independent professional through our <a href=\"/services/\">services page</a>, and from affiliate links.</p><ul><li>Service providers and commercial partners never write, pay for or approve what our guides say about the law.</li>\n<li>Services and partner links are clearly separated from the legal information and labelled.</li>\n<li>We explain both sides of construction contracts fairly, whether you’re a builder or a client.</li></ul><p>Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>.</p>"
+    },
+    {
+      "h2": "Corrections",
+      "html": "<p>If you spot a mistake or an out-of-date rule, please tell us through the <a href=\"https://shmor.ai/contact/\">Shmor.ai contact page</a>, naming the page and, if you can, the source. We review every report, correct confirmed errors promptly and update the page date.</p><p>We can’t answer questions about individual legal problems through the corrections process. For those, see our <a href=\"/services/\">expert help</a> page.</p>"
+    }
+  ],
+  "faqs": [],
+  "blocks": [
+    {
+      "type": "people",
+      "title": "Our writers and legal reviewers",
+      "intro": "Real people, with qualifications you can check."
+    }
+  ],
+  "related": []
+}

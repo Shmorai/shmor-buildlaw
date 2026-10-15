@@ -1,0 +1,104 @@
+{
+  "updated": "2026-10-15",
+  "slug": "adjudication",
+  "short": "Adjudication",
+  "title": "Construction Adjudication: The 28-Day Process Explained",
+  "description": "How statutory adjudication works under the Construction Act: notice, referral, the 28-day decision, costs, enforcement in the TCC and common pitfalls.",
+  "keywords": [
+    "adjudication",
+    "construction adjudication",
+    "adjudicator",
+    "notice of adjudication",
+    "referral notice",
+    "28 day adjudication",
+    "adjudication enforcement",
+    "smash and grab adjudication",
+    "true value adjudication",
+    "adjudicator nominating body",
+    "natural justice",
+    "jurisdiction challenge",
+    "pay now argue later"
+  ],
+  "cardText": "Notice, referral, the 28-day decision, costs, enforcement and the pitfalls to avoid.",
+  "eyebrow": "Disputes · Adjudication",
+  "h1": "Construction adjudication: a binding answer in 28 days",
+  "intro": "Adjudication is the Construction Act’s fast-track dispute process: “pay now, argue later”. Either party can start it at any time, and the courts enforce the decision quickly. Here’s how it works and where it goes wrong.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1551120239-3d20b45dcda7",
+    "alt": "Shelves of assorted books",
+    "credit": "John Cameron",
+    "creditUrl": "https://unsplash.com/@john_cameron"
+  },
+  "searchPlaceholder": "Search dispute guides…",
+  "sections": [
+    {
+      "h2": "Who can adjudicate",
+      "html": "<p>Every party to a “construction contract” within the Construction Act has a statutory right to refer a dispute to adjudication <strong>at any time</strong>. The contract must contain a compliant procedure; if it doesn’t, the Scheme for Construction Contracts applies. Contracts with a residential occupier are excluded unless the contract itself includes adjudication. Northern Ireland has equivalent rules.</p>"
+    },
+    {
+      "h2": "The timetable",
+      "html": "<ol><li><strong>Notice of adjudication:</strong> the referring party gives written notice of its intention to refer a dispute, briefly describing the dispute and the remedy sought.</li>\n<li><strong>Appointment:</strong> the adjudicator is named in the contract, or nominated by an adjudicator nominating body (such as RICS, the Chartered Institute of Arbitrators or TeCSA).</li>\n<li><strong>Referral within 7 days</strong> of the notice: the referring party sends its full case and evidence to the adjudicator and the other party.</li>\n<li><strong>Response:</strong> the responding party replies within the period the adjudicator sets, often 7 to 14 days.</li>\n<li><strong>Decision within 28 days</strong> of the referral. This can be extended by up to 14 days with the referring party’s consent, or longer if both parties agree.</li></ol><p>The adjudicator can take the initiative in finding the facts and the law, must act impartially, and can correct clerical or typographical slips within 5 days of the decision.</p>"
+    },
+    {
+      "h2": "What the decision means",
+      "html": "<p>The decision is <strong>binding until the dispute is finally determined</strong> by legal proceedings, arbitration or agreement. The losing party must comply, usually by paying, straight away. If it doesn’t, the winner can apply to the TCC, which enforces decisions through an expedited summary judgment procedure (<em>Macob v Morrison</em> [1999]). The court will refuse enforcement only in narrow circumstances, mainly where the adjudicator lacked jurisdiction or there was a serious breach of natural justice. Being “wrong” on the facts or law is not enough.</p>"
+    },
+    {
+      "h2": "Costs",
+      "html": "<p>Each party normally pays its own legal and expert costs. The adjudicator decides who pays the adjudicator’s fees. Terms that make one party pay all the costs of an adjudication whatever the outcome are ineffective unless agreed after the notice of adjudication is given (section 108A).</p>"
+    },
+    {
+      "h2": "Common pitfalls",
+      "html": "<ul><li><strong>No crystallised dispute:</strong> the claim must have been made and rejected (or ignored) before the notice. Allow a reasonable time for a response.</li>\n<li><strong>More than one dispute:</strong> an adjudicator can usually decide only a single dispute unless the parties agree otherwise.</li>\n<li><strong>The “ambush”:</strong> a referring party can prepare for months and give the other side days to respond. Keep good records so you can respond fast.</li>\n<li><strong>Smash-and-grab vs true value:</strong> where the payer missed its notices, the payee can claim the notified sum; the payer must pay it before pursuing a “true value” adjudication (<em>S&amp;T v Grove</em> [2018]).</li>\n<li><strong>Insolvency:</strong> a company in liquidation can adjudicate (<em>Bresco v Lonsdale</em> [2020]), though enforcing the decision may be difficult where there is a cross-claim.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does adjudication cost?",
+      "a": "It varies with the size and complexity of the dispute and whether lawyers or experts are used. Adjudicators usually charge an hourly rate. Ask for fee estimates from the adjudicator nominating body and any advisers before you start; we don’t quote figures because they vary widely."
+    },
+    {
+      "q": "Can a homeowner use adjudication?",
+      "a": "Not under the Construction Act for work on their own home, unless the contract includes an adjudication clause. Some homeowner contracts do, and both parties then have to follow it."
+    },
+    {
+      "q": "Can I adjudicate about defects or delay?",
+      "a": "Yes. Any dispute under the contract can be adjudicated, including defects, extensions of time, liquidated damages and final account disputes, not only payment."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "construction-disputes",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Local Democracy, Economic Development and Construction Act 2009, Part 8 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2009/20/part/8"
+    },
+    {
+      "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/1998/649/contents"
+    },
+    {
+      "title": "Macob Civil Engineering Ltd v Morrison Construction Ltd [1999] EWHC Technology 254 (BAILII)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/TCC/1999/254.html"
+    },
+    {
+      "title": "S&T (UK) Ltd v Grove Developments Ltd [2018] EWCA Civ 2448 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/2448"
+    },
+    {
+      "title": "Bresco Electrical Services Ltd v Michael J Lonsdale (Electrical) Ltd [2020] UKSC 25 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2020/25"
+    },
+    {
+      "title": "Technology and Construction Court Guide (GOV.UK)",
+      "url": "https://www.gov.uk/government/publications/technology-and-construction-court-guide"
+    }
+  ]
+}

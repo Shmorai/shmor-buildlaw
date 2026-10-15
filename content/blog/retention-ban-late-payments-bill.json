@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-15",
+  "slug": "blog/retention-ban-late-payments-bill",
+  "type": "post",
+  "title": "Retention Ban: What the Late Payments Bill Means",
+  "description": "The UK government plans to ban cash retentions in construction contracts. What the late payments bill proposes, where it stands and what to do now.",
+  "h1": "Are construction retentions being banned? The late payments bill explained",
+  "eyebrow": "Payment reform · UK",
+  "intro": "The government has introduced legislation that would ban cash retentions under construction contracts, alongside new rules on payment terms and late payment interest. Here’s what is proposed, what isn’t law yet, and what to do in the meantime.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1485083269755-a7b559a4fe5e",
+    "alt": "Several tower cranes above city buildings",
+    "credit": "EJ Yao",
+    "creditUrl": "https://unsplash.com/@hojipago"
+  },
+  "keywords": [
+    "retention ban",
+    "retentions ban",
+    "cash retention ban",
+    "late payments bill",
+    "small business protections late payments bill",
+    "commercial payments bill",
+    "time to pay up",
+    "late payment reform",
+    "retention legislation 2026",
+    "maximum payment terms 60 days"
+  ],
+  "cardText": "What the proposed ban on cash retentions and new late payment rules would mean, and where the bill stands.",
+  "sections": [
+    {
+      "h2": "What has happened so far",
+      "html": "<ul><li><strong>2025:</strong> the government consulted on tackling late payment, including options for cash retentions in construction.</li>\n<li><strong>24 March 2026:</strong> it published its response, “Time to Pay Up”, saying it would legislate to prohibit the deduction and withholding of cash retentions under construction contracts, alongside wider late payment measures.</li>\n<li><strong>19 May 2026:</strong> a bill was introduced in the House of Lords. Referred to as the Commercial Payments Bill and later as the Small Business Protections (Late Payments) Bill, it received an unopposed second reading in June 2026 and has since been amended in committee.</li></ul><p><strong>As of October 2026 the bill is still going through Parliament.</strong> It isn’t law, and its details may change before it is.</p>"
+    },
+    {
+      "h2": "What the bill proposes",
+      "html": "<ul><li><strong>A ban on cash retentions</strong> in construction contracts, by amending the Housing Grants, Construction and Regeneration Act 1996, with transitional arrangements still to be finalised.</li>\n<li><strong>Maximum payment terms</strong> of 60 days for larger businesses paying smaller suppliers, with limited exemptions.</li>\n<li><strong>Mandatory statutory interest</strong> on late payments at 8% above the Bank of England base rate, which the parties couldn’t contract out of.</li>\n<li><strong>A deadline for disputing invoices.</strong></li>\n<li><strong>Stronger powers for the Small Business Commissioner</strong> to investigate, adjudicate payment disputes and fine persistent late payers.</li></ul>"
+    },
+    {
+      "h2": "What it means for builders and clients now",
+      "html": "<p>Until the bill becomes law and is brought into force, <strong>existing retention clauses continue to apply</strong>, and contracts signed today will usually run on their agreed terms. In practice:</p><ul><li><strong>Contractors and subcontractors:</strong> keep applying for retention release at each trigger, and consider asking for retention bonds or trust accounts in new contracts.</li>\n<li><strong>Clients and main contractors:</strong> review how you use retention as security, and consider alternatives such as bonds, so you’re ready if the ban comes in.</li>\n<li><strong>Everyone:</strong> watch the bill’s progress on the UK Parliament website, and check any transitional rules once they’re confirmed.</li></ul><p>See our guide to <a href=\"/retentions/\">how retentions work today</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are retentions banned yet?",
+      "a": "No. As of October 2026 the ban is proposed in a bill that is still going through Parliament. Existing contract terms on retention still apply."
+    },
+    {
+      "q": "Will the ban affect contracts I’ve already signed?",
+      "a": "That depends on the transitional provisions, which hadn’t been finalised as of October 2026. Changes to construction payment law have usually applied to contracts entered into after the new rules come into force."
+    }
+  ],
+  "related": [
+    "retentions",
+    "construction-payments"
+  ],
+  "sources": [
+    {
+      "title": "Small Business Commissioner: Late Payments Bill — what it could mean for your business",
+      "url": "https://www.smallbusinesscommissioner.gov.uk/late-payments-bill-what-it-could-mean-for-your-business/"
+    },
+    {
+      "title": "UK Parliament: Bills before Parliament",
+      "url": "https://bills.parliament.uk/"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Late commercial payments: charging interest and debt recovery (GOV.UK)",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery"
+    }
+  ]
+}

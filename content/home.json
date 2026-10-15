@@ -1,15 +1,341 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "BuildLaw: UK construction law made clear for builders and cl",
-  "description": "UK construction law made clear for builders and clients: JCT and NEC contracts, payment notices, retentions, contract administration and disputes. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "BuildLaw",
-  "intro": "UK construction law made clear for builders and clients: JCT and NEC contracts, payment notices, retentions, contract administration and disputes.",
-  "related": [],
+  "title": "BuildLaw: UK Construction Law for Builders & Clients",
+  "description": "Free plain-English guides to UK construction law: JCT and NEC contracts, payment and pay less notices, retentions, contract administration and disputes.",
+  "eyebrow": "Contracts · Payments · Administration · Disputes",
+  "h1": "Every brick, every clause. UK construction law, made clear.",
+  "h1Html": "Every brick, every clause. <span class=\"hl\">UK construction law, made clear.</span>",
+  "intro": "Free, practical guides for builders, subcontractors and clients: choosing the right contract, JCT and NEC explained, getting paid on time, running a project by the book and resolving disputes through mediation and adjudication.",
+  "heroHtml": "<p class=\"juris\">For <span>Builders</span><span>Subcontractors</span><span>Clients</span><span>Homeowners</span></p>",
+  "chips": [
+    {
+      "label": "JCT contracts",
+      "slug": "jct-contracts"
+    },
+    {
+      "label": "Pay less notices",
+      "slug": "construction-payments"
+    },
+    {
+      "label": "Retentions",
+      "slug": "retentions"
+    },
+    {
+      "label": "Adjudication",
+      "slug": "adjudication"
+    },
+    {
+      "label": "Mediation",
+      "slug": "construction-mediation"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599995903128-531fc7fb694b",
+    "alt": "Tower cranes over a building site with concrete foundations at low sun",
+    "credit": "Samuel Regan-Asante",
+    "creditUrl": "https://unsplash.com/@reganography"
+  },
+  "highlightsTitle": "Why builders and clients use BuildLaw",
+  "highlights": [
+    {
+      "title": "Written from the law itself",
+      "text": "Every guide is built from legislation, court judgments and official guidance, which we link to, and dated so you can see when it was checked."
+    },
+    {
+      "title": "Both sides of the contract",
+      "text": "Contractors, subcontractors, employers and homeowners all have rights and duties. We explain each side fairly, so you know where you stand."
+    },
+    {
+      "title": "Free advice, expert help on hand",
+      "text": "Most questions are answered by our free guides, examples and case studies. When you need more, we introduce you to qualified, independent professionals."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use BuildLaw?",
-      "html": "<p>UK construction law made clear for builders and clients: JCT and NEC contracts, payment notices, retentions, contract administration and disputes.</p>"
+      "h2": "Construction law in plain English",
+      "html": "<p>Building work in the UK runs on contracts, and on a set of statutory rules that sit underneath them. The <strong>Housing Grants, Construction and Regeneration Act 1996</strong> (the “Construction Act”) gives most parties to construction contracts the right to be paid in stages, to know what they’ll be paid and why, to suspend work for non-payment and to refer disputes to adjudication at any time. Standard forms such as <strong>JCT</strong> and <strong>NEC</strong> then set out who does what, when, for how much and what happens when things change.</p><p>BuildLaw turns all of that into practical guides: what the rule is, the deadlines that matter, worked examples and what to do next.</p>"
+    },
+    {
+      "h2": "For contractors, builders and subcontractors",
+      "html": "<ul><li><a href=\"/construction-payments/\">Getting paid</a>: applications, payment notices, pay less notices and your right to suspend.</li>\n<li><a href=\"/retentions/\">Retentions</a>: how they work, getting them released, and the proposed ban.</li>\n<li><a href=\"/contract-administration/\">Contract administration</a>: variations, extensions of time, practical completion and the final account.</li>\n<li><a href=\"/adjudication/\">Adjudication</a>: the 28-day route to a binding decision.</li>\n<li><a href=\"/example-notices-and-letters/\">Free example notices and letters</a> you can adapt.</li></ul>"
+    },
+    {
+      "h2": "For clients, developers and homeowners",
+      "html": "<ul><li><a href=\"/construction-contracts/\">Choosing a contract and procurement route</a>: traditional, design and build, management and more.</li>\n<li><a href=\"/jct-contracts/\">Which JCT contract?</a> From Minor Works to Design and Build, and the homeowner contracts.</li>\n<li><a href=\"/key-contract-terms/\">Key contract terms</a>: liquidated damages, defects, insurance, termination and design liability.</li>\n<li><a href=\"/homeowners-and-builders/\">Homeowners and builders</a>: your rights under the Consumer Rights Act and how to avoid disputes.</li></ul>"
+    },
+    {
+      "h2": "How we write our guides",
+      "html": "<p>We start from primary sources: legislation, the Civil Procedure Rules, published contract guidance and court judgments, and link to them at the end of each guide. Pages show the date they were last updated, and changes in the law are covered on our <a href=\"/blog/\">blog</a>. Read our <a href=\"/editorial-standards/\">editorial standards</a>.</p><p>Our guides are general information, not legal advice. They can’t take account of your contract or your circumstances. For that, use our <a href=\"/services/\">expert help</a> or speak to a qualified professional.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is BuildLaw a law firm?",
+      "a": "No. BuildLaw is a free construction law information website. We don’t give legal advice or represent anyone. If you need advice, our <a href=\"/services/\">services page</a> explains how we can introduce you to independent, qualified professionals, who work under their own terms."
+    },
+    {
+      "q": "Does BuildLaw cover Scotland and Northern Ireland?",
+      "a": "Yes. Our guides are written mainly for England and Wales, and we flag where Scotland or Northern Ireland differ. The Construction Act applies in England, Wales and Scotland, with separate Scheme regulations in Scotland, and Northern Ireland has its own Construction Contracts (Northern Ireland) Order 1997."
+    },
+    {
+      "q": "Do the payment rules apply to work on my house?",
+      "a": "Mostly not. The Construction Act’s payment and adjudication rules don’t apply to contracts with a residential occupier for work on the home they live in, unless the contract itself includes them (some homeowner contracts do). Homeowners are protected by consumer law instead. See <a href=\"/homeowners-and-builders/\">homeowners and builders</a>."
+    },
+    {
+      "q": "Can I use your example notices and letters?",
+      "a": "Yes, they’re free to adapt. They’re examples, not templates guaranteed for your situation: always check them against the payment and notice clauses in your own contract, which may set different deadlines or addresses for notices."
+    },
+    {
+      "q": "How does BuildLaw make money?",
+      "a": "Some pages may include affiliate or referral links, and we may be paid when we introduce you to a service provider, at no extra cost to you. This never changes what our guides say. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how we make money</a>."
+    }
+  ],
+  "related": [],
+  "ctaTitle": "What construction law question can we help with?",
+  "latestPosts": 3,
+  "latestTitle": "Latest construction law updates",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "scale",
+          "title": "Plain-English law",
+          "text": "no jargon"
+        },
+        {
+          "icon": "file",
+          "title": "Official sources",
+          "text": "linked on every guide"
+        },
+        {
+          "icon": "hardhat",
+          "title": "Builders & clients",
+          "text": "both sides explained"
+        },
+        {
+          "icon": "check",
+          "title": "Free to use",
+          "text": "no sign-up"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "What do you need help with?",
+      "intro": "Start with your problem. Each guide sets out the rules, the deadlines that matter and what to do next.",
+      "more": {
+        "title": "All contract types",
+        "slug": "construction-contracts"
+      },
+      "items": [
+        {
+          "slug": "construction-payments",
+          "title": "Getting paid",
+          "badge": "Payments",
+          "text": "Applications, payment notices, pay less notices and suspension."
+        },
+        {
+          "slug": "jct-contracts",
+          "title": "JCT contracts",
+          "badge": "Contracts"
+        },
+        {
+          "slug": "construction-disputes",
+          "title": "Disputes",
+          "badge": "Resolve it"
+        },
+        {
+          "slug": "contract-administration",
+          "title": "Contract administration",
+          "badge": "Running a job"
+        },
+        {
+          "slug": "retentions",
+          "title": "Retentions",
+          "badge": "Cash flow"
+        },
+        {
+          "slug": "construction-mediation",
+          "title": "Mediation",
+          "badge": "Settle it"
+        },
+        {
+          "slug": "homeowners-and-builders",
+          "title": "Homeowners",
+          "badge": "Home projects"
+        },
+        {
+          "slug": "nec-contracts",
+          "title": "NEC4 contracts",
+          "badge": "Contracts"
+        },
+        {
+          "slug": "case-studies",
+          "title": "Case studies",
+          "badge": "Learn from cases"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Key rules at a glance",
+      "intro": "Some of the rules that matter most on UK building projects. Each one links to a full guide with the conditions and exceptions.",
+      "more": {
+        "title": "Payment rules in full",
+        "slug": "construction-payments"
+      },
+      "items": [
+        {
+          "icon": "calendar",
+          "badge": "Payment",
+          "title": "Payment notice: 5 days",
+          "text": "The payer must say what it will pay, and how that sum is worked out, no later than 5 days after each payment due date.",
+          "slug": "construction-payments",
+          "cta": "Payment notices"
+        },
+        {
+          "icon": "receipt",
+          "badge": "Payment",
+          "title": "Pay less before the deadline",
+          "text": "To pay less than the notified sum, the payer must serve a pay less notice in time. Under the Scheme, that’s at least 7 days before the final date for payment.",
+          "slug": "construction-payments",
+          "cta": "Pay less notices"
+        },
+        {
+          "icon": "clock",
+          "badge": "Payment",
+          "title": "Suspend on 7 days’ notice",
+          "text": "If the notified sum isn’t paid by the final date, the payee can suspend work after giving at least 7 days’ notice of intention to suspend.",
+          "slug": "construction-payments",
+          "cta": "Right to suspend"
+        },
+        {
+          "icon": "scale",
+          "badge": "Disputes",
+          "title": "Adjudicate at any time",
+          "text": "Either party to a construction contract can refer a dispute to adjudication at any time. The decision is due within 28 days of referral, unless extended.",
+          "slug": "adjudication",
+          "cta": "How adjudication works"
+        },
+        {
+          "icon": "percent",
+          "badge": "Late payment",
+          "title": "Statutory interest",
+          "text": "On business-to-business debts, the Late Payment Act lets you claim interest at 8% above the Bank of England base rate, unless the contract has a substantial remedy.",
+          "slug": "construction-payments",
+          "cta": "Late payment interest"
+        },
+        {
+          "icon": "alert",
+          "badge": "Payment",
+          "title": "No “pay when paid”",
+          "text": "“Pay when paid” clauses are generally ineffective under the Construction Act, except where a party further up the chain is insolvent.",
+          "slug": "construction-payments",
+          "cta": "Unfair payment terms"
+        },
+        {
+          "icon": "users",
+          "badge": "Disputes",
+          "title": "Courts can order mediation",
+          "text": "Since October 2024 the Civil Procedure Rules expressly allow courts in England and Wales to order parties to engage in ADR, such as mediation.",
+          "slug": "blog/court-ordered-mediation",
+          "cta": "What changed"
+        },
+        {
+          "icon": "shield",
+          "badge": "Defects",
+          "title": "30 years for some defects",
+          "text": "The Building Safety Act 2022 extended the time limit for Defective Premises Act claims about dwellings to 30 years for claims that arose before 28 June 2022, and 15 years for later ones.",
+          "slug": "key-contract-terms",
+          "cta": "Defects and time limits"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Sorting out a construction dispute",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Check the contract",
+          "text": "Find the clauses that apply: payment, notices, variations, extensions of time and dispute resolution. Note every deadline."
+        },
+        {
+          "icon": "message",
+          "title": "Put it in writing",
+          "text": "Set out the problem, what you want and by when, with your evidence. Many disputes end here. See our <a href=\"/example-notices-and-letters/\">example letters</a>."
+        },
+        {
+          "icon": "scale",
+          "title": "Escalate the right way",
+          "text": "Negotiate, mediate or adjudicate, and only then arbitrate or go to court. See <a href=\"/construction-disputes/\">your options</a>."
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "class": "services",
+      "title": "Need expert help?",
+      "intro": "When a free guide isn’t enough, we can introduce you to independent, qualified construction professionals. You’ll get a fee quote before any work starts.",
+      "more": {
+        "title": "All services",
+        "slug": "services"
+      },
+      "html": "<div class=\"svc-grid\"><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z\"/><path d=\"M14 2v4a2 2 0 0 0 2 2h4\"/><path d=\"M10 9H8\"/><path d=\"M16 13H8\"/><path d=\"M16 17H8\"/></svg><h3>Contract review & drafting</h3><p>JCT, NEC and bespoke building contracts and subcontracts checked, explained and amended before you sign.</p><p class=\"who\">Delivered by an SRA-regulated construction solicitor</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\"/><path d=\"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4\"/></svg><h3>Payment & notices health check</h3><p>Applications, payment notices and pay less notices set up properly, and help recovering money you’re owed.</p><p class=\"who\">Construction solicitor or chartered quantity surveyor</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z\"/><path d=\"M7 21h10\"/><path d=\"M12 3v18\"/><path d=\"M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2\"/></svg><h3>Adjudication support</h3><p>Referring a dispute, or responding to one, within the tight statutory timetable.</p><p class=\"who\">Construction solicitor or experienced claims consultant</p><span class=\"cta\">Enquire →</span></a><a class=\"svc\" href=\"/services/\"><svg class=\"ico\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 0 0-3-3.87\"/><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"/></svg><h3>Mediation</h3><p>A neutral, accredited mediator to help you settle a final account, defects or delay dispute without court.</p><p class=\"who\">Accredited civil and commercial mediator</p><span class=\"cta\">Enquire →</span></a></div>"
+    },
+    {
+      "type": "links",
+      "title": "Popular questions",
+      "items": [
+        {
+          "icon": "search",
+          "title": "What is a pay less notice?",
+          "slug": "construction-payments"
+        },
+        {
+          "icon": "search",
+          "title": "Which JCT contract do I need?",
+          "slug": "jct-contracts"
+        },
+        {
+          "icon": "search",
+          "title": "How do I get my retention back?",
+          "slug": "retentions"
+        },
+        {
+          "icon": "search",
+          "title": "Are retentions being banned?",
+          "slug": "blog/retention-ban-late-payments-bill"
+        },
+        {
+          "icon": "search",
+          "title": "How does adjudication work?",
+          "slug": "adjudication"
+        },
+        {
+          "icon": "search",
+          "title": "Claiming an extension of time",
+          "slug": "contract-administration"
+        },
+        {
+          "icon": "search",
+          "title": "Are liquidated damages a penalty?",
+          "slug": "key-contract-terms"
+        },
+        {
+          "icon": "search",
+          "title": "My builder hasn’t finished the job",
+          "slug": "homeowners-and-builders"
+        },
+        {
+          "icon": "search",
+          "title": "What’s new in JCT 2024?",
+          "slug": "blog/jct-2024-whats-changed"
+        }
+      ]
     }
   ]
 }

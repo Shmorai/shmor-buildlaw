@@ -1,0 +1,112 @@
+{
+  "updated": "2026-10-15",
+  "slug": "key-contract-terms",
+  "short": "Key contract terms",
+  "title": "Key Construction Contract Terms Explained in Plain English",
+  "description": "Plain-English guide to the building contract terms that matter: liquidated damages, design liability, defects, insurance, termination and time limits.",
+  "keywords": [
+    "contract terms",
+    "liquidated damages",
+    "lads",
+    "penalty clause",
+    "delay damages",
+    "design liability",
+    "fitness for purpose",
+    "reasonable skill and care",
+    "collateral warranty",
+    "performance bond",
+    "indemnity",
+    "limitation of liability",
+    "termination clause",
+    "insolvency",
+    "contract signed as a deed",
+    "limitation period",
+    "defective premises act"
+  ],
+  "cardText": "Liquidated damages, design liability, defects, insurance, warranties, termination and time limits explained.",
+  "eyebrow": "Contract terms",
+  "h1": "Key construction contract terms, in plain English",
+  "intro": "A handful of clauses decide who pays when things go wrong. This guide explains what they mean, how the courts approach them and what to check before you sign.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564846824194-346b7871b855",
+    "alt": "Person writing on a white printed form with a pen",
+    "credit": "Leon Seibert",
+    "creditUrl": "https://unsplash.com/@yapics"
+  },
+  "searchPlaceholder": "Search contract terms…",
+  "sections": [
+    {
+      "h2": "Liquidated damages for delay",
+      "html": "<p><strong>Liquidated (and ascertained) damages</strong> (LDs or LADs) are a fixed sum per day or week that the contractor pays if it finishes late without an extension of time. They give both sides certainty: the client doesn’t need to prove its actual loss, and the contractor knows its maximum exposure for delay if the contract caps it.</p><p>Since <em>Cavendish Square Holding v Makdessi</em> [2015], a damages clause is only an unenforceable <strong>penalty</strong> if it imposes a detriment out of all proportion to the innocent party’s legitimate interest. A rate based on a genuine attempt to assess likely loss is rarely struck down. In <em>Triple Point Technology v PTT</em> [2021] the Supreme Court confirmed that LDs accrue up to termination even if the contractor never completes. Make sure the rate in the contract is filled in: “£nil” or a blank can mean no delay damages at all.</p>"
+    },
+    {
+      "h2": "Design liability",
+      "html": "<p>Where a contractor designs, the contract will set its standard of care: usually <strong>reasonable skill and care</strong>, the standard expected of a competent professional designer. A <strong>fitness for purpose</strong> obligation is stricter: the result must work for its stated purpose, whether or not the designer was careful, and it’s often not covered by professional indemnity insurance. JCT 2024 design and build terms limit the contractor’s design liability to reasonable skill and care unless otherwise required. Look for fitness for purpose wording hidden in Employer’s Requirements or amendments.</p>"
+    },
+    {
+      "h2": "Defects and time limits",
+      "html": "<ul><li><strong>Rectification period:</strong> the contractual window (often 12 months) to come back and fix defects. It doesn’t limit the contractor’s liability for defects found later.</li>\n<li><strong>Limitation periods:</strong> claims for breach of contract must generally be brought within <strong>6 years</strong> of the breach for a simple contract, or <strong>12 years</strong> if the contract is executed as a <strong>deed</strong>, under the Limitation Act 1980. In Scotland, different prescription rules apply.</li>\n<li><strong>Defective Premises Act 1972:</strong> anyone who takes on work for or in connection with providing a dwelling must do it in a workmanlike or professional manner, with proper materials, so the dwelling is fit for habitation. The <strong>Building Safety Act 2022</strong> extended the time limit for these claims to <strong>15 years</strong> for future claims and <strong>30 years</strong> for claims that arose before 28 June 2022. See <em>URS v BDW</em> [2025] in our <a href=\"/case-studies/\">case studies</a>.</li></ul>"
+    },
+    {
+      "h2": "Insurance, bonds and warranties",
+      "html": "<ul><li><strong>Insurance of the works:</strong> standard forms offer options for who insures the new works and any existing structure against fire and other risks. With existing buildings, check the client’s own insurer accepts the arrangement.</li>\n<li><strong>Liability insurance:</strong> public and employer’s liability; and professional indemnity insurance where the contractor designs.</li>\n<li><strong>Performance bonds and parent company guarantees:</strong> security for the client if the contractor defaults or becomes insolvent.</li>\n<li><strong>Collateral warranties and third party rights:</strong> give funders, purchasers and tenants a direct contractual claim against the contractor or consultants. Their wording matters as much as the main contract’s.</li></ul>"
+    },
+    {
+      "h2": "Termination",
+      "html": "<p>Standard forms let either side terminate for specified defaults (such as suspending work without cause, failing to proceed regularly and diligently, or failing to pay), and for insolvency. The <strong>procedure</strong> matters: most require a warning notice specifying the default, a period to put it right and a further notice to terminate, served in the way the notice clause requires. Getting it wrong can turn a lawful termination into a repudiatory breach by the party trying to terminate. Take advice before serving any termination notice.</p>"
+    },
+    {
+      "h2": "Other clauses worth checking",
+      "html": "<ul><li><strong>Limitation and exclusion of liability:</strong> caps on total liability and exclusions of indirect or consequential loss.</li>\n<li><strong>Indemnities:</strong> promises to cover another party’s losses, which can go beyond ordinary damages.</li>\n<li><strong>Health and safety (CDM 2015):</strong> who acts as principal designer and principal contractor, and, since October 2023, the equivalent roles under the Building Regulations dutyholder regime.</li>\n<li><strong>Assignment and novation:</strong> whether rights can be transferred, and whether designers will be novated to a design and build contractor.</li>\n<li><strong>Dispute resolution:</strong> adjudication, mediation steps, and whether final disputes go to arbitration or court.</li></ul><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are liquidated damages a penalty?",
+      "a": "Rarely. After Cavendish v Makdessi, a clause is only a penalty if the detriment it imposes is out of all proportion to the innocent party’s legitimate interest. A delay damages rate negotiated between commercial parties will usually be upheld."
+    },
+    {
+      "q": "What’s the difference between signing a contract and executing it as a deed?",
+      "a": "A contract executed as a deed extends the time limit for breach of contract claims from 6 to 12 years in England and Wales. Deeds have formal signing and witnessing requirements, so follow them carefully."
+    },
+    {
+      "q": "Can a contractor be liable for defects after the rectification period?",
+      "a": "Yes. The rectification period is a practical mechanism for fixing defects; it doesn’t usually end liability. The client can still claim for defects within the limitation period."
+    }
+  ],
+  "related": [
+    "contract-administration",
+    "case-studies",
+    "jct-contracts"
+  ],
+  "sources": [
+    {
+      "title": "Cavendish Square Holding BV v Makdessi; ParkingEye Ltd v Beavis [2015] UKSC 67 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2015/67"
+    },
+    {
+      "title": "Triple Point Technology Inc v PTT Public Company Ltd [2021] UKSC 29 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2021/29"
+    },
+    {
+      "title": "Limitation Act 1980 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/58/contents"
+    },
+    {
+      "title": "Defective Premises Act 1972 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/35"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    },
+    {
+      "title": "Construction (Design and Management) Regulations 2015: HSE guidance",
+      "url": "https://www.hse.gov.uk/construction/cdm/2015/index.htm"
+    },
+    {
+      "title": "URS Corporation Ltd v BDW Trading Ltd [2025] UKSC 21 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2025/21"
+    }
+  ]
+}

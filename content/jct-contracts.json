@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-15",
+  "slug": "jct-contracts",
+  "nav": "JCT",
+  "navOrder": 2,
+  "title": "JCT Contracts Explained: Which JCT Contract Do I Need?",
+  "description": "A plain-English guide to the JCT family of building contracts: Minor Works, Intermediate, Standard, Design and Build, homeowner contracts and subcontracts.",
+  "keywords": [
+    "jct",
+    "jct contract",
+    "jct contracts",
+    "jct minor works",
+    "jct intermediate",
+    "jct standard building contract",
+    "jct design and build",
+    "jct homeowner contract",
+    "jct subcontract",
+    "jct 2024",
+    "which jct contract",
+    "jct sbc",
+    "jct mwd",
+    "jct dbsub"
+  ],
+  "cardText": "The JCT family explained: Minor Works to Design and Build, homeowner contracts, subcontracts and what changed in JCT 2024.",
+  "eyebrow": "Contracts · JCT",
+  "h1": "JCT contracts explained: which one do you need?",
+  "intro": "The Joint Contracts Tribunal (JCT) publishes the UK’s most widely used family of building contracts. Here’s how the main forms differ, which suits which project, and the clauses to read before you sign.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627518788331-b3b7fdaa382f",
+    "alt": "Hand signing a paper document with a pen",
+    "credit": "Signature Pro",
+    "creditUrl": "https://unsplash.com/@signaturepro"
+  },
+  "searchPlaceholder": "Search JCT guides…",
+  "sections": [
+    {
+      "h2": "The JCT family at a glance",
+      "html": "<table><thead><tr><th>Contract</th><th>Best for</th><th>Design</th></tr></thead><tbody><tr><td><strong>Minor Works (MW)</strong></td><td>Simple, small projects with a fixed price and a contract administrator</td><td>Client’s design</td></tr><tr><td><strong>Minor Works with contractor’s design (MWD)</strong></td><td>As MW, where the contractor designs a defined part</td><td>Mostly client; some contractor design</td></tr><tr><td><strong>Intermediate (IC / ICD)</strong></td><td>Medium projects of moderate complexity, with fully designed work</td><td>Client; ICD adds a contractor-designed portion</td></tr><tr><td><strong>Standard Building Contract (SBC)</strong></td><td>Larger or complex projects; versions with quantities, without quantities and with approximate quantities</td><td>Client, with optional contractor’s designed portion</td></tr><tr><td><strong>Design and Build (DB)</strong></td><td>Projects where the contractor designs and builds to the Employer’s Requirements</td><td>Contractor</td></tr><tr><td><strong>Major Project (MP)</strong></td><td>Large projects for experienced clients and contractors</td><td>Contractor</td></tr><tr><td><strong>Management / Construction Management</strong></td><td>Packaged, fast-track work managed by a management contractor or construction manager</td><td>Client</td></tr><tr><td><strong>Measured Term (MTC)</strong></td><td>Planned maintenance and minor works over a period, ordered as needed</td><td>Client</td></tr><tr><td><strong>Repair and Maintenance (RM)</strong></td><td>Simple repair and maintenance jobs</td><td>Client</td></tr><tr><td><strong>Homeowner contracts</strong></td><td>Home extensions, renovations and repairs for a homeowner or occupier, with or without a consultant</td><td>Client or builder</td></tr><tr><td><strong>Collaborative and framework forms</strong></td><td>Partnering, long-term relationships and series of projects</td><td>Varies</td></tr><tr><td><strong>Pre-Construction Services Agreement (PCSA)</strong></td><td>Engaging a contractor early in a two-stage tender</td><td>Varies</td></tr></tbody></table><p>Most main contracts have a matching <strong>subcontract</strong> (for example SBCSub, DBSub and ICSub) and <strong>collateral warranty</strong> forms, so terms can be passed down the supply chain consistently.</p>"
+    },
+    {
+      "h2": "How to choose",
+      "html": "<ol><li><strong>Who is designing?</strong> If the contractor is designing all or most of it, look at Design and Build. If your architect or engineer is designing, choose a traditional form.</li>\n<li><strong>How big and complex is it?</strong> Minor Works suits straightforward work; Intermediate suits more detailed projects that still don’t need the full Standard Building Contract machinery. JCT’s own guidance describes each form’s intended use.</li>\n<li><strong>Is the client a homeowner?</strong> Use a homeowner contract, which is written in plainer language and reflects consumer law.</li>\n<li><strong>How will the price work?</strong> Lump sum, with quantities, remeasurement or cost-reimbursable all point to different forms.</li></ol>"
+    },
+    {
+      "h2": "Clauses to read before you sign",
+      "html": "<ul><li><strong>Contract Particulars:</strong> the dates, sums and options that make the form specific to your project: date for completion, liquidated damages rate, retention percentage, insurance option, rectification period and payment dates. Blank or vague particulars cause many disputes.</li>\n<li><strong>Payment:</strong> interim valuation dates, due dates, final dates, and who issues payment and pay less notices.</li>\n<li><strong>Relevant Events and Relevant Matters:</strong> the events that entitle the contractor to more time (Relevant Events) and to loss and expense (Relevant Matters).</li>\n<li><strong>Variations:</strong> how changes are instructed and valued.</li>\n<li><strong>Insurance:</strong> which insurance option applies to the works and any existing structures.</li>\n<li><strong>Termination:</strong> the grounds, the notice steps and what is paid after termination.</li>\n<li><strong>Amendments:</strong> any schedule of amendments, which can override the printed terms.</li></ul>"
+    },
+    {
+      "h2": "JCT 2024: what changed",
+      "html": "<p>JCT launched its <strong>2024 Edition</strong> in April 2024, starting with the Design and Build Contract, and released the other forms over the following months. Changes include provisions reflecting the <strong>Building Safety Act 2022</strong> dutyholder regime, new relevant events (for example for discovering asbestos, contaminated material or unexploded ordnance, and for epidemics), a wider statutory-powers event, and the option to give notices by email. Contracts signed on 2016 forms still work, but check which edition you are signing. Read our summary of <a href=\"/blog/jct-2024-whats-changed/\">what changed in JCT 2024</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to pay for JCT contracts?",
+      "a": "Yes. JCT contracts are copyright documents sold by JCT and its publishers, in print or digitally. Using an unlicensed copy, or retyping one, risks errors as well as copyright problems."
+    },
+    {
+      "q": "Is JCT Minor Works suitable for a house extension?",
+      "a": "Minor Works is designed for business clients using a contract administrator. For a homeowner, JCT’s homeowner contracts are usually more suitable because they’re written for consumers. Take advice if you’re unsure."
+    },
+    {
+      "q": "What is a JCT contract administrator?",
+      "a": "The person named in the contract (often the architect or a surveyor) who issues instructions and certificates, such as interim certificates and the practical completion certificate. They must act fairly and impartially when certifying."
+    },
+    {
+      "q": "Can I amend a JCT contract?",
+      "a": "Yes, usually through a schedule of amendments. But amendments can upset how the clauses work together, and some may be unenforceable or conflict with the Construction Act. Get amendments reviewed."
+    }
+  ],
+  "related": [
+    "construction-contracts",
+    "key-contract-terms",
+    "blog/jct-2024-whats-changed"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    }
+  ]
+}

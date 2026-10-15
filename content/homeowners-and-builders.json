@@ -1,0 +1,100 @@
+{
+  "updated": "2026-10-15",
+  "slug": "homeowners-and-builders",
+  "short": "Homeowners & builders",
+  "title": "Homeowners and Builders: Contracts, Rights and Disputes",
+  "description": "Building work on your home in the UK: what contract to use, your Consumer Rights Act rights, deposits, cancellation, extras and what to do if it goes wrong.",
+  "keywords": [
+    "home extension contract",
+    "builder contract",
+    "homeowner building contract",
+    "consumer rights act builder",
+    "cowboy builder",
+    "builder not finished",
+    "builder walked off job",
+    "builder deposit",
+    "snagging",
+    "defects",
+    "building work rights",
+    "cancel builder contract",
+    "extras builder",
+    "party wall",
+    "building regulations",
+    "renovation contract",
+    "loft conversion contract"
+  ],
+  "cardText": "The contract to use, your Consumer Rights Act rights, deposits, extras and what to do if it goes wrong.",
+  "eyebrow": "Homeowners & home projects",
+  "h1": "Homeowners and builders: getting it right from the start",
+  "intro": "Extensions, lofts and renovations are big investments for homeowners and their builders alike. Most disputes come from an unclear scope, unagreed extras or no written contract. Here’s how both sides can protect themselves.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1593786267440-550458cc882a",
+    "alt": "Brick terraced building with scaffolding during building work",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "searchPlaceholder": "Search homeowner guides…",
+  "sections": [
+    {
+      "h2": "Use a written contract",
+      "html": "<p>A short written contract prevents most arguments. Options include <strong>JCT’s homeowner contracts</strong>, the <strong>RIBA</strong> domestic building contract (where an architect is involved), the <strong>FMB</strong> plain-English contracts, or a clear quotation and terms. Whatever you use, it should cover:</p><ul><li>the <strong>scope</strong>, drawings and specification, including who buys which materials;</li>\n<li>the <strong>price</strong>, and whether it is fixed or an estimate;</li>\n<li>a <strong>payment schedule</strong> linked to completed stages, not dates;</li>\n<li>start and finish dates;</li>\n<li>how <strong>changes (“extras”)</strong> are agreed and priced, in writing, before the work is done;</li>\n<li>who obtains planning permission and building control approval, and any party wall notices;</li>\n<li>insurance, guarantees, defects and how disputes will be handled.</li></ul>"
+    },
+    {
+      "h2": "A homeowner’s legal rights",
+      "html": "<p>Where a trader does work for a consumer, the <strong>Consumer Rights Act 2015</strong> requires the service to be performed with <strong>reasonable care and skill</strong>. Things the trader said about the service can be binding. If no price or time was fixed, the price must be reasonable and the work done within a reasonable time. If the work falls short, the consumer can ask for it to be redone at the trader’s cost and, if that isn’t possible or doesn’t happen within a reasonable time, a price reduction. Goods supplied as part of the job must be of satisfactory quality and fit for purpose.</p><p>If the contract was made at the homeowner’s house or away from the trader’s premises, or at a distance, the homeowner usually has a <strong>14-day cancellation right</strong>. The trader must give cancellation information; if it doesn’t, the period can be extended by up to 12 months. If work starts within the 14 days at the homeowner’s express request and they then cancel, they may have to pay for work done.</p>"
+    },
+    {
+      "h2": "Builders: protect yourself too",
+      "html": "<ul><li>Give a written quotation that is clearly a fixed price or clearly an estimate, and say what’s excluded.</li>\n<li>Provide the cancellation information required for off-premises contracts. For off-premises contracts, failing to do so can be a criminal offence as well as letting the customer cancel late.</li>\n<li>Agree extras in writing with a price before doing them, even by text or email.</li>\n<li>Invoice promptly against the agreed schedule, and keep photos of completed stages.</li>\n<li>Remember the Construction Act payment and adjudication rules usually don’t apply to homeowners, so your contract terms matter more.</li></ul>"
+    },
+    {
+      "h2": "Deposits and paying safely",
+      "html": "<p>There’s no legal limit on deposits, but a large upfront payment puts the homeowner at risk if the builder disappears. Many advisers suggest keeping any deposit modest and linked to materials ordered, then paying in stages as work is completed. Paying part of the cost by <strong>credit card</strong> can bring Section 75 protection for items priced between £100 and £30,000. Some trade schemes offer deposit or warranty protection: check what is actually covered.</p>"
+    },
+    {
+      "h2": "When it goes wrong",
+      "html": "<ol><li>Put your complaint in writing, with photos, and give a reasonable deadline to put it right.</li>\n<li>Allow the builder access to fix defects: refusing can reduce what you can claim.</li>\n<li>Use the trader’s trade association or ADR scheme if it belongs to one, or mediation.</li>\n<li>Get an independent surveyor’s report if the dispute is about quality.</li>\n<li>As a last resort, go to court. In England and Wales, most claims up to £10,000 go to the small claims track. Scotland and Northern Ireland have their own procedures and limits.</li></ol><p>Builders chasing unpaid invoices follow similar steps, starting with a clear written demand. See our <a href=\"/example-notices-and-letters/\">example letters</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My builder has walked off the job. What can I do?",
+      "a": "Write asking them to return by a reasonable date and warning that otherwise you’ll treat the contract as ended and get someone else to finish. Keep records and photos, get quotes for completion, and don’t pay for work not done. The cost of completing above the original price may be recoverable. Take advice before ending the contract."
+    },
+    {
+      "q": "Do I have to pay for extras I didn’t agree to?",
+      "a": "Not usually, if they weren’t agreed. But if you asked for extra work without agreeing a price, the builder may be entitled to a reasonable sum for it. That’s why changes should be agreed in writing with a price first."
+    },
+    {
+      "q": "Who is responsible for building regulations approval?",
+      "a": "The person carrying out the work and the owner both have responsibilities. Agree in the contract who will deal with building control and make sure you get the completion certificate, which you’ll need when you sell."
+    }
+  ],
+  "related": [
+    "construction-contracts",
+    "example-notices-and-letters",
+    "construction-mediation"
+  ],
+  "sources": [
+    {
+      "title": "Consumer Rights Act 2015 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/15/contents"
+    },
+    {
+      "title": "Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134/contents"
+    },
+    {
+      "title": "Party walls and building work (GOV.UK)",
+      "url": "https://www.gov.uk/party-walls-building-works"
+    },
+    {
+      "title": "Construction (Design and Management) Regulations 2015: HSE guidance",
+      "url": "https://www.hse.gov.uk/construction/cdm/2015/index.htm"
+    },
+    {
+      "title": "Citizens Advice: getting more help with a consumer problem",
+      "url": "https://www.citizensadvice.org.uk/consumer/get-more-help/if-you-need-more-help-about-a-consumer-issue/"
+    }
+  ]
+}

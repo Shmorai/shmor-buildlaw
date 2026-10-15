@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-12",
+  "slug": "blog/jct-2024-whats-changed",
+  "type": "post",
+  "title": "JCT 2024: What Changed for Builders and Employers",
+  "description": "The main changes in the JCT 2024 Edition explained: Building Safety Act dutyholders, new relevant events, email notices, design liability and what to check.",
+  "h1": "JCT 2024: what changed, and what it means for your next contract",
+  "eyebrow": "Contracts · JCT",
+  "intro": "JCT’s 2024 Edition replaced the 2016 forms, starting with Design and Build in April 2024. The changes are evolutionary rather than radical, but some will affect how risk is shared on your next project.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387837-b154d5074bd2",
+    "alt": "Person drafting a building plan on a blueprint",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "keywords": [
+    "jct 2024",
+    "jct 2024 changes",
+    "jct 2024 edition",
+    "jct design and build 2024",
+    "new jct contract",
+    "jct 2016 vs 2024",
+    "jct relevant events",
+    "jct building safety act"
+  ],
+  "cardText": "The key changes in the JCT 2024 Edition: building safety, new relevant events, email notices and design liability.",
+  "sections": [
+    {
+      "h2": "The main changes",
+      "html": "<ul><li><strong>Building safety:</strong> new provisions identify the Principal Designer and Principal Contractor for the Building Regulations dutyholder regime introduced under the Building Safety Act 2022, alongside the CDM roles. In the Design and Build Contract, failing to comply with those dutyholder obligations is a contractor default. Work on higher-risk buildings will still usually need project-specific amendments.</li>\n<li><strong>New relevant events:</strong> discovery of asbestos, contaminated material and unexploded ordnance, with new employer powers to instruct; epidemics that affect labour or supplies; and a wider statutory-powers event that includes changes in the law.</li>\n<li><strong>Notices by email:</strong> the parties can agree to give notices and other communications electronically.</li>\n<li><strong>Design liability:</strong> in design and build, the contractor’s design liability is expressed as reasonable skill and care, rather than a fitness-for-purpose standard, unless otherwise required.</li>\n<li><strong>Collaborative working and sustainability:</strong> provisions previously available as supplemental terms are more fully integrated.</li></ul>"
+    },
+    {
+      "h2": "What to check before signing a 2024 form",
+      "html": "<ol><li>Which edition you’re signing, and that subcontracts and warranties match.</li>\n<li>How the email notice provisions are completed, including the addresses for notices.</li>\n<li>Whether the new relevant events have been deleted or amended in the schedule of amendments.</li>\n<li>How the building safety dutyholder roles are allocated, and whether higher-risk building amendments are needed.</li>\n<li>Fluctuations, insurance and payment options in the Contract Particulars.</li></ol><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I still use a JCT 2016 contract?",
+      "a": "Contracts already signed on 2016 forms remain valid. For new projects, the 2024 Edition reflects current law, including the Building Safety Act dutyholder regime, so it is usually the better starting point."
+    }
+  ],
+  "related": [
+    "jct-contracts",
+    "key-contract-terms"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    }
+  ]
+}

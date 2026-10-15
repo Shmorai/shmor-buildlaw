@@ -1,0 +1,84 @@
+{
+  "updated": "2026-10-15",
+  "slug": "nec-contracts",
+  "short": "NEC4 contracts",
+  "title": "NEC4 Contracts Explained: Options, Early Warnings, CEs",
+  "description": "How NEC4 Engineering and Construction Contracts work: main Options A to F, early warnings, compensation events, the programme and the 8-week notice time bar.",
+  "keywords": [
+    "nec",
+    "nec4",
+    "nec contract",
+    "nec4 ecc",
+    "engineering and construction contract",
+    "compensation event",
+    "early warning",
+    "nec option a",
+    "nec option c",
+    "target cost",
+    "time bar",
+    "accepted programme",
+    "project manager nec"
+  ],
+  "cardText": "NEC4 main Options A to F, early warnings, compensation events and the 8-week time bar, explained.",
+  "eyebrow": "Contracts · NEC",
+  "h1": "NEC4 contracts explained",
+  "intro": "NEC contracts are built around good project management: early warnings, a live programme and fast decisions on change. They work well when both sides keep up with the process, and punish those who don’t.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1536664823920-abf8d4229d92",
+    "alt": "Tower crane beside modern glass buildings",
+    "credit": "Tom Byrom",
+    "creditUrl": "https://unsplash.com/@tombyrom"
+  },
+  "searchPlaceholder": "Search NEC guides…",
+  "sections": [
+    {
+      "h2": "What makes NEC different",
+      "html": "<p>NEC (New Engineering Contract) forms, currently in their fourth edition, <strong>NEC4</strong>, are written in plain present-tense language (“the Contractor provides the Works”) and require the parties to “act in a spirit of mutual trust and co-operation”. They are widely used on public-sector and infrastructure work in the UK. The main building and engineering form is the <strong>Engineering and Construction Contract (ECC)</strong>; there are also short contracts, subcontracts, professional service contracts, term service contracts, framework and alliance contracts.</p>"
+    },
+    {
+      "h2": "The main Options",
+      "html": "<table><thead><tr><th>Option</th><th>Pricing basis</th><th>Who carries cost risk</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Priced contract with activity schedule</td><td>Mainly the Contractor</td></tr><tr><td><strong>B</strong></td><td>Priced contract with bill of quantities</td><td>Contractor; Client carries quantity risk</td></tr><tr><td><strong>C</strong></td><td>Target contract with activity schedule</td><td>Shared, through the pain/gain share</td></tr><tr><td><strong>D</strong></td><td>Target contract with bill of quantities</td><td>Shared</td></tr><tr><td><strong>E</strong></td><td>Cost reimbursable contract</td><td>Mainly the Client</td></tr><tr><td><strong>F</strong></td><td>Management contract</td><td>Mainly the Client</td></tr></tbody></table><p>Secondary Options (the “X” and “Y” clauses) add things like price adjustment for inflation, retention, delay damages and the Construction Act payment provisions.</p>"
+    },
+    {
+      "h2": "Early warnings",
+      "html": "<p>Both the Contractor and the Project Manager must give an <strong>early warning</strong> as soon as they become aware of a matter that could increase the price, delay completion or impair the works. Matters are recorded in an Early Warning Register and discussed at early warning meetings to find ways to reduce the impact. If the Contractor fails to give an early warning it should have given, a later compensation event may be assessed as if it had, which can reduce what it recovers.</p>"
+    },
+    {
+      "h2": "Compensation events and the 8-week time bar",
+      "html": "<p><strong>Compensation events</strong> are events that entitle the Contractor to more money and/or time, such as Project Manager instructions changing the Scope, late access, or the Client failing to do something on time. Each one is assessed by its effect on Defined Cost and on the programme, using quotations.</p><p>Under NEC4 ECC the Contractor must notify a compensation event <strong>within eight weeks of becoming aware</strong> that it has happened. If it doesn’t, it generally loses the right to a change in Prices, Completion Date or Key Dates, unless the event arises from the Project Manager or Supervisor giving an instruction, issuing a certificate or changing a decision (in which case the Project Manager should have notified it). The time bar is strict, so keep a diary of notices.</p>"
+    },
+    {
+      "h2": "The Accepted Programme",
+      "html": "<p>The programme is the centre of NEC project management. The Contractor submits programmes for acceptance at the intervals the contract sets, and the Project Manager must accept or give reasons for not accepting within the contract period. Until there is an Accepted Programme, a proportion of the Price for Work Done to Date can be withheld if the Contract Data says so. An up-to-date Accepted Programme makes assessing compensation events much easier.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is NEC better than JCT?",
+      "a": "Neither is better in general. NEC suits projects where both sides have the resources to run its active management processes; JCT suits many traditional building projects and is more familiar to smaller firms. The best fit depends on the project and the people."
+    },
+    {
+      "q": "What happens if the Project Manager doesn’t reply?",
+      "a": "NEC4 includes deemed acceptance in some situations. For example, if the Project Manager fails to reply to a quotation or a notification within the contract time, the Contractor can notify that failure, and a further failure to reply can mean deemed acceptance. Read the exact clause and time periods in your contract."
+    },
+    {
+      "q": "Does the Construction Act apply to NEC contracts?",
+      "a": "Yes. NEC4 includes secondary Option Y(UK)2 to bring the payment provisions into line with the Construction Act, and Option W2 for adjudication where the Act applies. Where those aren’t included, the statutory Scheme fills the gaps."
+    }
+  ],
+  "related": [
+    "construction-contracts",
+    "jct-contracts",
+    "contract-administration"
+  ],
+  "sources": [
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    }
+  ]
+}

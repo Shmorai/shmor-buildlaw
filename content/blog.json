@@ -1,0 +1,29 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 9,
+  "title": "Construction Law Blog: UK Updates and Explainers",
+  "description": "News and explainers on UK construction law: payment reform, retentions, JCT and NEC updates, building safety, adjudication and mediation, explained.",
+  "eyebrow": "Updates · Explainers · How-tos",
+  "h1": "Construction law updates and explainers",
+  "intro": "New rules, court decisions and contract updates that matter to builders and clients, explained clearly and checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1535732759880-bbd5c7265e3f",
+    "alt": "Low-angle view of a tall tower crane against the sky",
+    "credit": "James Sullivan",
+    "creditUrl": "https://unsplash.com/@iamjsullivan"
+  },
+  "search": false,
+  "listTitle": "Latest posts",
+  "keywords": [
+    "construction law blog",
+    "construction law news",
+    "construction law updates",
+    "building law news",
+    "jct updates",
+    "retention ban news"
+  ],
+  "cardText": "New rules, court decisions and contract updates for builders and clients, explained."
+}

@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-08",
+  "slug": "blog/court-ordered-mediation",
+  "type": "post",
+  "title": "Can a Court Order You to Mediate a Building Dispute?",
+  "description": "Since October 2024, courts in England and Wales can order parties to engage in ADR such as mediation. What changed after Churchill and what it means.",
+  "h1": "Can a court order you to mediate a building dispute?",
+  "eyebrow": "Disputes · Mediation",
+  "intro": "For twenty years the courts said they couldn’t make anyone mediate. That changed with the Court of Appeal’s decision in Churchill, and the Civil Procedure Rules now give judges an express power to order ADR.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694253988732-816ab6e60caa",
+    "alt": "A conference room with a long table and chairs",
+    "credit": "Michael Pointner",
+    "creditUrl": "https://unsplash.com/@pino_rumbero"
+  },
+  "keywords": [
+    "court ordered mediation",
+    "compulsory mediation",
+    "churchill v merthyr",
+    "cpr 3.1(2)(o)",
+    "order to mediate",
+    "refusal to mediate costs",
+    "adr civil procedure rules 2024",
+    "halsey"
+  ],
+  "cardText": "How Churchill and the October 2024 rule changes let courts order mediation, and what it means for you.",
+  "sections": [
+    {
+      "h2": "From Halsey to Churchill",
+      "html": "<p>In <em>Halsey v Milton Keynes General NHS Trust</em> [2004] the Court of Appeal said that compelling unwilling parties to mediate could breach their right of access to the court, though an unreasonable refusal could be penalised in costs. In <em>Churchill v Merthyr Tydfil County Borough Council</em> [2023] the Court of Appeal decided that courts <strong>can</strong> lawfully stay proceedings for, or order, the parties to engage in a non-court dispute resolution process, provided that doing so doesn’t impair the essence of the right to a judicial hearing and is proportionate to achieving a fair, speedy and cost-effective settlement.</p>"
+    },
+    {
+      "h2": "The October 2024 rule changes",
+      "html": "<p>The Civil Procedure (Amendment No. 3) Rules 2024 came into force on <strong>1 October 2024</strong>. Among other things:</p><ul><li>the overriding objective now includes promoting or using alternative dispute resolution;</li>\n<li>the court’s case management powers in CPR 3.1(2)(o) include ordering the parties to engage in ADR;</li>\n<li>when deciding costs, the court can consider whether a party failed to comply with an order to engage in ADR or unreasonably failed to engage in ADR.</li></ul>"
+    },
+    {
+      "h2": "What it means for construction disputes",
+      "html": "<ul><li>Expect judges to ask early whether you’ve tried mediation, and to be prepared to order it.</li>\n<li>Respond positively and promptly to reasonable invitations to mediate, and explain in writing if you think mediation is premature (for example, before key documents have been exchanged).</li>\n<li>The Pre-Action Protocol for Construction and Engineering Disputes already expects a pre-action meeting that considers ADR.</li>\n<li>The court can’t make you settle, only engage.</li></ul><p>Read our full guide to <a href=\"/construction-mediation/\">construction mediation</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does this apply in Scotland?",
+      "a": "No. The Civil Procedure Rules apply in England and Wales. Scotland has its own court rules and approach to ADR."
+    }
+  ],
+  "related": [
+    "construction-mediation",
+    "construction-disputes"
+  ],
+  "sources": [
+    {
+      "title": "Churchill v Merthyr Tydfil County Borough Council [2023] EWCA Civ 1416 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2023/1416"
+    },
+    {
+      "title": "Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2004/576"
+    },
+    {
+      "title": "Civil Procedure Rules, Part 3: the court’s case management powers (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part03"
+    },
+    {
+      "title": "Pre-Action Protocol for Construction and Engineering Disputes (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_ced"
+    }
+  ]
+}

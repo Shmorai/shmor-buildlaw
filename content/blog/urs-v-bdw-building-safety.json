@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-15",
+  "date": "2026-10-01",
+  "slug": "blog/urs-v-bdw-building-safety",
+  "type": "post",
+  "title": "URS v BDW: Why Old Defects Can Still Cost You",
+  "description": "What the Supreme Court decided in URS v BDW [2025] UKSC 21 about developers, the Defective Premises Act and the Building Safety Act’s longer time limits.",
+  "h1": "URS v BDW: why defects from decades ago can still cost you",
+  "eyebrow": "Defects · Building safety",
+  "intro": "In May 2025 the Supreme Court gave its first major decision on the Building Safety Act 2022’s extended time limits. The result matters to anyone who designs or builds homes in England and Wales.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1688113288879-dc36aad841a5",
+    "alt": "A tall building under construction with a crane on top",
+    "credit": "Robin the Bird",
+    "creditUrl": "https://unsplash.com/@robin___the___bird"
+  },
+  "keywords": [
+    "urs v bdw",
+    "urs corporation v bdw trading",
+    "building safety act limitation",
+    "defective premises act 30 years",
+    "section 135 building safety act",
+    "developer claims engineer",
+    "historic defects claims"
+  ],
+  "cardText": "What the Supreme Court decided in URS v BDW and what it means for designers, builders and developers.",
+  "sections": [
+    {
+      "h2": "The background",
+      "html": "<p>BDW, a housebuilder, engaged URS as structural engineer for two high-rise residential developments. After selling the flats, BDW discovered serious structural design defects and paid for remedial work, though it no longer owned the buildings and hadn’t been sued by the owners. It claimed the cost from URS in negligence and, after the Building Safety Act 2022 came into force, under the Defective Premises Act 1972.</p>"
+    },
+    {
+      "h2": "What the Supreme Court decided",
+      "html": "<p>On 21 May 2025 the Supreme Court dismissed URS’s appeal on all grounds ([2025] UKSC 21). In summary:</p><ul><li>BDW’s repair costs weren’t irrecoverable simply because it chose to pay them; whether they were recoverable depended on ordinary principles such as causation and mitigation.</li>\n<li>The Building Safety Act’s retrospective extension of the Defective Premises Act limitation period, from 6 years to 30 years for claims that arose before 28 June 2022, could benefit BDW’s claims against URS.</li>\n<li>A developer like BDW could itself be owed duties under section 1 of the Defective Premises Act.</li>\n<li>The court also considered when a party can bring a contribution claim against another party liable for the same damage.</li></ul>"
+    },
+    {
+      "h2": "What it means",
+      "html": "<ul><li><strong>Designers and contractors</strong> on residential projects in England and Wales can face claims about work completed decades ago. Keep project records, and check how long your insurance and record-keeping cover.</li>\n<li><strong>Developers</strong> who put right defects can, in principle, seek to recover the cost from those responsible, even after selling.</li>\n<li><strong>Everyone</strong> should take the Defective Premises Act seriously: it can’t be excluded by contract.</li></ul><p>See our summary of <a href=\"/key-contract-terms/\">defects and time limits</a> and other <a href=\"/case-studies/\">landmark cases</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the 30-year limit apply to all construction defects?",
+      "a": "No. The retrospective 30-year period applies to claims under section 1 of the Defective Premises Act 1972 concerning dwellings. Ordinary contract claims still have 6- or 12-year limits."
+    }
+  ],
+  "related": [
+    "key-contract-terms",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "URS Corporation Ltd v BDW Trading Ltd [2025] UKSC 21 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2025/21"
+    },
+    {
+      "title": "Defective Premises Act 1972 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/35"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    }
+  ]
+}

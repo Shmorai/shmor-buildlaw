@@ -1,0 +1,106 @@
+{
+  "updated": "2026-10-15",
+  "slug": "construction-disputes",
+  "nav": "Disputes",
+  "navOrder": 6,
+  "title": "Construction Disputes: Your Options from Mediation to Court",
+  "description": "How UK construction disputes are resolved: negotiation, mediation, adjudication, expert determination, arbitration and the Technology and Construction Court.",
+  "keywords": [
+    "construction dispute",
+    "building dispute",
+    "construction disputes",
+    "dispute resolution",
+    "alternative dispute resolution",
+    "adr",
+    "expert determination",
+    "arbitration",
+    "construction arbitration",
+    "technology and construction court",
+    "tcc",
+    "pre-action protocol",
+    "letter of claim",
+    "final account dispute",
+    "defects dispute",
+    "delay claim",
+    "sue a builder",
+    "sue a client"
+  ],
+  "cardText": "Negotiation, mediation, adjudication, expert determination, arbitration and court compared.",
+  "eyebrow": "Disputes",
+  "h1": "Construction disputes: your options, from a phone call to the courtroom",
+  "intro": "Most construction disputes are about money, time or quality, and most settle. Knowing the routes, how long they take and what they cost helps you choose the right one, and use the threat of the next one wisely.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9",
+    "alt": "Statue of Lady Justice holding scales and a sword",
+    "credit": "Tingey Injury Law Firm",
+    "creditUrl": "https://unsplash.com/@tingeyinjurylawfirm"
+  },
+  "searchPlaceholder": "Search dispute guides…",
+  "sections": [
+    {
+      "h2": "The options compared",
+      "html": "<table><thead><tr><th>Route</th><th>Binding?</th><th>Typical timescale</th><th>Best for</th></tr></thead><tbody><tr><td><strong>Negotiation</strong></td><td>Only if you agree terms</td><td>Days to weeks</td><td>Most disputes, as a first step</td></tr><tr><td><strong><a href=\"/construction-mediation/\">Mediation</a></strong></td><td>Only if a settlement is signed</td><td>Often a single day, once arranged</td><td>Final accounts, defects, multi-party disputes, preserving relationships</td></tr><tr><td><strong><a href=\"/adjudication/\">Adjudication</a></strong></td><td>Yes, temporarily: until finally decided by court, arbitration or agreement</td><td>28 days from referral, unless extended</td><td>Payment, valuation and extension of time disputes needing a fast answer</td></tr><tr><td><strong>Expert determination</strong></td><td>Yes, if the contract says so; very limited challenge</td><td>Agreed by the parties</td><td>Narrow technical or valuation questions</td></tr><tr><td><strong>Arbitration</strong></td><td>Yes, final; limited appeal</td><td>Months to years</td><td>Final resolution in private, often on international or complex projects</td></tr><tr><td><strong>Court (TCC)</strong></td><td>Yes, final, subject to appeal</td><td>Months to years</td><td>Final resolution, complex technical disputes, enforcing adjudication decisions</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Before you start: the Pre-Action Protocol",
+      "html": "<p>In England and Wales, before most construction and engineering claims go to court, the parties are expected to follow the <strong>Pre-Action Protocol for Construction and Engineering Disputes</strong>. In outline:</p><ol><li>the claimant sends a <strong>letter of claim</strong> setting out the claim, the facts, the basis and the sums sought;</li>\n<li>the defendant sends a <strong>letter of response</strong>, normally within 28 days (which can be extended by agreement, up to 3 months), including any counterclaim;</li>\n<li>the parties hold a <strong>pre-action meeting</strong> to identify the main issues and consider whether the dispute can be resolved without proceedings, including through ADR.</li></ol><p>Ignoring the Protocol can lead to costs penalties. It doesn’t apply to proceedings to enforce an adjudicator’s decision. Our <a href=\"/example-notices-and-letters/\">examples page</a> shows the structure of a letter of claim.</p>"
+    },
+    {
+      "h2": "Court: the Technology and Construction Court",
+      "html": "<p>The <strong>Technology and Construction Court (TCC)</strong> is a specialist list of the High Court that hears technically complex construction and engineering disputes, with judges experienced in the field. It sits in London and in several regional centres. It is also where adjudicators’ decisions are enforced, usually quickly through summary judgment. Smaller claims are heard in the County Court; most claims up to £10,000 are allocated to the small claims track.</p><p>Since 1 October 2024, the Civil Procedure Rules expressly allow the court to <strong>order the parties to engage in ADR</strong>, and unreasonable refusal to mediate can be penalised in costs. See <a href=\"/blog/court-ordered-mediation/\">our explainer</a>.</p>"
+    },
+    {
+      "h2": "Arbitration",
+      "html": "<p>Some contracts send final disputes to arbitration instead of court. Arbitration is private, the parties can choose an arbitrator with construction expertise, and awards are easier to enforce internationally. In England, Wales and Northern Ireland it is governed by the <strong>Arbitration Act 1996</strong>, as amended by the <strong>Arbitration Act 2025</strong> for arbitrations started on or after 1 August 2025. Scotland has its own Arbitration (Scotland) Act 2010. Read <a href=\"/blog/arbitration-act-2025/\">what the 2025 Act changed</a>.</p>"
+    },
+    {
+      "h2": "Choosing the right route",
+      "html": "<ul><li><strong>Need money now?</strong> Check whether a notified sum is due, then consider adjudication.</li>\n<li><strong>Complex, many issues, want to keep working together?</strong> Mediation first.</li>\n<li><strong>Narrow technical point?</strong> Consider expert determination if both sides agree.</li>\n<li><strong>Need a final, binding answer?</strong> Arbitration or court, depending on the contract.</li></ul><p>Whatever you choose, keep making offers. A well-timed written offer, including a formal Part 36 offer in court proceedings, can protect your position on costs.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to bring a construction claim?",
+      "a": "In England and Wales, generally 6 years from the breach for a simple contract, or 12 years for a contract executed as a deed. Negligence and Defective Premises Act claims have their own rules. Scotland uses different prescription periods. Don’t leave it late: take advice early."
+    },
+    {
+      "q": "Is adjudication better than going to court?",
+      "a": "It’s faster and usually cheaper, and the decision must be complied with straight away. But it’s only temporarily binding, and the losing party can later ask a court or arbitrator to decide the dispute finally. Many parties accept the adjudicator’s decision as the end of the matter."
+    },
+    {
+      "q": "Can I recover my legal costs?",
+      "a": "In court and arbitration, the loser usually pays a proportion of the winner’s costs. In adjudication, each party normally bears its own costs, and the Construction Act prevents contract terms that make one party pay all the costs of an adjudication regardless of outcome, unless agreed after the notice of adjudication."
+    }
+  ],
+  "related": [
+    "construction-mediation",
+    "adjudication",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "Pre-Action Protocol for Construction and Engineering Disputes (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/protocol/prot_ced"
+    },
+    {
+      "title": "Technology and Construction Court Guide (GOV.UK)",
+      "url": "https://www.gov.uk/government/publications/technology-and-construction-court-guide"
+    },
+    {
+      "title": "Civil Procedure Rules, Part 3: the court’s case management powers (justice.gov.uk)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part03"
+    },
+    {
+      "title": "Arbitration Act 1996 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/23/contents"
+    },
+    {
+      "title": "Arbitration Act 2025 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2025/4/contents"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    }
+  ]
+}

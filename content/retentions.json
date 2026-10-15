@@ -1,0 +1,92 @@
+{
+  "updated": "2026-10-15",
+  "slug": "retentions",
+  "short": "Retentions",
+  "title": "Construction Retentions: How to Get Retention Released",
+  "description": "How retention works in UK construction contracts, when it should be released, what to do if it isn’t, and where the proposed ban on cash retentions stands.",
+  "keywords": [
+    "retention",
+    "retentions",
+    "retention money",
+    "cash retention",
+    "retention release",
+    "retention ban",
+    "retention bond",
+    "rectification period",
+    "defects liability period",
+    "retention not paid",
+    "retention trust",
+    "retention percentage",
+    "making good"
+  ],
+  "cardText": "How retention works, when it should be released, recovering unpaid retention and the proposed ban.",
+  "eyebrow": "Getting paid",
+  "h1": "Construction retentions: how they work and how to get them back",
+  "intro": "Retention is money held back from payments as security for defects. It is one of the most common causes of cash-flow trouble for contractors and subcontractors, and the government now plans to ban it. Here’s how it works today.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea",
+    "alt": "Grey concrete building frame under construction",
+    "credit": "Tolu Olubode",
+    "creditUrl": "https://unsplash.com/@toluobde"
+  },
+  "searchPlaceholder": "Search payment guides…",
+  "sections": [
+    {
+      "h2": "How retention works",
+      "html": "<p>Under a retention clause, the payer keeps back a percentage of each interim payment, commonly between 3% and 5%, as security against defective work or the contractor failing to complete. Typically:</p><ul><li><strong>half is released at practical completion</strong> (or sectional completion), and</li>\n<li><strong>the rest is released at the end of the rectification (defects) period</strong>, often 12 months, once defects have been put right.</li></ul><p>The percentage and periods are whatever the contract says. JCT contracts use a default of 3% where the Contract Particulars state no other rate. Retention is passed down supply chains, so a subcontractor’s release may be linked to dates on the main contract, which can mean waiting years.</p>"
+    },
+    {
+      "h2": "Is retention held in trust?",
+      "html": "<p>In some JCT forms used for private-sector clients, the employer’s interest in retention is fiduciary, as trustee for the contractor, and the contractor can ask for it to be placed in a separate bank account. Whether that protection applies depends on the form and any amendments. If there is no trust, or the money was never set aside, retention can be lost if the payer becomes insolvent, which is the main reason for the proposed ban.</p>"
+    },
+    {
+      "h2": "Getting your retention released",
+      "html": "<ol><li><strong>Diarise the triggers:</strong> practical completion, the end of the rectification period and the issue of any certificate of making good.</li>\n<li><strong>Apply in writing</strong> at each trigger, citing the clause, the dates and the amount.</li>\n<li><strong>Make sure the payment process applies:</strong> release of retention is normally part of a payment cycle, so a payment notice (and any pay less notice) should follow. If none is given in time, the default notice rules may apply.</li>\n<li><strong>Close out defects promptly</strong> and get written confirmation that they’re complete.</li>\n<li><strong>Escalate:</strong> chase in writing, then consider adjudication. Statutory interest may apply to late payment between businesses.</li></ol><p>“Conditional” release terms, such as releasing a subcontractor’s retention only when the main contractor gets its own, may be ineffective under the Construction Act if they make payment conditional on another contract. Take advice on the wording.</p>"
+    },
+    {
+      "h2": "Alternatives to cash retention",
+      "html": "<ul><li><strong>Retention bond:</strong> a bond from a bank or surety instead of cash, so the contractor is paid in full.</li>\n<li><strong>Parent company guarantee</strong> or a <strong>performance bond</strong> covering defects risk.</li>\n<li><strong>Retention trust or escrow account:</strong> the money is held separately, protected if the payer becomes insolvent.</li>\n<li><strong>No retention:</strong> some public bodies and clients have moved to zero-retention policies, particularly under fair payment charters.</li></ul>"
+    },
+    {
+      "h2": "The proposed ban on cash retentions",
+      "html": "<p>In March 2026 the government published its response to the 2025 late payment consultation and said it would legislate to prohibit the deduction and withholding of cash retentions under construction contracts. A bill was introduced in the House of Lords in May 2026. <strong>As of October 2026 the ban is not law</strong>, the bill is still before Parliament, and the details, including any transition period, may change. Existing contracts continue to apply. See our <a href=\"/blog/retention-ban-late-payments-bill/\">explainer on the bill</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can a client keep my retention?",
+      "a": "Only as long as the contract allows: usually until practical completion for the first half and the end of the rectification period for the rest. Holding it longer without a contractual reason can be a breach of contract."
+    },
+    {
+      "q": "Can retention be used to pay for defects?",
+      "a": "Yes, that’s what it’s for, but the payer must follow the contract, including giving any required pay less notice. It can’t simply keep the retention without a valid basis."
+    },
+    {
+      "q": "What happens to retention if the main contractor goes bust?",
+      "a": "Unless the retention is held in a protected trust account, a subcontractor usually becomes an unsecured creditor and may recover little. This is the main argument for retention bonds, trust accounts and the proposed ban."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "contract-administration",
+    "blog/retention-ban-late-payments-bill"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/1998/649/contents"
+    },
+    {
+      "title": "Late commercial payments: charging interest and debt recovery (GOV.UK)",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery"
+    },
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    }
+  ]
+}
