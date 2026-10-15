@@ -1,0 +1,72 @@
+{
+  "updated": "2026-09-28",
+  "date": "2026-09-28",
+  "slug": "blog/contractor-insolvency",
+  "type": "post",
+  "title": "Builder Gone Bust? Contractor Insolvency Explained",
+  "description": "What happens when a contractor, subcontractor or client becomes insolvent in UK construction: termination, unpaid sums, retention and adjudication.",
+  "h1": "Builder gone bust? What contractor insolvency means for you",
+  "eyebrow": "Risk · Insolvency",
+  "intro": "Construction has more insolvencies than most industries. When a party in the chain fails, the contract terms, the timing and a few statutory rules decide who can do what next.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc",
+    "alt": "Red hard hat lying on the pavement",
+    "credit": "Ümit Yıldırım",
+    "creditUrl": "https://unsplash.com/@umityildirim"
+  },
+  "keywords": [
+    "builder gone bust",
+    "contractor insolvency",
+    "main contractor insolvent",
+    "subcontractor insolvency",
+    "contractor administration",
+    "construction insolvency",
+    "section 233b",
+    "ipso facto clause",
+    "retention insolvency"
+  ],
+  "cardText": "Termination, unpaid sums, retention and adjudication when a contractor or client becomes insolvent.",
+  "sections": [
+    {
+      "h2": "If your contractor becomes insolvent (clients)",
+      "html": "<ul><li>Standard forms usually let the employer <strong>terminate</strong> on the contractor’s insolvency, and often suspend payment obligations until the final account. Section 233B of the Insolvency Act 1986 doesn’t stop a client terminating an insolvent contractor.</li>\n<li>Secure the site, materials and design documents; check bonds, guarantees and <a href=\"/blog/collateral-warranties-explained/\">warranties</a>.</li>\n<li>Get a new contractor to finish, and keep records of the extra cost, which may be set off against sums otherwise due.</li></ul>"
+    },
+    {
+      "h2": "If your client or main contractor becomes insolvent (suppliers)",
+      "html": "<ul><li>Section 233B, added in 2020, generally stops a supplier (including a contractor or subcontractor) from terminating, or doing anything else, because its customer has entered an insolvency procedure. You may have to keep working, though the officeholder must pay for supplies after the insolvency.</li>\n<li>“Pay when paid” clauses are generally banned, but the Construction Act allows them where a party further up the chain is insolvent.</li>\n<li>Unprotected <a href=\"/retentions/\">retention</a> is usually lost into the insolvency, one reason for the <a href=\"/blog/retention-ban-late-payments-bill/\">proposed retention ban</a>.</li>\n<li>You’ll normally prove in the insolvency as an unsecured creditor for sums due before it.</li></ul>"
+    },
+    {
+      "h2": "Adjudication and insolvency",
+      "html": "<p>A company in liquidation can refer a dispute to <a href=\"/adjudication/\">adjudication</a> (<em>Bresco v Lonsdale</em> [2020]), but enforcement may be refused where cross-claims and insolvency set-off make it unfair. Take specialist advice early.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I stop work if the main contractor goes into administration?",
+      "a": "Often not because of the insolvency itself, because of section 233B. You may still have rights if payments due after the insolvency aren’t made. Take advice before stopping work."
+    }
+  ],
+  "related": [
+    "retentions",
+    "adjudication",
+    "key-contract-terms"
+  ],
+  "sources": [
+    {
+      "title": "Insolvency Act 1986, section 233B (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1986/45/section/233B"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Bresco Electrical Services Ltd v Michael J Lonsdale (Electrical) Ltd [2020] UKSC 25 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2020/25"
+    },
+    {
+      "title": "The Insolvency Service (GOV.UK)",
+      "url": "https://www.gov.uk/government/organisations/insolvency-service"
+    }
+  ]
+}

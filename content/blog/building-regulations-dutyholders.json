@@ -1,0 +1,71 @@
+{
+  "updated": "2026-09-22",
+  "date": "2026-09-22",
+  "slug": "blog/building-regulations-dutyholders",
+  "type": "post",
+  "title": "Building Regulations Dutyholders: Duties Explained",
+  "description": "The Building Regulations dutyholder regime since October 2023: client, principal designer and principal contractor duties, and domestic clients.",
+  "h1": "Building Regulations dutyholders explained",
+  "eyebrow": "Building safety · Compliance",
+  "intro": "Since 1 October 2023, the Building Regulations 2010 in England have included a dutyholder and competence regime introduced under the Building Safety Act 2022. It applies to almost all building work, not just high-rise buildings.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587582423116-ec07293f0395",
+    "alt": "Builder in a hard hat working on a timber house frame",
+    "credit": "Josh Olalde",
+    "creditUrl": "https://unsplash.com/@josholalde"
+  },
+  "keywords": [
+    "building regulations dutyholders",
+    "dutyholder regime",
+    "principal designer building regulations",
+    "principal contractor building regulations",
+    "part 2a building regulations",
+    "domestic client duties",
+    "building safety act dutyholders",
+    "competence requirements"
+  ],
+  "cardText": "Client, principal designer and principal contractor duties, competence and domestic clients.",
+  "sections": [
+    {
+      "h2": "Who the dutyholders are",
+      "html": "<ul><li><strong>Client:</strong> must make suitable arrangements for planning, managing and monitoring the project so the work complies, appoint a principal designer and principal contractor where more than one contractor is involved, and give information to the team.</li>\n<li><strong>Principal designer:</strong> plans, manages and monitors the design work for compliance and coordinates designers.</li>\n<li><strong>Principal contractor:</strong> plans, manages and monitors the building work for compliance and coordinates contractors.</li>\n<li><strong>Designers and contractors:</strong> must comply, cooperate and share information.</li></ul><p>These roles sit alongside, but are separate from, the CDM 2015 roles of the same name, which concern health and safety. Often the same firm holds both.</p>"
+    },
+    {
+      "h2": "Competence",
+      "html": "<p>Anyone carrying out design or building work must have the skills, knowledge, experience and behaviours to do it in compliance with the Building Regulations, and anyone appointing them must take reasonable steps to check this. Higher-risk buildings have additional requirements and a separate gateway regime with the Building Safety Regulator.</p>"
+    },
+    {
+      "h2": "Domestic clients",
+      "html": "<p>Where the client is a homeowner having work done that isn’t for a business, most of the client duties are carried out by the contractor (or the principal contractor where there’s more than one). The homeowner should still cooperate and provide information. See <a href=\"/homeowners-and-builders/\">homeowners and builders</a>.</p>"
+    },
+    {
+      "h2": "Contracts",
+      "html": "<p>JCT 2024 forms identify the principal designer and principal contractor for these purposes, and in the Design and Build Contract a failure to meet the dutyholder obligations is a contractor default. Read <a href=\"/blog/jct-2024-whats-changed/\">what changed in JCT 2024</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the dutyholder regime apply in Wales, Scotland or Northern Ireland?",
+      "a": "The Part 2A regime described here applies in England. Wales has introduced its own changes under the Building Safety Act, and Scotland and Northern Ireland have separate building standards systems. Check the rules where the work is."
+    }
+  ],
+  "related": [
+    "blog/jct-2024-whats-changed",
+    "key-contract-terms",
+    "homeowners-and-builders"
+  ],
+  "sources": [
+    {
+      "title": "Building Regulations 2010, Part 2A: dutyholders and competence (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/2010/2214/part/2A"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    },
+    {
+      "title": "Construction (Design and Management) Regulations 2015: HSE guidance",
+      "url": "https://www.hse.gov.uk/construction/cdm/2015/index.htm"
+    }
+  ]
+}

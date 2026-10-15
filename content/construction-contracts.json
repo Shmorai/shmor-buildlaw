@@ -71,7 +71,9 @@
   "related": [
     "jct-contracts",
     "nec-contracts",
-    "key-contract-terms"
+    "key-contract-terms",
+    "blog/jct-vs-nec",
+    "blog/jct-minor-works-vs-intermediate"
   ],
   "sources": [
     {

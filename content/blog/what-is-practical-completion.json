@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-07",
+  "date": "2026-10-07",
+  "slug": "blog/what-is-practical-completion",
+  "type": "post",
+  "title": "What Is Practical Completion? UK Construction Guide",
+  "description": "What practical completion means in UK construction, what the courts say about defects and snagging, and the consequences for retention, damages and insurance.",
+  "h1": "What is practical completion?",
+  "eyebrow": "Contract administration · Completion",
+  "intro": "Practical completion is one of the most important dates on a project, yet most contracts don’t define it. Here’s what the courts say it means, and why it matters to both sides.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1531834685032-c34bf0d84c77",
+    "alt": "People working on a building under construction during the day",
+    "credit": "Josue Isai Ramos Figueroa",
+    "creditUrl": "https://unsplash.com/@jramos10"
+  },
+  "keywords": [
+    "practical completion",
+    "what is practical completion",
+    "practical completion certificate",
+    "practical completion definition",
+    "snagging list",
+    "mears v costplan",
+    "patent defects practical completion"
+  ],
+  "cardText": "What the courts say practical completion means, and what it triggers for both sides.",
+  "sections": [
+    {
+      "h2": "The legal test",
+      "html": "<p>In <em>Mears Ltd v Costplan Services</em> [2019] the Court of Appeal summarised the position: practical completion is reached when the works are complete and <strong>free from patent defects, other than ones to be ignored as trifling</strong>. Whether a defect is trifling is a question of fact and degree, judged against whether the building can be used as intended. Latent defects, which nobody knows about yet, can’t prevent it. Unfinished work and defective work are treated alike.</p>"
+    },
+    {
+      "h2": "What practical completion triggers",
+      "html": "<ul><li><strong>Release of half the retention</strong> (see <a href=\"/retentions/\">retentions</a>).</li>\n<li><strong>Liquidated damages stop</strong> accruing (see <a href=\"/blog/liquidated-damages-explained/\">liquidated damages</a>).</li>\n<li><strong>The rectification period starts.</strong></li>\n<li><strong>Insurance and security</strong> often pass to the client.</li>\n<li>Final account and time limits for some claims start to run.</li></ul>"
+    },
+    {
+      "h2": "Practical tips",
+      "html": "<ul><li><strong>Contractors:</strong> agree a snagging process and target date early; give notice when you consider practical completion achieved.</li>\n<li><strong>Clients and administrators:</strong> certify when the test is met, not when everything is perfect; list outstanding items; don’t withhold the certificate for leverage.</li>\n<li><strong>Everyone:</strong> record the building’s condition at handover with photos.</li></ul><p>More in our <a href=\"/contract-administration/\">contract administration guide</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can the client move in before practical completion?",
+      "a": "Under many contracts, the client can take partial possession of part of the works with the contractor’s consent, which has its own consequences for damages, retention and insurance. Check the contract."
+    }
+  ],
+  "related": [
+    "contract-administration",
+    "retentions",
+    "blog/builder-liability-for-defects"
+  ],
+  "sources": [
+    {
+      "title": "Mears Ltd v Costplan Services (South East) Ltd [2019] EWCA Civ 502 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2019/502"
+    },
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    }
+  ]
+}

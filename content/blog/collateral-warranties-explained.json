@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-01",
+  "date": "2026-10-01",
+  "slug": "blog/collateral-warranties-explained",
+  "type": "post",
+  "title": "Collateral Warranties Explained: A UK Construction Guide",
+  "description": "What collateral warranties are, who needs them, step-in rights, third party rights and what Abbey Healthcare v Augusta means for adjudication.",
+  "h1": "Collateral warranties explained",
+  "eyebrow": "Contract terms · Warranties",
+  "intro": "Collateral warranties give funders, buyers and tenants a direct claim against the contractor and consultants who built a project. Here’s how they work, and what the Supreme Court decided about them in 2024.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626885930974-4b69aa21bbf9",
+    "alt": "Two construction workers in safety vests on a site",
+    "credit": "Joe Holland",
+    "creditUrl": "https://unsplash.com/@jos_holland111"
+  },
+  "keywords": [
+    "collateral warranty",
+    "collateral warranties",
+    "what is a collateral warranty",
+    "collateral warranty construction",
+    "step in rights",
+    "third party rights construction",
+    "abbey healthcare v augusta",
+    "collateral warranty adjudication"
+  ],
+  "cardText": "Who needs collateral warranties, step-in rights, third party rights and the 2024 Supreme Court decision.",
+  "sections": [
+    {
+      "h2": "Why they exist",
+      "html": "<p>Only the parties to a contract can usually sue on it. A funder, purchaser or tenant who suffers loss from defective work generally has no contract with the contractor or designers. A <strong>collateral warranty</strong> creates that direct link: the contractor or consultant promises the beneficiary that it has performed, and will perform, its building contract or appointment.</p>"
+    },
+    {
+      "h2": "Typical terms",
+      "html": "<ul><li>A warranty of performance, usually limited to the same obligations and liability as the main contract.</li>\n<li><strong>Step-in rights</strong> for funders, letting them take over the contract if the employer defaults.</li>\n<li>Professional indemnity insurance requirements for designers.</li>\n<li>Limits on assignment, a liability cap and a “no greater liability” clause.</li></ul><p>An alternative is to grant <strong>third party rights</strong> under the Contracts (Rights of Third Parties) Act 1999, often through a schedule in JCT contracts. Read about other <a href=\"/key-contract-terms/\">key contract terms</a>.</p>"
+    },
+    {
+      "h2": "Can you adjudicate under a warranty?",
+      "html": "<p>In <em>Abbey Healthcare (Mill Hill) Ltd v Augusta 2008 LLP</em> [2024] UKSC 23, the Supreme Court held that a collateral warranty is a “construction contract” under the Construction Act only where the contractor undertakes obligations to the beneficiary to carry out construction operations that are <strong>separate and distinct</strong> from its obligations under the building contract. A warranty that merely promises the beneficiary that the building contract has been or will be performed is not one, so there’s no statutory right to <a href=\"/adjudication/\">adjudicate</a>. The court expected most collateral warranties to fall outside the Act. Beneficiaries who want adjudication should include an express adjudication clause.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does a collateral warranty last?",
+      "a": "It depends on how it is executed. Warranties are usually signed as deeds, giving a 12-year limitation period in England and Wales, and often limited to match the main contract."
+    }
+  ],
+  "related": [
+    "key-contract-terms",
+    "adjudication",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "Abbey Healthcare (Mill Hill) Ltd v Augusta 2008 LLP [2024] UKSC 23 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2024/23"
+    },
+    {
+      "title": "Contracts (Rights of Third Parties) Act 1999 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1999/31/contents"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-04",
+  "date": "2026-10-04",
+  "slug": "blog/jct-minor-works-vs-intermediate",
+  "type": "post",
+  "title": "JCT Minor Works vs Intermediate: Which to Use?",
+  "description": "JCT Minor Works and Intermediate compared: project size, complexity, design and administration, and when to step up to the Standard Building Contract.",
+  "h1": "JCT Minor Works vs Intermediate: which should you use?",
+  "eyebrow": "Contracts · JCT",
+  "intro": "Minor Works and Intermediate are JCT’s two most popular forms for small and medium projects. They look similar, but suit different jobs. Here’s how to choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1664463760781-f159dfe3af30",
+    "alt": "Couple signing a document at a desk",
+    "credit": "Annika Wischnewsky",
+    "creditUrl": "https://unsplash.com/@wischn"
+  },
+  "keywords": [
+    "jct minor works vs intermediate",
+    "jct minor works",
+    "jct intermediate",
+    "jct minor works contract",
+    "jct intermediate building contract",
+    "mw vs ic",
+    "mwd contract",
+    "icd contract",
+    "which jct contract"
+  ],
+  "cardText": "Size, complexity, design and administration: choosing between Minor Works and Intermediate.",
+  "sections": [
+    {
+      "h2": "At a glance",
+      "html": "<table><thead><tr><th></th><th>Minor Works (MW / MWD)</th><th>Intermediate (IC / ICD)</th></tr></thead><tbody><tr><td><strong>Best for</strong></td><td>Simple, small works</td><td>Medium projects of moderate complexity</td></tr><tr><td><strong>Design</strong></td><td>Client’s design; MWD adds contractor design of specified parts</td><td>Client’s design; ICD adds a contractor-designed portion</td></tr><tr><td><strong>Detail</strong></td><td>Short, simple provisions</td><td>Fuller provisions, for example named specialists, sectional completion and more detailed insurance and termination clauses</td></tr><tr><td><strong>Administration</strong></td><td>Architect/contract administrator</td><td>Architect/contract administrator</td></tr></tbody></table><p>JCT’s own guidance describes each form’s intended use, and there’s no fixed financial limit for either. See the <a href=\"/jct-contracts/\">full JCT family</a>.</p>"
+    },
+    {
+      "h2": "When Minor Works is enough",
+      "html": "<ul><li>The work is simple and fully designed before tender.</li>\n<li>The period is short and there are no complex services installations.</li>\n<li>There’s no need for sections, named subcontractors or detailed control procedures.</li></ul>"
+    },
+    {
+      "h2": "When to choose Intermediate (or more)",
+      "html": "<ul><li>The project involves several trades and some complexity, but not enough for the <a href=\"/blog/jct-vs-nec/\">Standard Building Contract or NEC</a>.</li>\n<li>You want to name specialists, complete in sections or have more detailed provisions.</li>\n<li>Step up to the Standard Building Contract for larger or complex projects, or where bills of quantities are used.</li></ul><p>For a homeowner, use JCT’s homeowner contracts instead: see <a href=\"/homeowners-and-builders/\">homeowners and builders</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a value limit for JCT Minor Works?",
+      "a": "JCT doesn’t set a fixed limit; it describes the type of project each form suits. Complexity and risk matter more than the contract sum."
+    }
+  ],
+  "related": [
+    "jct-contracts",
+    "construction-contracts",
+    "blog/jct-2024-whats-changed"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    }
+  ]
+}

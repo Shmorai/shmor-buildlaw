@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-09",
+  "date": "2026-10-09",
+  "slug": "blog/liquidated-damages-explained",
+  "type": "post",
+  "title": "Liquidated Damages in Construction: A UK Guide",
+  "description": "How liquidated damages for delay work in UK construction contracts, when they can be deducted, the penalty rule, caps and what happens after termination.",
+  "h1": "Liquidated damages in construction contracts",
+  "eyebrow": "Contract terms · Delay",
+  "intro": "Liquidated damages (LDs or LADs) are the pre-agreed sum a contractor pays for finishing late. They’re simple in principle, but the details decide whether they can be deducted at all.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599707254554-027aeb4deacd",
+    "alt": "Yellow tower crane beside a building under construction",
+    "credit": "Frames For Your Heart",
+    "creditUrl": "https://unsplash.com/@framesforyourheart"
+  },
+  "keywords": [
+    "liquidated damages",
+    "liquidated damages construction",
+    "lads",
+    "liquidated and ascertained damages",
+    "delay damages",
+    "are liquidated damages a penalty",
+    "deduct liquidated damages",
+    "liquidated damages cap",
+    "non-completion certificate"
+  ],
+  "cardText": "How LDs work, when they can be deducted, the penalty rule, caps and termination.",
+  "sections": [
+    {
+      "h2": "How they work",
+      "html": "<p>The contract sets a rate, for example per week of delay, and the client can recover it for each period the works are late beyond the completion date (as extended), without proving its actual loss. LDs usually replace the client’s right to general damages for delay, so the rate also limits the contractor’s exposure. Read more in our <a href=\"/key-contract-terms/\">key contract terms guide</a>.</p>"
+    },
+    {
+      "h2": "Before deducting: the procedure",
+      "html": "<ul><li><strong>JCT:</strong> deduction usually depends on a <strong>non-completion certificate</strong> and the employer’s notices, given in time, plus a valid <a href=\"/blog/how-to-write-a-pay-less-notice/\">pay less notice</a> where LDs are deducted from a payment.</li>\n<li><strong>Extensions of time:</strong> any <a href=\"/blog/extension-of-time-claims/\">extension of time</a> must be decided properly first. Without a working EOT mechanism for client delays, the “prevention principle” can defeat the LD clause.</li>\n<li><strong>Rate filled in:</strong> stating “£nil” can mean no damages for delay at all, so take care with the Contract Particulars.</li></ul>"
+    },
+    {
+      "h2": "Are LDs a penalty?",
+      "html": "<p>Rarely. Since <em>Cavendish Square Holding v Makdessi</em> [2015], a clause is an unenforceable penalty only if it imposes a detriment out of all proportion to the innocent party’s legitimate interest. Commercial parties who negotiated a rate will usually be held to it.</p>"
+    },
+    {
+      "h2": "Caps and termination",
+      "html": "<p>Many contracts cap LDs, often as a percentage of the contract sum. In <em>Triple Point Technology v PTT</em> [2021], the Supreme Court held that LDs accrue up to termination even if the contractor never completes; after termination, the client claims general damages. See our <a href=\"/case-studies/\">case studies</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can liquidated damages be deducted after practical completion?",
+      "a": "Liquidated damages stop accruing at practical completion, but accrued sums can be deducted from later payments if the contract procedure and notices are followed."
+    }
+  ],
+  "related": [
+    "key-contract-terms",
+    "blog/extension-of-time-claims",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "Cavendish Square Holding BV v Makdessi; ParkingEye Ltd v Beavis [2015] UKSC 67 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2015/67"
+    },
+    {
+      "title": "Triple Point Technology Inc v PTT Public Company Ltd [2021] UKSC 29 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2021/29"
+    },
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    }
+  ]
+}

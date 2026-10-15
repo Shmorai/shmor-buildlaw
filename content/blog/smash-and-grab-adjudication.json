@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-11",
+  "date": "2026-10-11",
+  "slug": "blog/smash-and-grab-adjudication",
+  "type": "post",
+  "title": "Smash and Grab Adjudication Explained (UK)",
+  "description": "What a smash-and-grab adjudication is, why it works when a payer misses its notices, how true value adjudications respond, and how to avoid being caught out.",
+  "h1": "Smash-and-grab adjudication explained",
+  "eyebrow": "Disputes · Adjudication",
+  "intro": "A “smash and grab” adjudication claims the full sum applied for because the payer missed its payment or pay less notice. It is fast, often decisive and entirely legitimate. Here’s how it works, and how payers protect themselves.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1429497419816-9ca5cfb4571a",
+    "alt": "Low-angle view of tower cranes on top of a building",
+    "credit": "Danist Soh",
+    "creditUrl": "https://unsplash.com/@danist07"
+  },
+  "keywords": [
+    "smash and grab adjudication",
+    "smash and grab claim",
+    "true value adjudication",
+    "notified sum adjudication",
+    "s&t v grove",
+    "grove v s&t",
+    "adjudication missed pay less notice"
+  ],
+  "cardText": "Why missing a notice can cost a payer the full applied-for sum, and how true value adjudications work.",
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>If the payer gives no valid payment notice and no valid pay less notice, the payee’s application (or default notice) becomes the <strong>notified sum</strong>. The payee then refers a single question to adjudication: <em>was the notified sum paid by the final date?</em> The adjudicator doesn’t value the work. If the notices weren’t given, the answer is usually straightforward. See <a href=\"/construction-payments/\">the payment rules</a>.</p>"
+    },
+    {
+      "h2": "The payer’s response: true value",
+      "html": "<p>In <em>S&amp;T (UK) Ltd v Grove Developments Ltd</em> [2018] the Court of Appeal held that a payer who missed its notices must <strong>pay the notified sum first</strong>. Only then can it start its own “true value” adjudication to establish what that interim payment should have been, and recover any overpayment. This principle comes from case law rather than the wording of the Act, and the courts have since enforced smash-and-grab decisions routinely unless there’s a genuine jurisdiction or natural justice problem.</p>"
+    },
+    {
+      "h2": "Payers: how to avoid it",
+      "html": "<ul><li>Diarise every due date, payment notice deadline and pay less deadline. Our calculator on the <a href=\"/construction-payments/\">payments guide</a> counts days correctly, excluding bank holidays.</li>\n<li>Use a standard <a href=\"/blog/how-to-write-a-pay-less-notice/\">pay less notice</a> format with a stated sum and basis.</li>\n<li>Check the notice clause for who must receive notices and how.</li>\n<li>Treat every application as live, including late or “final” applications, and take advice on whether it’s valid.</li></ul>"
+    },
+    {
+      "h2": "Payees: make the application valid",
+      "html": "<p>A smash and grab only works if the application was valid and served on time under the contract. Check the timing, form and recipient, and make sure there’s a clear due date. Then see our <a href=\"/adjudication/\">adjudication guide</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a smash-and-grab adjudication unfair?",
+      "a": "It can feel harsh, but it enforces a statutory process both sides agreed to. The payer keeps the right to have the true value decided, once it has paid."
+    }
+  ],
+  "related": [
+    "adjudication",
+    "construction-payments",
+    "case-studies"
+  ],
+  "sources": [
+    {
+      "title": "S&T (UK) Ltd v Grove Developments Ltd [2018] EWCA Civ 2448 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/2448"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Macob Civil Engineering Ltd v Morrison Construction Ltd [1999] EWHC Technology 254 (BAILII)",
+      "url": "https://www.bailii.org/ew/cases/EWHC/TCC/1999/254.html"
+    }
+  ]
+}

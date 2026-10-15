@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-10",
+  "date": "2026-10-10",
+  "slug": "blog/extension-of-time-claims",
+  "type": "post",
+  "title": "How to Claim an Extension of Time in Construction",
+  "description": "How to claim an extension of time under JCT and NEC contracts: notices, evidence, programmes, concurrent delay and how EOT protects you from liquidated damages.",
+  "h1": "How to claim an extension of time",
+  "eyebrow": "Contract administration · Delay",
+  "intro": "An extension of time (EOT) moves the completion date when delay is caused by events the contract puts at the client’s risk. It protects the contractor from liquidated damages. Getting one depends on prompt notice and good evidence.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f",
+    "alt": "Building structure in progress with exposed frame",
+    "credit": "Nathan Waters",
+    "creditUrl": "https://unsplash.com/@nathangwaters"
+  },
+  "keywords": [
+    "extension of time",
+    "how to claim extension of time",
+    "eot claim",
+    "extension of time jct",
+    "relevant events jct",
+    "compensation event nec",
+    "delay claim construction",
+    "concurrent delay",
+    "prevention principle"
+  ],
+  "cardText": "Notices, evidence, programmes and concurrent delay: how to secure an extension of time.",
+  "sections": [
+    {
+      "h2": "What qualifies",
+      "html": "<p>Each contract lists the events that entitle the contractor to more time: <strong>Relevant Events</strong> under JCT (for example variations, late information, employer’s impediment, exceptionally adverse weather, and under JCT 2024 discovery of asbestos or unexploded ordnance) and <strong>compensation events</strong> under NEC4. Contractor risk events, such as its own poor productivity, don’t qualify. Read the <a href=\"/contract-administration/\">contract administration guide</a>.</p>"
+    },
+    {
+      "h2": "Step by step",
+      "html": "<ol><li><strong>Notify promptly.</strong> JCT requires notice when it becomes reasonably apparent that progress is or is likely to be delayed. Under NEC4 the contractor must notify a compensation event within 8 weeks of becoming aware of it or, in most cases, lose the entitlement.</li>\n<li><strong>Give particulars:</strong> the cause, the expected effect on completion, and supporting evidence.</li>\n<li><strong>Show the critical path:</strong> use the programme to demonstrate that the event delays completion, not just an activity.</li>\n<li><strong>Update</strong> as the delay develops.</li>\n<li><strong>Claim the money separately:</strong> loss and expense (JCT) or the cost element of the compensation event (NEC).</li></ol><p>Use our <a href=\"/example-notices-and-letters/\">example delay notice</a>.</p>"
+    },
+    {
+      "h2": "Concurrent delay",
+      "html": "<p>Where a client delay and a contractor delay overlap, unamended JCT wording has been read as entitling the contractor to an extension (<em>Walter Lilly v Mackay</em>), though not necessarily to money. Parties can agree otherwise: in <em>North Midland Building v Cyden Homes</em> a clause excluding concurrent delay from EOT assessments was upheld. Check your amendments. More in our <a href=\"/case-studies/\">case studies</a>.</p>"
+    },
+    {
+      "h2": "If the EOT is refused",
+      "html": "<p>Ask for reasons in writing, provide further evidence and, if needed, refer the dispute to <a href=\"/adjudication/\">adjudication</a>. If the client deducts <a href=\"/blog/liquidated-damages-explained/\">liquidated damages</a> meanwhile, check that it served any notices the contract requires.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does an extension of time mean I get paid more?",
+      "a": "Not automatically. Time and money are separate under JCT: you need a loss and expense claim for additional costs. Under NEC, the compensation event assessment deals with both."
+    }
+  ],
+  "related": [
+    "contract-administration",
+    "blog/liquidated-damages-explained",
+    "example-notices-and-letters"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    },
+    {
+      "title": "Walter Lilly & Co Ltd v Mackay [2012] EWHC 1773 (TCC) (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2012/1773"
+    },
+    {
+      "title": "North Midland Building Ltd v Cyden Homes Ltd [2018] EWCA Civ 1744 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1744"
+    }
+  ]
+}

@@ -77,7 +77,10 @@
   "related": [
     "contract-administration",
     "case-studies",
-    "jct-contracts"
+    "jct-contracts",
+    "blog/liquidated-damages-explained",
+    "blog/collateral-warranties-explained",
+    "blog/builder-liability-for-defects"
   ],
   "sources": [
     {

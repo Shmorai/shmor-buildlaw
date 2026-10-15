@@ -1,0 +1,77 @@
+{
+  "updated": "2026-09-30",
+  "date": "2026-09-30",
+  "slug": "blog/cis-construction-industry-scheme-guide",
+  "type": "post",
+  "title": "CIS Explained: Construction Industry Scheme Guide",
+  "description": "How the Construction Industry Scheme works: registration, deduction rates, monthly returns, gross payment status and reverse charge VAT.",
+  "h1": "The Construction Industry Scheme (CIS) explained",
+  "eyebrow": "Tax · CIS",
+  "intro": "CIS is HMRC’s tax scheme for the construction industry. Contractors deduct tax from subcontractors’ payments and pass it to HMRC. It sits alongside, not inside, the Construction Act payment rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f",
+    "alt": "Construction worker in a hard hat and hi-vis vest holding a power tool",
+    "credit": "Jeriden Villegas",
+    "creditUrl": "https://unsplash.com/@jeriden94"
+  },
+  "keywords": [
+    "cis",
+    "construction industry scheme",
+    "cis deductions",
+    "cis tax",
+    "cis registration",
+    "cis monthly return",
+    "gross payment status",
+    "cis 20%",
+    "cis 30%",
+    "reverse charge vat construction"
+  ],
+  "cardText": "Registration, deduction rates, monthly returns, gross payment status and reverse charge VAT.",
+  "sections": [
+    {
+      "h2": "Who it applies to",
+      "html": "<p>CIS covers most construction work on buildings and civil engineering, including site preparation, demolition, alterations, repairs and installing heating, lighting, power, water and ventilation. It doesn’t cover, for example, architecture and surveying, scaffolding hire without labour, carpet fitting or delivering materials. Contractors (including some businesses that spend heavily on construction) must register; subcontractors should register.</p>"
+    },
+    {
+      "h2": "Deduction rates",
+      "html": "<table><thead><tr><th>Subcontractor status</th><th>Deduction</th></tr></thead><tbody><tr><td>Registered</td><td>20%</td></tr><tr><td>Not registered</td><td>30%</td></tr><tr><td>Gross payment status</td><td>0%</td></tr></tbody></table><p>Deductions apply to the labour element, not to materials, VAT or CITB levy. Contractors must verify new subcontractors with HMRC.</p>"
+    },
+    {
+      "h2": "Monthly returns",
+      "html": "<p>Contractors file a monthly return by the <strong>19th</strong> after the end of each tax month (which runs from the 6th to the 5th). In months with no payments, file a nil return or tell HMRC you’ve temporarily stopped using subcontractors. Late returns attract penalties, starting at £100.</p>"
+    },
+    {
+      "h2": "Gross payment status",
+      "html": "<p>Subcontractors who meet HMRC’s business, turnover and compliance tests can be paid gross. As of April 2026, HMRC has stronger powers to remove gross payment status where a business knew or should have known that a payment was connected with fraud, with a longer wait before it can reapply. Check the current tests and rules on GOV.UK.</p>"
+    },
+    {
+      "h2": "Reverse charge VAT",
+      "html": "<p>Since 1 March 2021, the VAT domestic reverse charge applies to most supplies of construction services between VAT-registered businesses that are reported under CIS: the customer accounts for the VAT instead of the supplier. It doesn’t apply to supplies to end users. Remember CIS and VAT are separate from <a href=\"/blog/payment-notice-vs-pay-less-notice/\">payment and pay less notices</a>, so show deductions clearly.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is CIS the same as a pay less notice deduction?",
+      "a": "No. CIS is a tax deduction passed to HMRC. A pay less notice is a contractual and statutory mechanism to pay less than the notified sum. Keep them separate on payment documents."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "blog/payment-notice-vs-pay-less-notice",
+    "retentions"
+  ],
+  "sources": [
+    {
+      "title": "What is the Construction Industry Scheme (GOV.UK)",
+      "url": "https://www.gov.uk/what-is-the-construction-industry-scheme"
+    },
+    {
+      "title": "CIS contractors: file your monthly returns (GOV.UK)",
+      "url": "https://www.gov.uk/what-you-must-do-as-a-cis-contractor/file-your-monthly-returns"
+    },
+    {
+      "title": "VAT domestic reverse charge for building and construction services (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/vat-domestic-reverse-charge-for-building-and-construction-services"
+    }
+  ]
+}

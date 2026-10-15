@@ -1,0 +1,72 @@
+{
+  "updated": "2026-09-24",
+  "date": "2026-09-24",
+  "slug": "blog/party-wall-act-guide",
+  "type": "post",
+  "title": "Party Wall Act Guide: Notices, Surveyors and Awards",
+  "description": "The Party Wall etc. Act 1996 explained: which works need notice, notice periods, the 14-day rule, surveyors and party wall awards for owners and builders.",
+  "h1": "The Party Wall Act: a guide for owners and builders",
+  "eyebrow": "Homeowners · Neighbours",
+  "intro": "Extensions, loft conversions and basements often affect a shared wall or a neighbour’s foundations. In England and Wales, the Party Wall etc. Act 1996 sets out a notice process that must be followed before work starts.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1464082354059-27db6ce50048",
+    "alt": "Row of colourful terraced houses under a cloudy sky",
+    "credit": "Toa Heftiba",
+    "creditUrl": "https://unsplash.com/@heftiba"
+  },
+  "keywords": [
+    "party wall act",
+    "party wall agreement",
+    "party wall notice",
+    "party wall surveyor",
+    "party wall award",
+    "party structure notice",
+    "loft conversion party wall",
+    "extension party wall",
+    "adjacent excavation notice"
+  ],
+  "cardText": "Which works need notice, notice periods, the 14-day rule, surveyors and awards.",
+  "sections": [
+    {
+      "h2": "Which works need notice",
+      "html": "<ul><li><strong>Building a new wall on the boundary</strong> (line of junction): at least one month’s notice (section 1).</li>\n<li><strong>Work to an existing party wall or party structure</strong>, such as cutting in beams, raising or underpinning it: a party structure notice at least <strong>two months</strong> before work starts (section 3).</li>\n<li><strong>Excavating near a neighbour’s building</strong>: within 3 metres and deeper than their foundations, or within 6 metres where the excavation would cut a 45-degree line from their foundations, at least one month’s notice (section 6).</li></ul><p>The Act applies in England and Wales. Scotland and Northern Ireland have different rules.</p>"
+    },
+    {
+      "h2": "The 14-day rule",
+      "html": "<p>The neighbour (adjoining owner) can consent in writing. If they don’t consent within <strong>14 days</strong> of a party structure notice (or an excavation notice), a dispute is deemed to have arisen. That doesn’t mean a fight: it means surveyors are appointed.</p>"
+    },
+    {
+      "h2": "Surveyors and awards",
+      "html": "<p>The owners either agree on one surveyor or each appoints their own, and the surveyors make a <strong>party wall award</strong> setting out what work can be done, how and when, and usually recording the condition of the neighbour’s property. The building owner normally pays the reasonable surveyors’ costs. An award can be appealed to the county court within 14 days.</p>"
+    },
+    {
+      "h2": "For builders",
+      "html": "<p>Party wall notices are usually the owner’s responsibility, but contracts should say who deals with them, and starting work before the process is complete can cause delays and claims. Add it to your <a href=\"/homeowners-and-builders/\">homeowner contract checklist</a> and see <a href=\"/blog/building-regulations-dutyholders/\">building regulations dutyholders</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a party wall agreement the same as planning permission?",
+      "a": "No. Party wall procedures, planning permission and building regulations approval are separate. You may need all three."
+    },
+    {
+      "q": "What if my neighbour ignores the notice?",
+      "a": "If they don’t respond within 14 days, a dispute is deemed to have arisen. If they then fail to appoint a surveyor after a further notice, the building owner can appoint one on their behalf."
+    }
+  ],
+  "related": [
+    "homeowners-and-builders",
+    "blog/building-regulations-dutyholders",
+    "construction-contracts"
+  ],
+  "sources": [
+    {
+      "title": "Party Wall etc. Act 1996 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/40/contents"
+    },
+    {
+      "title": "Party walls and building work (GOV.UK)",
+      "url": "https://www.gov.uk/party-walls-building-works"
+    }
+  ]
+}

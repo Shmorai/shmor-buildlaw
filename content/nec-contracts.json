@@ -69,7 +69,8 @@
   "related": [
     "construction-contracts",
     "jct-contracts",
-    "contract-administration"
+    "contract-administration",
+    "blog/jct-vs-nec"
   ],
   "sources": [
     {

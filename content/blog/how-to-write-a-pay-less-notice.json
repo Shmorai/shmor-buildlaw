@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "slug": "blog/how-to-write-a-pay-less-notice",
+  "type": "post",
+  "title": "How to Write a Valid Pay Less Notice (UK Guide)",
+  "description": "What a valid pay less notice must include, when to serve it, common mistakes that make it invalid, and example wording you can adapt for your contract.",
+  "h1": "How to write a valid pay less notice",
+  "eyebrow": "Getting paid · How-to",
+  "intro": "A pay less notice is the payer’s only way to pay less than the notified sum under a construction contract. Get the timing or content wrong and you may have to pay the full amount first. Here’s how to get it right.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Person filling in paperwork with a pen at a desk",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "keywords": [
+    "pay less notice",
+    "how to write a pay less notice",
+    "pay less notice template",
+    "pay less notice example",
+    "payless notice",
+    "valid pay less notice",
+    "section 111 notice",
+    "pay less notice deadline"
+  ],
+  "cardText": "What a pay less notice must say, when to serve it and the mistakes that make it invalid.",
+  "sections": [
+    {
+      "h2": "What the law requires",
+      "html": "<p>Under section 111 of the Housing Grants, Construction and Regeneration Act 1996, a payer who intends to pay less than the notified sum must give a notice stating <strong>the sum it considers due</strong> on the date of the notice and <strong>the basis on which that sum is calculated</strong>. The notice must be given no later than the prescribed period before the final date for payment: whatever the contract says or, under the Scheme, 7 days. See <a href=\"/construction-payments/\">how the payment rules work</a>.</p>"
+    },
+    {
+      "h2": "A checklist for a valid notice",
+      "html": "<ol><li><strong>Label it clearly</strong> as a pay less notice and refer to the contract and the payment cycle.</li>\n<li><strong>State a sum.</strong> A notice that only lists deductions, without the sum considered due, risks being invalid.</li>\n<li><strong>Show the basis of calculation:</strong> which items are valued lower and why, and any set-off (for example defects or liquidated damages), with enough detail for the payee to understand it.</li>\n<li><strong>Serve it in time</strong>, counting days as the Construction Act requires (bank holidays don’t count). Our free payment deadline calculator on the <a href=\"/construction-payments/\">payments guide</a> works this out.</li>\n<li><strong>Serve it the right way</strong>: to the address, person and by the method the contract’s notice clause requires. Keep proof.</li>\n<li><strong>Serve it from the right person:</strong> the payer, or a person the contract allows to give notices on its behalf.</li></ol>"
+    },
+    {
+      "h2": "Common mistakes",
+      "html": "<ul><li>Serving the notice a day late, often by forgetting a bank holiday or the contract’s own notice rules.</li>\n<li>Treating a payment notice as a pay less notice without saying so. A single notice can sometimes do both jobs, but only if it clearly meets both sets of requirements and is served in time.</li>\n<li>Relying on an email when the contract requires post or hand delivery.</li>\n<li>Withholding for liquidated damages without the separate notices the contract requires for deducting them.</li></ul><p>If the notice is invalid, the payer must usually pay the notified sum and then argue about value afterwards, as the Court of Appeal confirmed in <em>S&amp;T v Grove</em>. Read our <a href=\"/blog/smash-and-grab-adjudication/\">smash-and-grab adjudication explainer</a>.</p>"
+    },
+    {
+      "h2": "Example wording",
+      "html": "<p>Our <a href=\"/example-notices-and-letters/\">free example notices and letters</a> include a pay less notice you can adapt, alongside a payment notice and a notice of intention to suspend.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a pay less notice be served by email?",
+      "a": "Only if the contract allows notices by email, or the parties have agreed it. JCT 2024 lets the parties agree electronic notices. Otherwise use the method in the notice clause."
+    },
+    {
+      "q": "Can I serve a pay less notice for zero?",
+      "a": "Yes. If the payer genuinely considers nothing is due, the notice can state a sum of zero, but it must still show the basis of calculation."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "example-notices-and-letters",
+    "blog/payment-notice-vs-pay-less-notice"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/1998/649/contents"
+    },
+    {
+      "title": "S&T (UK) Ltd v Grove Developments Ltd [2018] EWCA Civ 2448 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/2448"
+    }
+  ]
+}

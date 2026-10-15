@@ -1,0 +1,71 @@
+{
+  "updated": "2026-09-26",
+  "date": "2026-09-26",
+  "slug": "blog/builder-liability-for-defects",
+  "type": "post",
+  "title": "How Long Is a Builder Liable for Defects in the UK?",
+  "description": "How long UK builders and designers stay liable for defects: rectification periods, 6 and 12 year limits, negligence and the Defective Premises Act.",
+  "h1": "How long is a builder liable for defects?",
+  "eyebrow": "Defects · Time limits",
+  "intro": "The defects period in your contract isn’t the end of the story. Depending on the claim, a builder can be liable for 6, 12, 15 or even 30 years. Here’s how the time limits fit together in England and Wales.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642799829852-4049c0a74d97",
+    "alt": "Row of chimneys and pitched roofs on brick terraced houses",
+    "credit": "Richard Bell",
+    "creditUrl": "https://unsplash.com/@maplerockdesign"
+  },
+  "keywords": [
+    "how long is a builder liable for defects",
+    "builder liability defects uk",
+    "defects liability period",
+    "rectification period",
+    "limitation period construction",
+    "defective premises act",
+    "latent defects",
+    "building defects claim time limit"
+  ],
+  "cardText": "Rectification periods, contract and negligence time limits, and the Defective Premises Act.",
+  "sections": [
+    {
+      "h2": "The time limits at a glance",
+      "html": "<table><thead><tr><th>Claim</th><th>Time limit (England and Wales)</th></tr></thead><tbody><tr><td>Rectification (defects) period</td><td>As set by the contract, often 12 months from practical completion</td></tr><tr><td>Breach of contract (signed simply)</td><td>6 years from the breach</td></tr><tr><td>Breach of contract executed as a deed</td><td>12 years from the breach</td></tr><tr><td>Negligence (latent damage)</td><td>6 years from damage, or 3 years from when it could reasonably be discovered, subject to a 15-year longstop</td></tr><tr><td>Defective Premises Act 1972, section 1 (dwellings)</td><td>15 years for claims arising from 28 June 2022; 30 years for claims that arose before then</td></tr></tbody></table><p>For a contractor, the breach is often treated as occurring at practical completion. Scotland has different prescription rules.</p>"
+    },
+    {
+      "h2": "Rectification period vs liability",
+      "html": "<p>The rectification period is a practical mechanism: the contractor returns to fix notified defects. It doesn’t usually end liability, so a client can still claim for defects found later within the limitation period. See <a href=\"/blog/what-is-practical-completion/\">what practical completion means</a>.</p>"
+    },
+    {
+      "h2": "The Defective Premises Act and building safety",
+      "html": "<p>Anyone taking on work for or in connection with providing a dwelling must do it in a workmanlike or professional manner so it is fit for habitation. The Building Safety Act 2022 extended the time limits, and the Supreme Court confirmed their reach in <em>URS v BDW</em> [2025]. Read <a href=\"/blog/urs-v-bdw-building-safety/\">our explainer</a> and the <a href=\"/key-contract-terms/\">key contract terms guide</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "My new home has defects. Who do I claim against?",
+      "a": "Usually the builder or developer under your contract or warranty first, and possibly under the Defective Premises Act. New-build warranty schemes may also cover some defects. Take advice on time limits early."
+    }
+  ],
+  "related": [
+    "key-contract-terms",
+    "blog/urs-v-bdw-building-safety",
+    "homeowners-and-builders"
+  ],
+  "sources": [
+    {
+      "title": "Limitation Act 1980 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1980/58/contents"
+    },
+    {
+      "title": "Defective Premises Act 1972 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1972/35"
+    },
+    {
+      "title": "Building Safety Act 2022 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/2022/30/contents"
+    },
+    {
+      "title": "URS Corporation Ltd v BDW Trading Ltd [2025] UKSC 21 (Find Case Law)",
+      "url": "https://caselaw.nationalarchives.gov.uk/uksc/2025/21"
+    }
+  ]
+}

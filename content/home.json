@@ -339,6 +339,21 @@
           "icon": "search",
           "title": "What’s new in JCT 2024?",
           "slug": "blog/jct-2024-whats-changed"
+        },
+        {
+          "icon": "search",
+          "title": "JCT or NEC?",
+          "slug": "blog/jct-vs-nec"
+        },
+        {
+          "icon": "search",
+          "title": "Do I need a party wall notice?",
+          "slug": "blog/party-wall-act-guide"
+        },
+        {
+          "icon": "search",
+          "title": "How long is a builder liable for defects?",
+          "slug": "blog/builder-liability-for-defects"
         }
       ]
     }

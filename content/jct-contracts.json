@@ -71,7 +71,9 @@
   "related": [
     "construction-contracts",
     "key-contract-terms",
-    "blog/jct-2024-whats-changed"
+    "blog/jct-2024-whats-changed",
+    "blog/jct-minor-works-vs-intermediate",
+    "blog/jct-vs-nec"
   ],
   "sources": [
     {

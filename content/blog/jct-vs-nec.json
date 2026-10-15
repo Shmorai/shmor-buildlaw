@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-03",
+  "date": "2026-10-03",
+  "slug": "blog/jct-vs-nec",
+  "type": "post",
+  "title": "JCT vs NEC: Which Construction Contract Is Right?",
+  "description": "JCT and NEC4 compared: language, project management, risk, payment, change and disputes, with guidance on which suits your UK construction project.",
+  "h1": "JCT vs NEC: which construction contract is right for you?",
+  "eyebrow": "Contracts · Comparison",
+  "intro": "JCT and NEC are the UK’s two leading families of construction contract. Both comply with the Construction Act and both work well, but they ask very different things of the people running them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Two people shaking hands over a paper agreement",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "keywords": [
+    "jct vs nec",
+    "nec vs jct",
+    "jct or nec",
+    "difference between jct and nec",
+    "nec4 vs jct",
+    "which construction contract",
+    "standard form construction contracts uk"
+  ],
+  "cardText": "Language, project management, risk, payment and change compared across JCT and NEC4.",
+  "sections": [
+    {
+      "h2": "Key differences",
+      "html": "<table><thead><tr><th></th><th>JCT</th><th>NEC4</th></tr></thead><tbody><tr><td><strong>Style</strong></td><td>Traditional legal drafting</td><td>Plain, present-tense language</td></tr><tr><td><strong>Management</strong></td><td>Contract administrator certifies; fewer process steps</td><td>Active management: early warnings, accepted programme, strict response times</td></tr><tr><td><strong>Change</strong></td><td>Variations valued under valuation rules; time and money assessed separately</td><td>Compensation events assessed for time and money together, using quotations</td></tr><tr><td><strong>Time bars</strong></td><td>Notice “forthwith” for delay; fewer strict time bars</td><td>8-week time bar for notifying compensation events</td></tr><tr><td><strong>Pricing options</strong></td><td>Different forms for different routes</td><td>Main Options A–F within one contract</td></tr><tr><td><strong>Typical users</strong></td><td>Private-sector building</td><td>Public sector and infrastructure, increasingly building</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Which suits you?",
+      "html": "<ul><li><strong>Choose NEC</strong> if both sides have the people and systems to run its processes, you want collaborative risk management and you value a live programme.</li>\n<li><strong>Choose JCT</strong> for many traditional building projects, where the team and supply chain know it well and you prefer a lighter administrative load.</li></ul><p>Read our guides to <a href=\"/jct-contracts/\">JCT</a> and <a href=\"/nec-contracts/\">NEC4</a>, and <a href=\"/construction-contracts/\">procurement routes</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is NEC more collaborative than JCT?",
+      "a": "NEC builds collaboration into its processes, with a duty to act in a spirit of mutual trust and co-operation. JCT has collaborative provisions too, and a Collaborative Contract form. How collaborative a project is depends mostly on the people."
+    }
+  ],
+  "related": [
+    "jct-contracts",
+    "nec-contracts",
+    "construction-contracts"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    }
+  ]
+}

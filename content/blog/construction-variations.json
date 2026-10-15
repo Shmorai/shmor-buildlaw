@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-06",
+  "date": "2026-10-06",
+  "slug": "blog/construction-variations",
+  "type": "post",
+  "title": "Construction Variations: How to Instruct and Value",
+  "description": "How variations work in UK construction contracts: what counts as a variation, written instructions, valuation rules, disputes over extras and practical tips.",
+  "h1": "Construction variations: instructing, pricing and getting paid",
+  "eyebrow": "Contract administration · Change",
+  "intro": "Change is normal on building projects. Disputes come from changes that were never properly instructed, priced or recorded. Here’s how variations work under UK contracts.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "alt": "Architect drawing a building plan with a pencil and ruler",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "keywords": [
+    "construction variations",
+    "variations construction contract",
+    "variation instruction",
+    "how to value variations",
+    "extra work builder",
+    "variation claim",
+    "jct variations",
+    "nec change",
+    "change control construction"
+  ],
+  "cardText": "What counts as a variation, how to instruct and value it, and avoiding disputes over extras.",
+  "sections": [
+    {
+      "h2": "What counts as a variation",
+      "html": "<p>Under JCT, a variation (in Design and Build, a “change”) is a change to the design, quality or quantity of the works, or to obligations or restrictions such as access, working hours or sequence. Under NEC4, an instruction changing the Scope is a compensation event. Work the contractor was always required to do isn’t a variation, so read the specification and <a href=\"/key-contract-terms/\">contract terms</a> first.</p>"
+    },
+    {
+      "h2": "Instruct it properly",
+      "html": "<ul><li>Only the person named in the contract (architect/contract administrator, employer’s agent or project manager) can instruct variations.</li>\n<li>Instructions should be in writing. If you receive one orally, <a href=\"/example-notices-and-letters/\">confirm it in writing</a> straight away.</li>\n<li>Ask for a quotation or agree a price before work starts where possible.</li></ul>"
+    },
+    {
+      "h2": "How variations are valued",
+      "html": "<p>JCT uses valuation rules: contract rates where the work is similar, adjusted rates where conditions differ, then fair rates, or daywork where appropriate, unless a quotation was accepted. NEC4 assesses compensation events by their effect on Defined Cost plus the fee, using quotations. Variations can also affect time: claim an <a href=\"/blog/extension-of-time-claims/\">extension of time</a> if they delay completion.</p>"
+    },
+    {
+      "h2": "Homeowners and extras",
+      "html": "<p>On home projects, unagreed “extras” are a top cause of disputes. Agree every change in writing, with a price, before it’s done. See <a href=\"/homeowners-and-builders/\">homeowners and builders</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to carry out a variation I disagree with?",
+      "a": "Under most standard forms, the contractor must comply with valid instructions, though it may object to some on reasonable grounds (for example, under JCT, certain changes to access or working conditions). Comply, record your objection and claim time and money."
+    }
+  ],
+  "related": [
+    "contract-administration",
+    "example-notices-and-letters",
+    "blog/extension-of-time-claims"
+  ],
+  "sources": [
+    {
+      "title": "Joint Contracts Tribunal (JCT)",
+      "url": "https://www.jctltd.co.uk/"
+    },
+    {
+      "title": "NEC Contracts",
+      "url": "https://www.neccontract.com/"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-13",
+  "date": "2026-10-13",
+  "slug": "blog/payment-notice-vs-pay-less-notice",
+  "type": "post",
+  "title": "Payment Notice vs Pay Less Notice: The Difference",
+  "description": "Payment notices and pay less notices explained side by side: who serves them, deadlines, what they must say and what happens if one is missed under UK law.",
+  "h1": "Payment notice vs pay less notice: what’s the difference?",
+  "eyebrow": "Getting paid · Explainer",
+  "intro": "They sound alike and are often confused, but payment notices and pay less notices do different jobs at different times. Mixing them up is one of the most expensive mistakes in UK construction.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Calculator on a table next to a laptop",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "keywords": [
+    "payment notice vs pay less notice",
+    "difference between payment notice and pay less notice",
+    "payment notice",
+    "pay less notice",
+    "notified sum",
+    "default payment notice",
+    "construction act notices"
+  ],
+  "cardText": "Who serves each notice, when, what it must say and what happens if one is missed.",
+  "sections": [
+    {
+      "h2": "Side by side",
+      "html": "<table><thead><tr><th></th><th>Payment notice</th><th>Pay less notice</th></tr></thead><tbody><tr><td><strong>Purpose</strong></td><td>States what the payer thinks is due at the due date</td><td>States the payer will pay less than the notified sum</td></tr><tr><td><strong>Who serves it</strong></td><td>Payer, payee or a specified person, depending on the contract</td><td>The payer (or a person allowed by the contract)</td></tr><tr><td><strong>Deadline</strong></td><td>No later than 5 days after the due date</td><td>No later than the prescribed period before the final date (7 days under the Scheme)</td></tr><tr><td><strong>Must state</strong></td><td>The sum considered due and the basis of calculation</td><td>The sum considered due when the notice is given and the basis of calculation</td></tr><tr><td><strong>Statute</strong></td><td>Section 110A</td><td>Section 111</td></tr></tbody></table>"
+    },
+    {
+      "h2": "The notified sum",
+      "html": "<p>The <strong>notified sum</strong> is the amount in the payment notice. If no payment notice is given, the payee can give a <strong>default payment notice</strong> (section 110B), or its application stands as the notice where the contract says so. The notified sum must be paid by the final date unless a valid pay less notice reduces it.</p>"
+    },
+    {
+      "h2": "What if one is missed?",
+      "html": "<ul><li><strong>No payment notice, no pay less notice:</strong> the payee’s application or default notice sum becomes payable in full by the final date.</li>\n<li><strong>Payment notice given, no pay less notice:</strong> the payer must pay the sum in its own payment notice.</li>\n<li><strong>Late pay less notice:</strong> usually ineffective, so the notified sum is payable.</li></ul><p>Unpaid payees can <a href=\"/construction-payments/\">suspend work</a> or <a href=\"/adjudication/\">adjudicate</a>. Work out the dates with the calculator on our <a href=\"/construction-payments/\">payments guide</a>.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can one notice be both a payment notice and a pay less notice?",
+      "a": "It can, if it’s served in time for both purposes and meets both sets of content requirements. Many payers serve separate notices to avoid argument."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "blog/how-to-write-a-pay-less-notice",
+    "example-notices-and-letters"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, Part II (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    },
+    {
+      "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/uksi/1998/649/contents"
+    }
+  ]
+}
