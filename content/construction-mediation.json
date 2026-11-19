@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-19",
   "slug": "construction-mediation",
   "short": "Mediation",
   "title": "Construction Mediation: How It Works and When to Use It",
@@ -48,6 +48,10 @@
       "html": "<p>The parties usually share the mediator’s fee and venue costs and pay their own legal costs. Courts in England and Wales have long been able to penalise an <strong>unreasonable refusal to mediate</strong> through costs orders (<em>Halsey v Milton Keynes</em> [2004]). In <em>Churchill v Merthyr Tydfil</em> [2023] the Court of Appeal held that courts can order parties to engage in non-court dispute resolution, and since <strong>1 October 2024</strong> the Civil Procedure Rules expressly give courts that power. For small money claims, HMCTS refers most specified money claims on the small claims track to its free <strong>Small Claims Mediation Service</strong>.</p>"
     },
     {
+      "h2": "After the mediation: turning a deal into something enforceable",
+      "html": "<p>Most mediations that settle end with a <strong>settlement agreement</strong> signed before anyone leaves, because enthusiasm fades overnight. Make sure it covers: the sum or work to be done, who pays and by when, what happens to retention and any outstanding <a href=\"/construction-payments/\">payment applications</a>, how defects or remedial works will be handled, and a clear statement that the dispute (and any live <a href=\"/adjudication/\">adjudication</a>) is settled and will be withdrawn.</p><ul><li><strong>Scope of the release:</strong> state exactly which claims are settled so a related claim doesn't resurface.</li><li><strong>Payment mechanics:</strong> dates, bank details and what happens on default, such as a consent order or agreed interest.</li><li><strong>Confidentiality:</strong> mediation discussions are normally confidential and 'without prejudice', but the signed agreement itself may need to be shown to insurers, lenders or a warranty provider.</li></ul><p>If you are unsure whether the wording achieves what you intend, a short review by a qualified professional before signing is cheap compared with reopening the dispute.</p>"
+    },
+    {
       "h2": "Finding a mediator",
       "html": "<p>Look for a mediator with construction experience, accredited by a recognised body. The <strong>Civil Mediation Council</strong> registers mediation providers and individual mediators, and construction specialists are available through bodies such as CEDR, the Chartered Institute of Arbitrators and RICS. Our <a href=\"/services/\">services page</a> explains how we can introduce you to an accredited mediator.</p><p class=\"note\"><strong>General information, not legal advice.</strong> What applies to you depends on your contract, the facts and where the work is, and the law changes. Check the sources below and take advice from a qualified professional before acting on anything that matters.</p>"
     }
@@ -64,6 +68,14 @@
     {
       "q": "Can we mediate during an adjudication?",
       "a": "Yes. Mediation can happen at any stage, including before, during or after adjudication or court proceedings. Some parties mediate after an adjudication decision to settle the remaining issues."
+    },
+    {
+      "q": "What should be in a construction mediation settlement agreement?",
+      "a": "At minimum: the parties, the claims being settled, the amount or work agreed, payment dates, treatment of retention and defects, confidentiality, and how any adjudication or court claim will be ended."
+    },
+    {
+      "q": "Do we need lawyers at a construction mediation?",
+      "a": "Not necessarily. Many commercial parties attend with their commercial or contract manager, sometimes with a lawyer or quantity surveyor on hand. Check your contract and whether the other side is legally represented."
     }
   ],
   "related": [
