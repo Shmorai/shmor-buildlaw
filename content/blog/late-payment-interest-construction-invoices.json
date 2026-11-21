@@ -1,0 +1,94 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "slug": "blog/late-payment-interest-construction-invoices",
+  "type": "post",
+  "title": "Late Payment Interest on Construction Invoices (UK)",
+  "description": "Unpaid construction invoice? How UK statutory late payment interest and fixed debt recovery costs (£40, £70, £100) work, and how they fit the Construction Act.",
+  "h1": "Late payment interest on construction invoices: what you can claim",
+  "eyebrow": "Guide · Payments",
+  "intro": "When a client or main contractor pays late, the law can add interest and a fixed fee to what you are owed. But those rights sit alongside the Construction Act's payment notice system, and your contract can change the picture. This guide explains the GOV.UK rules, as of November 2026, and where construction contracts fit. General information, not legal advice.",
+  "cardText": "Statutory interest, fixed recovery costs, when invoices become late and how to claim without damaging the relationship.",
+  "keywords": [
+    "late payment interest construction",
+    "late payment of commercial debts act construction",
+    "statutory interest unpaid invoice uk",
+    "debt recovery costs £40 £70 £100",
+    "how to charge interest on late invoices",
+    "construction invoice not paid",
+    "8% above base rate late payment",
+    "subcontractor late payment",
+    "payment terms 60 days uk",
+    "late payment act jct",
+    "chase unpaid invoice builder",
+    "construction act payment late"
+  ],
+  "sections": [
+    {
+      "h2": "What the late payment rules give you",
+      "html": "<p>Under UK late payment legislation, a business can claim <strong>statutory interest</strong> and <strong>debt recovery costs</strong> when another business pays late for goods or services, including building work. GOV.UK sets the interest at <strong>8% plus the Bank of England base rate</strong> for business-to-business transactions. GOV.UK's worked example: on £1,000 with a 0.5% base rate, annual interest is £85 (8.5%), about 23p a day. Check the Bank of England's current and previous rates for the figure that applies to your debt, and note that your contract can set a different rate.</p><p>Statutory interest is added by sending the customer a new invoice. It doesn't replace any rights you have under the contract, and it doesn't make an unpaid invoice due earlier than it would otherwise be.</p>"
+    },
+    {
+      "h2": "Fixed debt recovery costs",
+      "html": "<p>On top of interest, you can charge a fixed sum for each late payment, set by the legislation and shown on GOV.UK:</p><ul><li><strong>£40</strong> for debts up to £999.99;</li><li><strong>£70</strong> for debts from £1,000 to £9,999.99;</li><li><strong>£100</strong> for debts of £10,000 or more.</li></ul><p>You can charge once for each payment, and you may also claim reasonable costs for each attempt to recover the debt. For a builder with several late interim payments on one job, that fixed sum is per late payment, so keep a clean schedule of which invoices were paid when.</p>"
+    },
+    {
+      "h2": "When is a construction invoice actually late?",
+      "html": "<p>If a payment date is agreed, GOV.UK says it should usually fall within 60 days for business transactions (30 days for public authorities), and longer periods must be fair to both businesses. If no date is agreed, payment is late 30 days after the customer receives the invoice or after you deliver the goods or services, whichever is later.</p><p>Construction contracts under the Construction Act usually do set dates, through the due date and final date for payment. Those dates, and the notices that go with them, matter: if a valid notice isn't given, the sum can become payable as notified. Read our guides to <a href=\"/construction-payments/\">construction payments</a> and <a href=\"/blog/payment-notice-vs-pay-less-notice/\">payment notices vs pay less notices</a> before you add interest, so your claim starts from the right date and amount.</p>"
+    },
+    {
+      "h2": "What your JCT or NEC contract may say",
+      "html": "<p>Standard forms such as <a href=\"/jct-contracts/\">JCT</a> and <a href=\"/nec-contracts/\">NEC</a> contain their own provisions on late payment, and GOV.UK says statutory interest doesn't apply where the contract sets a different rate. Whether a contractual remedy is good enough to displace the statutory one is a legal question under the Late Payment of Commercial Debts (Interest) Act 1998, so take advice for large sums rather than assuming. Always look at the contract's payment clause, the interest rate in the contract particulars and any amendments before you invoice interest.</p>"
+    },
+    {
+      "h2": "Practical steps to recover the money",
+      "html": "<ol><li>Check the due date, final date for payment and whether a pay less notice was served.</li><li>Send a polite reminder citing the invoice number and due date.</li><li>Send a formal letter with the interest and fixed cost calculated; see our <a href=\"/example-notices-and-letters/\">example notices and letters</a>.</li><li>Consider <a href=\"/adjudication/\">adjudication</a>, which is a faster route than court for construction payment disputes, particularly where no valid notice was served: see <a href=\"/blog/smash-and-grab-adjudication/\">smash and grab adjudication</a>.</li></ol><p>Parliament is also considering changes to payment terms, late payment interest and retentions; our <a href=\"/blog/retention-ban-late-payments-bill/\">earlier post</a> explains what was proposed. Until anything becomes law, the rules above apply.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much interest can I charge on a late construction invoice?",
+      "a": "GOV.UK gives the statutory rate as 8% plus the Bank of England base rate for business-to-business transactions, unless your contract sets a different rate."
+    },
+    {
+      "q": "Can I charge a fixed fee for chasing a late invoice?",
+      "a": "Yes. GOV.UK lists £40 for debts up to £999.99, £70 for £1,000 to £9,999.99 and £100 for £10,000 or more, once per payment, plus reasonable recovery costs."
+    },
+    {
+      "q": "When is a payment late if there is no agreed date?",
+      "a": "GOV.UK says 30 days after the customer receives the invoice or after you deliver the goods or services, whichever is later. Construction contracts normally set specific payment dates."
+    },
+    {
+      "q": "Do I have to send a new invoice for interest?",
+      "a": "GOV.UK says that if you decide to add interest to what you are owed, you should send a new invoice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Late commercial payments, interest and debt recovery",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery"
+    },
+    {
+      "title": "GOV.UK: Charging interest on late commercial payments",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt"
+    },
+    {
+      "title": "GOV.UK: Claim debt recovery costs on late payments",
+      "url": "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/claim-debt-recovery-costs"
+    },
+    {
+      "title": "Late Payment of Commercial Debts (Interest) Act 1998",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/20/contents"
+    },
+    {
+      "title": "Bank of England: Bank Rate",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+    }
+  ],
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Building_site%2C_Walkington_%28geograph_6468565%29.jpg",
+    "alt": "A building site with a partly built structure and site fencing",
+    "credit": "Paul Harrop / CC BY-SA 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Building_site,_Walkington_(geograph_6468565).jpg"
+  }
+}
