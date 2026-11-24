@@ -1,0 +1,86 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "slug": "blog/right-to-suspend-work-non-payment",
+  "type": "post",
+  "title": "Right to Suspend Work for Non-Payment (UK Guide)",
+  "description": "Can a contractor stop work if they are not paid? How the right to suspend under section 112 of the Construction Act works: 7 days' notice, time and costs.",
+  "h1": "Right to suspend work for non-payment: what the Construction Act allows",
+  "eyebrow": "Guide · Payments",
+  "intro": "If a payment is overdue and nothing has been validly withheld, section 112 of the Construction Act can let a contractor or subcontractor stop work until it is paid. It is a powerful lever, and one that goes wrong when the notice is sloppy. This guide explains the rule as of November 2026. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1508450859948-4e04fabaa4ea",
+    "alt": "Grey concrete building frame under construction",
+    "credit": "Tolu Olubode",
+    "creditUrl": "https://unsplash.com/@toluobde"
+  },
+  "keywords": [
+    "right to suspend work non payment",
+    "section 112 construction act",
+    "suspend works for non payment uk",
+    "can a contractor stop work if not paid",
+    "notice of intention to suspend performance",
+    "seven days notice suspend construction",
+    "subcontractor not paid stop work",
+    "hgcra suspension of performance",
+    "contractor suspension costs and extension of time",
+    "unpaid interim payment builder stops work"
+  ],
+  "cardText": "When you can stop work for unpaid sums, the 7-day notice, what happens to your programme and costs, and the mistakes to avoid.",
+  "sections": [
+    {
+      "h2": "What section 112 gives you",
+      "html": "<p>Section 112 of the Housing Grants, Construction and Regeneration Act 1996 gives a party who is owed money under a qualifying construction contract the right to <strong>suspend performance</strong> of any or all of its obligations to the party in default. The right applies where a sum is due and has not been paid in full by the final date for payment, and no effective pay less notice has been given. It sits alongside your other remedies, including <a href=\"/adjudication/\">adjudication</a>, rather than replacing them (legislation.gov.uk).</p><p>It only applies to contracts the Act covers, so check first that your agreement is a qualifying construction contract. Some work, such as certain residential occupier contracts, falls outside the payment provisions.</p>"
+    },
+    {
+      "h2": "When is the right to suspend triggered?",
+      "html": "<p>Two things have to be true. First, a sum must have become due under the contract. Second, it must remain unpaid after the <strong>final date for payment</strong> with no valid <a href=\"/blog/how-to-write-a-pay-less-notice/\">pay less notice</a> reducing it. If the payer served a proper payment notice or pay less notice, you can only suspend over the amount that is actually due after that notice.</p><p>Work out the timeline before you act: when the payment application or notice was given, what the contract says about the due date and final date, and whether any notice was served on time. Our guide to <a href=\"/blog/payment-notice-vs-pay-less-notice/\">payment notices versus pay less notices</a> covers the mechanics.</p>"
+    },
+    {
+      "h2": "The notice: at least seven days",
+      "html": "<p>You cannot simply down tools. The Act requires <strong>at least seven days' notice of intention to suspend</strong>, given to the party in default, and the notice must state the ground or grounds for suspension. In practice a good notice:</p><ul><li>says it is a notice of intention to suspend under section 112 of the Act;</li><li>identifies the unpaid application or invoice, the amount and the date it was due;</li><li>states that no effective pay less notice was served (if that is your position);</li><li>gives the date suspension will start if payment is not received;</li><li>is sent in the way the contract requires, with proof of delivery.</li></ul><p>Check your contract for formal notice rules, because a notice sent to the wrong address or by the wrong method invites argument. See the <a href=\"/example-notices-and-letters/\">free example notices and letters</a> for wording ideas.</p>"
+    },
+    {
+      "h2": "What happens to time and costs while you are suspended",
+      "html": "<p>The Act deals with this directly. The period of suspension is <strong>disregarded</strong> when working out any contractual time limit for completing the work affected, so your completion date should move by the suspension period (including time taken by a third party who is affected, such as a subcontractor further down the chain). The party in default must also pay a <strong>reasonable amount for costs and expenses</strong> you reasonably incur because of the suspension, such as demobilising and remobilising.</p><p>Keep a record of those costs from day one, and cross-check your <a href=\"/blog/extension-of-time-claims/\">extension of time</a> notices under the contract so that the programme impact is not lost on a technicality.</p>"
+    },
+    {
+      "h2": "Ending the suspension and avoiding common mistakes",
+      "html": "<p>The right to suspend ends when the party in default pays the full sum due. Resume work promptly after that, and tell the other side in writing when you will be back on site, since practical re-start takes time.</p><ul><li><strong>Suspending too early.</strong> Starting before seven days have passed can leave you in breach and open to a claim.</li><li><strong>Ignoring a valid pay less notice.</strong> Suspension only protects you for sums genuinely due.</li><li><strong>Suspending everything unnecessarily.</strong> The right covers any or all obligations, but safety and security of the site still need thought.</li><li><strong>Not considering alternatives.</strong> Adjudication, covered in our <a href=\"/construction-payments/\">construction payments guide</a>, can recover the money rather than only pausing work.</li></ul><p>Because the stakes are high, many contractors take advice before serving a notice.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much notice must I give before suspending work?",
+      "a": "At least seven days' notice of intention to suspend, given to the party in default and stating the ground or grounds for suspension, as of November 2026."
+    },
+    {
+      "q": "Do I still get paid for the delay caused by suspending?",
+      "a": "The suspension period is disregarded when calculating contractual time limits for the affected work, and the party in default must pay reasonable costs and expenses you reasonably incur because of it."
+    },
+    {
+      "q": "Can I suspend if the client served a pay less notice?",
+      "a": "Only for the part that is still due. An effective pay less notice reduces the sum payable, so suspension must rest on an amount that remains unpaid after the final date for payment."
+    },
+    {
+      "q": "Is suspension the same as terminating the contract?",
+      "a": "No. Suspension is a temporary pause that ends when the sum is paid. Termination is a separate step governed by the contract and general law."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "adjudication",
+    "blog/how-to-write-a-pay-less-notice",
+    "blog/payment-notice-vs-pay-less-notice"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 112 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/112"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 111 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/111"
+    }
+  ]
+}
