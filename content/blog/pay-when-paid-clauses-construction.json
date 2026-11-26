@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "slug": "blog/pay-when-paid-clauses-construction",
+  "type": "post",
+  "title": "Pay When Paid Clauses in Construction: Are They Legal?",
+  "description": "Are pay when paid clauses legal in UK construction? How section 113 of the Construction Act bans most conditional payment terms, and the insolvency exception.",
+  "h1": "Pay when paid clauses: what the Construction Act says",
+  "eyebrow": "Guide · Payments",
+  "intro": "\"We'll pay you when the client pays us.\" Subcontractors hear it constantly, and many contracts still contain a version of it. In most UK construction contracts it does not work. This guide explains the rule in section 113 of the Construction Act, the one big exception, and what to do if you are told you must wait. Position as of November 2026. General information, not legal advice.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Calculator and pen resting on a sheet of paper",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "keywords": [
+    "pay when paid clause",
+    "pay when paid construction uk",
+    "pay if paid clause",
+    "section 113 construction act",
+    "conditional payment provisions construction",
+    "subcontractor waiting for payment from client",
+    "pay when certified clause",
+    "pay when paid clause legal",
+    "construction act pay when paid ban",
+    "scheme for construction contracts payment"
+  ],
+  "cardText": "Pay when paid and pay if paid clauses: when they are ineffective, the insolvency exception, and what subcontractors can do.",
+  "sections": [
+    {
+      "h2": "What is a pay when paid clause?",
+      "html": "<p>A <strong>pay when paid</strong> clause makes a contractor's duty to pay a subcontractor depend on the contractor first being paid by the employer (or whoever sits above them in the chain). Lawyers also talk about <strong>pay if paid</strong>, where payment is conditional on the money actually arriving, and the practical effect for the subcontractor is the same: no money in from above, no money out to you.</p><p>These clauses were once common because they pass the employer's payment risk down the chain. Parliament decided that was unfair to the businesses at the bottom, and legislated against them.</p>"
+    },
+    {
+      "h2": "Are pay when paid clauses legal? Section 113 explained",
+      "html": "<p>Section 113 of the Housing Grants, Construction and Regeneration Act 1996 (the Construction Act) says that a provision making payment under a construction contract conditional on the payer receiving payment from a third person is <strong>ineffective</strong>. The clause does not make the whole contract void. It simply cannot be relied on to delay or defeat payment (legislation.gov.uk).</p><p>Where a clause is ineffective, the parties can agree other payment terms. If they do not, the fallback payment provisions of the Scheme for Construction Contracts apply, which sit alongside the rules in our guide to <a href=\"/construction-payments/\">construction payments</a>.</p><p>The ban applies to contracts the Act covers, so first check whether yours is a qualifying construction contract. Some contracts, such as certain agreements with residential occupiers, fall outside the payment provisions.</p>"
+    },
+    {
+      "h2": "The exception: when the third party is insolvent",
+      "html": "<p>There is one important exception. A conditional payment clause can still work if the third person whose payment is the condition is <strong>insolvent</strong>. Section 113 defines insolvency for this purpose. For a company it covers administration, an administrative receiver or other receiver being appointed, a creditors' voluntary winding-up resolution, and a winding-up order. Separate wording covers partnerships and individuals.</p><p>So a clause that says \"payment is conditional on our receipt of funds from the employer\" may bite if the employer has gone into one of those listed insolvency events, but not because the employer is merely slow, disputing the account or refusing to pay. Because the definition is tied to specific events, a poorly drafted clause that does not track the statute can fail even in an insolvency. If you are in this position, read our guide on <a href=\"/blog/contractor-insolvency/\">contractor insolvency</a> and take advice on your particular clause.</p>"
+    },
+    {
+      "h2": "Pay when certified and other workarounds",
+      "html": "<p>Some contracts try to get close to pay when paid without using those words. The Act has a related rule in section 110: a contract does not provide an adequate payment mechanism where it makes payment conditional on the performance of obligations under <em>another</em> contract, or on someone's decision about whether those obligations have been performed (section 110(1A), for contracts entered into on or after 1 October 2011). The Act carves out a narrower case for obligations on a subcontractor to carry out its own operations, and it also says a payment due date cannot depend on the payee giving a notice about what is due.</p><p>Whether a particular wording is caught turns on how the clause is drafted and the facts. If a payment term looks like an attempt to make you wait for someone else, do not assume it is valid just because it is in the signed contract. Where a term fails the adequacy test, the Scheme for Construction Contracts supplies the missing payment provisions.</p>"
+    },
+    {
+      "h2": "What to do if you are told you have to wait",
+      "html": "<ul><li><strong>Check the contract's payment timetable</strong>: due date, payment notice and final date for payment, as in our guide to <a href=\"/blog/payment-notice-vs-pay-less-notice/\">payment notices versus pay less notices</a>.</li><li><strong>Ask for the basis in writing.</strong> If the answer is \"the client has not paid us\", note it. That is not a valid pay less notice.</li><li><strong>Look at your remedies.</strong> An unpaid sum may allow you to give notice to <a href=\"/blog/right-to-suspend-work-non-payment/\">suspend work</a>, claim <a href=\"/blog/late-payment-interest-construction-invoices/\">late payment interest</a>, or start <a href=\"/adjudication/\">adjudication</a>.</li><li><strong>Keep records</strong> of your application, the dates and any correspondence.</li></ul><p>If the amount is large or the contract is complex, speak to a construction solicitor or an adjudication specialist before acting.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a pay when paid clause legal in the UK?",
+      "a": "In a construction contract covered by the Construction Act, a clause making payment conditional on the payer receiving payment from a third party is ineffective under section 113, unless that third party is insolvent, as of November 2026."
+    },
+    {
+      "q": "What happens if a pay when paid clause is ineffective?",
+      "a": "The parties can agree other payment terms. If they have not, the Scheme for Construction Contracts fills the gap with default payment provisions."
+    },
+    {
+      "q": "Does the insolvency exception cover a client who simply will not pay?",
+      "a": "No. The exception relies on the specific insolvency events listed in section 113, such as administration or a winding-up order, not on late payment or a dispute."
+    },
+    {
+      "q": "Does the ban apply to every contract?",
+      "a": "Only to contracts the Construction Act covers. Some contracts, including certain agreements with residential occupiers, are outside the payment provisions, so check before relying on the rule."
+    }
+  ],
+  "related": [
+    "construction-payments"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 113 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/113"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 110 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/110"
+    }
+  ]
+}
