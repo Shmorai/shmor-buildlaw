@@ -1,0 +1,86 @@
+{
+  "updated": "2026-11-28",
+  "date": "2026-11-28",
+  "slug": "blog/does-the-construction-act-apply-to-my-job",
+  "type": "post",
+  "title": "Does the Construction Act Apply to My Job? UK Guide",
+  "description": "Does the Construction Act apply to my job? What counts as construction operations, what is excluded, and how the residential occupier exemption works.",
+  "h1": "Does the Construction Act apply to your job?",
+  "eyebrow": "Guide · Contracts and payments",
+  "intro": "Rights such as adjudication, stage payments, payment notices and the ban on pay when paid clauses all come from the Construction Act. They only help if your contract is covered. This guide explains how to check, using the wording of the Act itself, as of November 2026. It is general information, not legal advice, and it is written mainly for England and Wales.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564846824194-346b7871b855",
+    "alt": "Person writing on a white printed form with a pen",
+    "credit": "Leon Seibert",
+    "creditUrl": "https://unsplash.com/@yapics"
+  },
+  "keywords": [
+    "does the construction act apply",
+    "construction act 1996 what is covered",
+    "construction operations definition",
+    "construction contract definition uk",
+    "residential occupier exemption construction act",
+    "hgcra section 105",
+    "is my contract a construction contract",
+    "construction act domestic work",
+    "can i adjudicate a home extension",
+    "construction act exclusions",
+    "scheme for construction contracts when applies"
+  ],
+  "cardText": "What counts as a construction contract, what the Act excludes, and why work for a homeowner living in the property is usually outside it.",
+  "sections": [
+    {
+      "h2": "Why it matters whether the Act applies",
+      "html": "<p>The Housing Grants, Construction and Regeneration Act 1996, usually called the <strong>Construction Act</strong>, gives parties to a covered contract a set of protections that cannot be contracted out of. They include the right to refer a dispute to <a href=\"/adjudication/\">adjudication</a> at any time, the right to <a href=\"/construction-payments/\">interim payments</a> for longer jobs, notice requirements for payment, and a ban on most conditional payment terms (see our guide to <a href=\"/blog/pay-when-paid-clauses-construction/\">pay when paid clauses</a>).</p><p>If a contract falls outside the Act, those rights do not apply automatically. You are left with what the contract says and ordinary contract law. So the first question on any payment problem is whether the job counts as <em>construction operations</em> and whether an exclusion applies.</p>"
+    },
+    {
+      "h2": "What counts as construction operations",
+      "html": "<p>Section 105 of the Act lists the work it covers. In summary, it includes:</p><ul><li>constructing, altering, repairing, maintaining, extending, demolishing or dismantling buildings and structures that form part of the land;</li><li>the same work on other land works such as walls, roads, railways, sewers and reservoirs;</li><li>installing fittings in a building or structure, such as heating, lighting, drainage, water supply, security or communications systems;</li><li>cleaning buildings during construction or repair work;</li><li>preparatory and finishing work, including site clearance, excavation, scaffolding and landscaping;</li><li>painting or decorating internal or external surfaces.</li></ul><p>That is wider than many people expect. A groundworker, a scaffolder, an electrician and a decorator are all doing covered work. The contract does not need to be called a <a href=\"/construction-contracts/\">construction contract</a>; what matters is the work.</p>"
+    },
+    {
+      "h2": "What the Act excludes",
+      "html": "<p>Section 105(2) takes certain work out. In summary, the following are not construction operations:</p><ul><li>drilling for, or extracting, oil or natural gas;</li><li>mineral extraction and related tunnelling, boring or underground works;</li><li>assembling, installing or demolishing plant or machinery (and related steelwork) on sites whose main activity is nuclear processing, power generation, water or effluent treatment, or chemical, pharmaceutical, oil, gas, steel or food and drink production, processing or bulk storage other than warehousing;</li><li>manufacturing components or materials, or delivering them to site, unless the contract also covers installing them;</li><li>making, installing or repairing wholly artistic works such as sculptures and murals.</li></ul><p>The last two matter most for small firms. A supplier who only delivers bricks or timber to site is outside the Act. A contract that includes fixing those materials is inside it.</p>"
+    },
+    {
+      "h2": "The residential occupier exemption",
+      "html": "<p>Section 106 excludes a construction contract with a <strong>residential occupier</strong> from the Act's payment and adjudication provisions. Under the section, that is a contract that principally relates to operations on a dwelling which one of the parties occupies, or intends to occupy as a residence. A dwelling means a house or a flat; the Act says a dwelling-house does not include a building containing a flat.</p><p>In practice, a homeowner who hires a builder for an extension to the house they live in is usually not covered, so the homeowner cannot be forced into statutory adjudication and the builder cannot rely on the Act's payment rules. Landlords, developers and people building to sell or let are not residential occupiers in this sense. Our page for <a href=\"/homeowners-and-builders/\">homeowners and builders</a> explains what protections remain.</p>"
+    },
+    {
+      "h2": "How to check your own contract",
+      "html": "<ol><li>Describe the work in one sentence. Is it construction, alteration, repair, installation or finishing work in section 105(1)?</li><li>Check the exclusions: is it only supply of materials, or specialised plant work on a listed process site?</li><li>Ask who the other party is. If they are a homeowner living in, or planning to live in, the property, the section 106 exemption is likely to apply.</li><li>Check where the work is. This guide covers England and Wales; Scotland and Northern Ireland have their own versions of the rules.</li></ol><p>If the answer is unclear, get advice before serving notices or starting adjudication, because a referral to a body with no jurisdiction wastes time and money.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the Construction Act apply to domestic work?",
+      "a": "Not if the client is a residential occupier under section 106, meaning the work is principally on a dwelling they occupy or intend to occupy. Work for landlords, developers or businesses is not covered by that exemption."
+    },
+    {
+      "q": "Does the Act apply to a supply-only contract?",
+      "a": "Generally no. Section 105 excludes manufacturing components or materials, or delivering them to site, unless the contract also covers installing them."
+    },
+    {
+      "q": "Do the rules apply to subcontractors?",
+      "a": "Yes, a subcontract for covered work is itself a construction contract, provided no exclusion applies to that work or the parties."
+    },
+    {
+      "q": "Is the Act the same in Scotland?",
+      "a": "No. Scotland and Northern Ireland have their own legislation, so check the rules for where the work is done."
+    }
+  ],
+  "related": [
+    "construction-payments",
+    "adjudication",
+    "homeowners-and-builders"
+  ],
+  "sources": [
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 105 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/105"
+    },
+    {
+      "title": "Housing Grants, Construction and Regeneration Act 1996, section 106 (legislation.gov.uk)",
+      "url": "https://www.legislation.gov.uk/ukpga/1996/53/section/106"
+    }
+  ]
+}
